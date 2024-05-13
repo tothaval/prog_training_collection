@@ -1,0 +1,15 @@
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\bin\Debug\ColorPickerTool.exe.config
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\bin\Debug\ColorPickerTool.exe
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\bin\Debug\ColorPickerTool.pdb
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\MainWindow.g.cs
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\App.g.cs
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool_MarkupCompile.cache
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool_MarkupCompile.lref
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\MainWindow.baml
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.g.resources
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.exe
+E:\Programmierung\Sourcecodes C#\ColorPickerTool\obj\Debug\ColorPickerTool.pdb

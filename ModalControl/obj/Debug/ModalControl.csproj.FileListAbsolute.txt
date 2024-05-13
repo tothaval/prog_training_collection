@@ -1,0 +1,13 @@
+E:\Programmierung\Sourcecodes C#\ModalControl\bin\Debug\ModalControl.dll
+E:\Programmierung\Sourcecodes C#\ModalControl\bin\Debug\ModalControl.pdb
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl_MarkupCompile.cache
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl_MarkupCompile.lref
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\Themes\Generic.baml
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.g.resources
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.dll
+E:\Programmierung\Sourcecodes C#\ModalControl\obj\Debug\ModalControl.pdb

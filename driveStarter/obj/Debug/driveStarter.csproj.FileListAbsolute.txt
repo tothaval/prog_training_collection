@@ -1,0 +1,14 @@
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.driveStarter.resources
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\driveStarter\bin\Debug\driveStarter.exe.config
+E:\Programmierung\Sourcecodes C#\driveStarter\bin\Debug\driveStarter.exe
+E:\Programmierung\Sourcecodes C#\driveStarter\bin\Debug\driveStarter.pdb
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.exe
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.pdb
+E:\Programmierung\Sourcecodes C#\driveStarter\bin\Debug\driveStarter.exe.manifest
+E:\Programmierung\Sourcecodes C#\driveStarter\bin\Debug\driveStarter.application
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.exe.manifest
+E:\Programmierung\Sourcecodes C#\driveStarter\obj\Debug\driveStarter.application

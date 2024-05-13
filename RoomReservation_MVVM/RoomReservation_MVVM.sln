@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomReservation_MVVM", "RoomReservation_MVVM.csproj", "{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7EF18DF-0242-49D4-A754-AA25DDA626C6}
+	EndGlobalSection
+EndGlobal

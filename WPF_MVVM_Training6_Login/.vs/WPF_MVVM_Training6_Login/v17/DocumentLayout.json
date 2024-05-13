@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\commands\\backcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:commands\\backcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\stores\\modalnavigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:stores\\modalnavigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\services\\modalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\modalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\commands\\logoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:commands\\logoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\services\\compositnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\compositnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\commands\\userlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:commands\\userlogincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\services\\closemodalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\closemodalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training6_login\\viewmodels\\navigationbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\navigationbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\services\\parameternavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\parameternavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\services\\layoutnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\layoutnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725ACB5D-EDDB-470C-B31E-93819C10542F}|..\\ModalControl\\ModalControl.csproj|e:\\programmierung\\sourcecodes c#\\modalcontrol\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725ACB5D-EDDB-470C-B31E-93819C10542F}|..\\ModalControl\\ModalControl.csproj|e:\\programmierung\\sourcecodes c#\\modalcontrol\\modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\layoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\layoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\stores\\accountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:stores\\accountstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\components\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:components\\navigationbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:views\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B048B57B-2269-4E5B-9631-3849B5194CD4}|WPF_MVVM_Training6_Login.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackCommand.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\BackCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\BackCommand.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\BackCommand.cs",
+              "RelativeToolTip": "Commands\\BackCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:50:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompositNavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\CompositNavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\CompositNavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\CompositNavigationService.cs",
+              "RelativeToolTip": "Services\\CompositNavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:34:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloseModalNavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\CloseModalNavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\CloseModalNavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\CloseModalNavigationService.cs",
+              "RelativeToolTip": "Services\\CloseModalNavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:22:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModalNavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\ModalNavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\ModalNavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\ModalNavigationService.cs",
+              "RelativeToolTip": "Services\\ModalNavigationService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:09:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModalNavigationStore.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\ModalNavigationStore.cs",
+              "RelativeDocumentMoniker": "Stores\\ModalNavigationStore.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\ModalNavigationStore.cs",
+              "RelativeToolTip": "Stores\\ModalNavigationStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:56:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Modal.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\ModalControl\\Modal.cs",
+              "RelativeDocumentMoniker": "..\\ModalControl\\Modal.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\ModalControl\\Modal.cs",
+              "RelativeToolTip": "..\\ModalControl\\Modal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:10:18.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:02:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\ModalControl\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "..\\ModalControl\\Themes\\Generic.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\ModalControl\\Themes\\Generic.xaml",
+              "RelativeToolTip": "..\\ModalControl\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T09:57:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavigationStore.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\NavigationStore.cs",
+              "RelativeDocumentMoniker": "Stores\\NavigationStore.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\NavigationStore.cs",
+              "RelativeToolTip": "Stores\\NavigationStore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:30:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogoutCommand.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\LogoutCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\LogoutCommand.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\LogoutCommand.cs",
+              "RelativeToolTip": "Commands\\LogoutCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:14:33.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LayoutNavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\LayoutNavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\LayoutNavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\LayoutNavigationService.cs",
+              "RelativeToolTip": "Services\\LayoutNavigationService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:32:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\INavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\INavigationService.cs",
+              "RelativeToolTip": "Services\\INavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:22:38.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Layout.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Components\\Layout.xaml",
+              "RelativeDocumentMoniker": "Components\\Layout.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Components\\Layout.xaml",
+              "RelativeToolTip": "Components\\Layout.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T07:10:46.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LayoutViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\LayoutViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LayoutViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\LayoutViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LayoutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:09:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NavigationBar.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Components\\NavigationBar.xaml",
+              "RelativeDocumentMoniker": "Components\\NavigationBar.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Components\\NavigationBar.xaml",
+              "RelativeToolTip": "Components\\NavigationBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T06:30:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavigationBarViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\NavigationBarViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NavigationBarViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\NavigationBarViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NavigationBarViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:09:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountStore.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\AccountStore.cs",
+              "RelativeDocumentMoniker": "Stores\\AccountStore.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Stores\\AccountStore.cs",
+              "RelativeToolTip": "Stores\\AccountStore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:58:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:53:34.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ParameterNavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\ParameterNavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\ParameterNavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\ParameterNavigationService.cs",
+              "RelativeToolTip": "Services\\ParameterNavigationService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBAAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:48:08.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:17:32.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\NavigationService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Services\\NavigationService.cs",
+              "RelativeToolTip": "Services\\NavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:18:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AccountViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\AccountViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AccountViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:07:03.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\AccountView.xaml",
+              "RelativeDocumentMoniker": "Views\\AccountView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\AccountView.xaml",
+              "RelativeToolTip": "Views\\AccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T20:05:10.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLoginCommand.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\UserLoginCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\UserLoginCommand.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\UserLoginCommand.cs",
+              "RelativeToolTip": "Commands\\UserLoginCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:58:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:45:20.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T19:51:42.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:42:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:42:16.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T19:35:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Views\\HomeView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T19:35:36.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:35:07.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\NavigateCommand.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training6_Login\\Commands\\NavigateCommand.cs",
+              "RelativeToolTip": "Commands\\NavigateCommand.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:30:50.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

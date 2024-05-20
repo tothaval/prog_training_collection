@@ -3,7 +3,7 @@
     using System;
     using System.ComponentModel;
 
-    public class Customer : INotifyPropertyChanged
+    public class Customer : INotifyPropertyChanged, IDataErrorInfo
     {
         /// <summary>
         /// initialize a new instance of the Customer class
@@ -31,24 +31,6 @@
             }
         }
 
-        private string _Output;
-
-        /// <summary>
-        /// gets or sets the customers name
-        /// </summary>
-        public string Output
-        {
-            get
-            {
-                return _Output;
-            }
-            set
-            {
-                _Output = value;
-                OnPropertyChanged("Output");
-            }
-        }
-
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
@@ -61,5 +43,35 @@
                 handler(this, new PropertyChangedEventArgs(name));
             }
         }
+
+
+        public string Error
+        {
+            get;
+            private set;
+        }
+            
+
+        public string this[string columnName]
+        {
+            get
+            {
+                if (columnName == "Name")
+                {
+                    if (String.IsNullOrWhiteSpace(Name))
+                    {
+                        Error = "Name cannot be null or empty.";
+                    }
+                    else
+                    {
+                        Error = null;
+                    }
+                };
+
+                return Error;
+            }
+
+        }
+        
     }
 }

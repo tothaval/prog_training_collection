@@ -26,7 +26,7 @@ namespace MVVM_Trial3.Commands
 
         public bool CanExecute(object? parameter)
         {
-            return _ViewModel.CanUpdate;
+            return String.IsNullOrWhiteSpace(_ViewModel.Customer.Error);
         }
 
         public void Execute(object? parameter)

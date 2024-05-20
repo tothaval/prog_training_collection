@@ -9,7 +9,7 @@
         x:Name="ExampleMainWindowName"
         mc:Ignorable="d"
         Title="MVVM Template" Height="450" Width="800">
-    <Grid>
+    <Grid Background="AntiqueWhite">
         <Grid.Resources>
             <DataTemplate DataType="{x:Type vms:ExampleViewModel}">
                 <views:ExampleView/>
@@ -20,6 +20,24 @@
             </DataTemplate>
         </Grid.Resources>
 
-        <ContentControl Content="{Binding CurrentViewModel}"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.25*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        
+            <StackPanel Background="Beige"
+                        Grid.Column="0">
+                <RadioButton x:Name="RB_1" Content="1" Checked="RB_1_Checked"/>
+                <RadioButton x:Name="RB_2" Content="2" Checked="RB_2_Checked"/>
+                <RadioButton x:Name="RB_3" Content="3" Checked="RB_3_Checked"/>
+            </StackPanel>
+
+            <ContentControl Grid.Column="1" x:Name="CC"/>
+        
+
+        <ContentControl Content="{Binding CurrentViewModel}"
+                        Grid.Column="2"/>
     </Grid>
 </Window>

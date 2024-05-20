@@ -7,41 +7,31 @@ namespace MVVM_Trial3.ViewModels
     using System.Windows.Input;
     using MVVM_Trial3.Commands;
     using MVVM_Trial3.Models;
+    using MVVM_Trial3.Views;
 
     internal class CustomerViewModel
     {
+        private Customer _customer;
+        private CustomerInfoViewModel childViewModel;
+
         /// <summary>
         /// Initializes a new instance of the CustomerViewModel class.
         /// </summary>
         public CustomerViewModel()
         {
             _customer = new Customer("Stephan");
+            
+            childViewModel = new CustomerInfoViewModel() {
+                Info = "Instantiated in CustomerViewModel() ctor."};
+
             UpdateCommand = new CustomerUpdateCommand(this);
         }
 
 
         /// <summary>
-        /// gets or sets a system.boolean value indicating whether the Customer can be updated.
+        /// gets the Customer instance
         /// </summary>
-        public bool CanUpdate {
-            get
-            {
-                if (customer == null)
-                {
-                    return false;
-                }
-
-                return !String.IsNullOrWhiteSpace(customer.Name);
-            }  
-        }
-
-
-        private Customer _customer;
-
-        /// <summary>
-        /// gets the customer instance
-        /// </summary>
-        public Customer customer
+        public Customer Customer
         {
             get
             {
@@ -52,7 +42,7 @@ namespace MVVM_Trial3.ViewModels
                 _customer = value;
             }
         }
-        
+
         /// <summary>
         /// gets the UpdateCommand for the ViewModel
         /// </summary>
@@ -67,8 +57,12 @@ namespace MVVM_Trial3.ViewModels
         /// </summary>
         public void SaveChanges()
         {
-            _customer.Output = _customer.Name;
-            //Debug.Assert(false, String.Format("{0} was updated.", customer.Name));
+            CustomerInfoView view = new CustomerInfoView();
+            view.DataContext = childViewModel;
+
+            //childViewModel.Info = Customer.Name + " was updated in the database.";
+
+            view.ShowDialog();
         }
     }
 }

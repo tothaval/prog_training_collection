@@ -4,15 +4,38 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MVVM_Trial3"
+        xmlns:ViewModels="clr-namespace:MVVM_Trial3.ViewModels"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <ViewModels:CarViewModel  x:Key="DataContext"/>
+    </Window.Resources>
+    
+    
     <StackPanel Orientation="Vertical">
         <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
             <Label>Customer name:</Label>
-            <TextBox Text="{Binding customer.Name, UpdateSourceTrigger=PropertyChanged}" Width="136"/>
-            <Button Command="{Binding UpdateCommand}">Update</Button>
+            <TextBox Text="{Binding Customer.Name,
+                UpdateSourceTrigger=PropertyChanged,
+                ValidatesOnDataErrors=True}" Width="136"/>
+            <Button Command="{Binding UpdateCommand}">Update</Button>                        
         </StackPanel>
 
-        <TextBlock Text="{Binding customer.Output}"/>
+                <Grid DataContext="{StaticResource DataContext}"
+                      Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBox Name="CarName"  Text="{Binding Car.MyCar, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}"
+                     Validation.ErrorTemplate="{x:Null}"
+                     Validation.ValidationAdornerSite="{Binding ElementName=AdornerSite}"/>
+            <Label Name="AdornerSite" Grid.Row="1" Content="{Binding ElementName=CarName, Path=(Validation.Errors).CurrentItem.ErrorContent}"
+                   Foreground="DarkRed" FontWeight="Bold"/>
+            <Label Grid.Row="2" Content="{Binding ElementName=CarName, Path=(Validation.Errors).CurrentItem.ErrorContent}"
+                   Foreground="DarkRed" FontWeight="Bold"/>
+        </Grid>
     </StackPanel>
 </Window>

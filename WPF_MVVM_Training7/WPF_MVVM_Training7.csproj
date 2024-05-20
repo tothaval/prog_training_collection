@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\home.png" />
+    <None Remove="Views\home_transparent.png" />
+    <None Remove="Views\Mandel_zoom_08_satellite_antenna.jpg" />
+    <None Remove="Views\next_transparent.png" />
+    <None Remove="Views\reload_transparent.png" />
+    <None Remove="Views\search_transparent.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Views\home.png" />
+    <Resource Include="Views\home_transparent.png" />
+    <Resource Include="Views\Mandel_zoom_08_satellite_antenna.jpg" />
+    <Resource Include="Views\next_transparent.png" />
+    <Resource Include="Views\reload_transparent.png" />
+    <Resource Include="Views\search_transparent.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Icons\" />
+  </ItemGroup>
+
+</Project>

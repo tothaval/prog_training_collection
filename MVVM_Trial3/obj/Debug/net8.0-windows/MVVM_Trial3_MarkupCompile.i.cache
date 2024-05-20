@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\Programmierung\Sourcecodes C#\MVVM_Trial3\App.xaml
-11407045341
+2193597062
 
-9969913012
+131369197192
 1981451641563
-MainWindow.xaml;
+MainWindow.xaml;Views\CustomerInfoView.xaml;
 
-False
+True
 

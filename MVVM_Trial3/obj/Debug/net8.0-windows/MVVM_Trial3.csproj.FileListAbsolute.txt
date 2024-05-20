@@ -18,3 +18,6 @@ E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\refint\MVV
 E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\MVVM_Trial3.pdb
 E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\MVVM_Trial3.genruntimeconfig.cache
 E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\ref\MVVM_Trial3.dll
+E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\Views\CustomerInfoView.g.cs
+E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\Views\CustomerInfoView.baml
+E:\Programmierung\Sourcecodes C#\MVVM_Trial3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

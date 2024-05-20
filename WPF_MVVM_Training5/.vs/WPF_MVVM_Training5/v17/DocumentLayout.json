@@ -3,23 +3,59 @@
   "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\viewmodels\\targetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:viewmodels\\targetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\usercontrol3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\usercontrol3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\viewmodels\\exampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:viewmodels\\exampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\viewmodels\\targetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:viewmodels\\targetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\navigation\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:navigation\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|e:\\programmierung\\sourcecodes c#\\wpf_mvvm_training5\\views\\targetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\targetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\targetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -29,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\views\\exampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:views\\exampleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC9787F-1407-4218-BE37-2B2805455EAC}|WPF_MVVM_Training5.csproj|E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\commands\\commandexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +78,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserControl1.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl1.xaml.cs",
+              "RelativeToolTip": "Views\\UserControl1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:36:15.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl2.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl2.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserControl2.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl2.xaml.cs",
+              "RelativeToolTip": "Views\\UserControl2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:36:00.024Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UserControl3.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl3.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserControl3.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl3.xaml.cs",
+              "RelativeToolTip": "Views\\UserControl3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:35:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:30:22.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl3.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl3.xaml",
+              "RelativeDocumentMoniker": "Views\\UserControl3.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl3.xaml",
+              "RelativeToolTip": "Views\\UserControl3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T13:43:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl2.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl2.xaml",
+              "RelativeDocumentMoniker": "Views\\UserControl2.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl2.xaml",
+              "RelativeToolTip": "Views\\UserControl2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T13:43:43.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "Views\\UserControl1.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\UserControl1.xaml",
+              "RelativeToolTip": "Views\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T13:43:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ExampleView.xaml",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\ExampleView.xaml",
               "RelativeDocumentMoniker": "Views\\ExampleView.xaml",
@@ -65,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "CommandExample.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Commands\\CommandExample.cs",
               "RelativeDocumentMoniker": "Commands\\CommandExample.cs",
@@ -77,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -89,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "NavigationStore.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Navigation\\NavigationStore.cs",
               "RelativeDocumentMoniker": "Navigation\\NavigationStore.cs",
@@ -97,12 +206,11 @@
               "RelativeToolTip": "Navigation\\NavigationStore.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:36:29.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:36:29.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "NavigateCommand.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Commands\\NavigateCommand.cs",
               "RelativeDocumentMoniker": "Commands\\NavigateCommand.cs",
@@ -110,12 +218,11 @@
               "RelativeToolTip": "Commands\\NavigateCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:35:35.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:35:35.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "TargetViewModel.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\TargetViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\TargetViewModel.cs",
@@ -123,56 +230,54 @@
               "RelativeToolTip": "ViewModels\\TargetViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:33:16.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:33:16.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "TargetView.xaml",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\TargetView.xaml",
               "RelativeDocumentMoniker": "Views\\TargetView.xaml",
               "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\Views\\TargetView.xaml",
               "RelativeToolTip": "Views\\TargetView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T18:30:48.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:30:48.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ExampleViewModel.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\ExampleViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ExampleViewModel.cs",
               "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\ExampleViewModel.cs",
               "RelativeToolTip": "ViewModels\\ExampleViewModel.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAACVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAACYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:30:10.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:30:10.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:43:11.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T11:44:25.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training5\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T11:43:11.59Z"
+              "WhenOpened": "2024-05-11T11:44:25.978Z",
+              "EditorCaption": ""
             }
           ]
         }

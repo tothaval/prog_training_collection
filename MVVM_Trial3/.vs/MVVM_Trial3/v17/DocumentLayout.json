@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|e:\\programmierung\\sourcecodes c#\\mvvm_trial3\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|e:\\programmierung\\sourcecodes c#\\mvvm_trial3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|e:\\programmierung\\sourcecodes c#\\mvvm_trial3\\viewmodels\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:viewmodels\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -15,12 +19,24 @@
       "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\viewmodels\\customerinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:viewmodels\\customerinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\views\\customerinfoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:views\\customerinfoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\commands\\customerupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:commands\\customerupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|e:\\programmierung\\sourcecodes c#\\mvvm_trial3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3DB90E11-BFC8-4953-B380-35DD91EC3536}|MVVM_Trial3.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +46,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CarViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CarViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CarViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:01:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-18T11:55:38.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAE0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:25:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerInfoView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Views\\CustomerInfoView.xaml",
+              "RelativeDocumentMoniker": "Views\\CustomerInfoView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Views\\CustomerInfoView.xaml",
+              "RelativeToolTip": "Views\\CustomerInfoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T11:02:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerInfoViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerInfoViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerInfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:43:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CustomerUpdateCommand.cs",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Commands\\CustomerUpdateCommand.cs",
               "RelativeDocumentMoniker": "Commands\\CustomerUpdateCommand.cs",
               "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Commands\\CustomerUpdateCommand.cs",
               "RelativeToolTip": "Commands\\CustomerUpdateCommand.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T11:58:50.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\CustomerViewModel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerViewModel.cs",
-              "RelativeToolTip": "ViewModels\\CustomerViewModel.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAIA3wEUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:43:23.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwC4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:34:10.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -86,14 +139,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:33:06.963Z"
+              "WhenOpened": "2024-05-07T11:43:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\MVVM_Trial3\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:34:10.898Z",
+              "EditorCaption": ""
             }
           ]
         }

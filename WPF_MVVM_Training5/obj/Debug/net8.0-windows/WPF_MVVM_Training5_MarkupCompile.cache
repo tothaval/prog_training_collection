@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\Programmierung\Sourcecodes C#\WPF_MVVM_Training5\App.xaml
-3-1042005379
+6-1855936555
 
-14-1966295040
+19-2044035845
 1981451641563
-MainWindow.xaml;Views\ExampleView.xaml;Views\TargetView.xaml;
+MainWindow.xaml;Views\ExampleView.xaml;Views\TargetView.xaml;Views\UserControl1.xaml;Views\UserControl2.xaml;Views\UserControl3.xaml;
 
 False
 

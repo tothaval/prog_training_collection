@@ -10,6 +10,15 @@
     <Compile Update="Views\TargetView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\UserControl1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserControl2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserControl3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
@@ -19,6 +28,15 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\TargetView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserControl1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserControl2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserControl3.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

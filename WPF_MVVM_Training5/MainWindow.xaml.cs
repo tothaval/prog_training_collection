@@ -8,6 +8,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF_MVVM_Training5.Views;
+using WPF_MVVM_Training5.ViewModels;
 
 namespace WPF_MVVM_Training5
 {
@@ -19,6 +21,21 @@ namespace WPF_MVVM_Training5
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void RB_1_Checked(object sender, RoutedEventArgs e)
+        {
+            CC.Content = new UserControl1();
+        }
+
+        private void RB_2_Checked(object sender, RoutedEventArgs e)
+        {
+            CC.Content = new UserControl2();
+        }
+
+        private void RB_3_Checked(object sender, RoutedEventArgs e)
+        {
+            CC.Content = new UserControl3();
         }
     }
 }

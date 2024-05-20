@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Controls;
 using System.Windows.Input;
 using WPF_MVVM_Training5.Commands;
 using WPF_MVVM_Training5.Navigation;
+using WPF_MVVM_Training5.Views;
 
 namespace WPF_MVVM_Training5.ViewModels
 {
@@ -38,7 +40,6 @@ namespace WPF_MVVM_Training5.ViewModels
 
             ExampleCommand = new CommandExample(this);
             SwitchToTargetCommand = new NavigateCommand<TargetViewModel>(_navigationStore, () => new TargetViewModel(_navigationStore, exampleBinding));
-
         }
     }
 }

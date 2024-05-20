@@ -2,6 +2,8 @@
 using System.Data;
 using System.Windows;
 
+using System.Diagnostics;
+
 namespace MVVM_Trial3
 {
     /// <summary>

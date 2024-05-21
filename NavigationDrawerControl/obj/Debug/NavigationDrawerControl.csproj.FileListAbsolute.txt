@@ -1,0 +1,13 @@
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\bin\Debug\NavigationDrawerControl.dll
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\bin\Debug\NavigationDrawerControl.pdb
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl_MarkupCompile.cache
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl_MarkupCompile.lref
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\Themes\Generic.baml
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.g.resources
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.dll
+E:\Programmierung\Sourcecodes C#\NavigationDrawerControl\obj\Debug\NavigationDrawerControl.pdb

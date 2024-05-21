@@ -1,0 +1,13 @@
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\bin\Debug\DropdownMenuControl.dll
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\bin\Debug\DropdownMenuControl.pdb
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl_MarkupCompile.cache
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl_MarkupCompile.lref
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\Themes\Generic.baml
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.g.resources
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.dll
+E:\Programmierung\Sourcecodes C#\DropdownMenuControl\obj\Debug\DropdownMenuControl.pdb

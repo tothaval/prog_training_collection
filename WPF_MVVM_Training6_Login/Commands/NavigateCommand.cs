@@ -9,19 +9,18 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Commands
 {
-    internal class NavigateCommand : BaseCommand
+    public class NavigateCommand : BaseCommand
     {
         private readonly INavigationService _navigationService;
-
-        public override void Execute(object? parameter)
-        {
-            _navigationService.Navigate();
-        }
 
         public NavigateCommand(INavigationService navigationService)
         {
             _navigationService = navigationService;
+        }
 
+        public override void Execute(object parameter)
+        {
+            _navigationService.Navigate();
         }
     }
 }

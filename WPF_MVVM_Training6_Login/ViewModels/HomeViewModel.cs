@@ -10,13 +10,15 @@ using WPF_MVVM_Training6_Login.Services;
 
 namespace WPF_MVVM_Training6_Login.ViewModels
 {
-    internal class HomeViewModel : BaseViewModel
+    public class HomeViewModel : BaseViewModel
     {
-        public ICommand LoginCommand { get; }
+        public string WelcomeMessage => "Welcome to my application.";
+
+        public ICommand NavigateLoginCommand { get; }
 
         public HomeViewModel(INavigationService loginNavigationService)
         {
-            LoginCommand = new NavigateCommand(loginNavigationService);
+            NavigateLoginCommand = new NavigateCommand(loginNavigationService);
         }
     }
 }

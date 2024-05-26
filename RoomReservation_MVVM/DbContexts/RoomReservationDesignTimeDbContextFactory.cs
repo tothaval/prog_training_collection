@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.DbContexts
 {
-    internal class RoomReservationDesignTimeDbContextFactory : IDesignTimeDbContextFactory<RoomReservationDbContext>
+    public class RoomReservationDesignTimeDbContextFactory : IDesignTimeDbContextFactory<RoomReservationDbContext>
     {
         public RoomReservationDbContext CreateDbContext(string[] args)
         {
-            DbContextOptions options = new DbContextOptionsBuilder().UseSqlite("Data Source=roomreservation.db").Options;
+            DbContextOptions options = new DbContextOptionsBuilder().UseSqlite("Data Source=reservoom.db").Options;
 
             return new RoomReservationDbContext(options);
         }

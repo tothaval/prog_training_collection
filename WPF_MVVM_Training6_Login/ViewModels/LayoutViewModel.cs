@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace WPF_MVVM_Training6_Login.ViewModels
 {
-    internal class LayoutViewModel : BaseViewModel
+    public class LayoutViewModel : BaseViewModel
     {
-        public LayoutViewModel(NavigationBarViewModel navigationBarVM, BaseViewModel contentViewModel)
+        public NavigationBarViewModel NavigationBarViewModel { get; }
+        public BaseViewModel ContentViewModel { get; }
+
+        public LayoutViewModel(NavigationBarViewModel navigationBarViewModel, BaseViewModel contentViewModel)
         {
-            NavigationBarVM = navigationBarVM;
+            NavigationBarViewModel = navigationBarViewModel;
             ContentViewModel = contentViewModel;
         }
 
-        public NavigationBarViewModel NavigationBarVM { get; }
-        public BaseViewModel ContentViewModel { get; }
-
         public override void Dispose()
         {
-            NavigationBarVM.Dispose();
+            NavigationBarViewModel.Dispose();
             ContentViewModel.Dispose();
 
             base.Dispose();

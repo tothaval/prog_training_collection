@@ -7,13 +7,13 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Stores
 {
-    internal class ModalNavigationStore
+    public class ModalNavigationStore
     {
         private BaseViewModel _currentViewModel;
 
         public BaseViewModel CurrentViewModel
         {
-            get { return _currentViewModel; }
+            get => _currentViewModel;
             set
             {
                 _currentViewModel?.Dispose();

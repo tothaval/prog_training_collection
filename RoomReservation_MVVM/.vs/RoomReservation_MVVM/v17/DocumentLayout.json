@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\",
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\roomreservation_mvvm\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\roomreservation_mvvm\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\roomreservation_mvvm_copyfail_broken\\services\\reservationproviders\\databasereservationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:services\\reservationproviders\\databasereservationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\roomreservation_mvvm\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\roomreservation_mvvm_copyfail_broken\\dbcontexts\\roomreservationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:dbcontexts\\roomreservationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\roomreservation_mvvm_copyfail_broken\\dbcontexts\\iroomreservationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:dbcontexts\\iroomreservationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\roomreservation_mvvm_copyfail_broken\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\converter\\inversebooleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:converter\\inversebooleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\hostbuilders\\addviewmodelshostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:hostbuilders\\addviewmodelshostbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ED542A-4B7B-44B8-98FC-9B673F49FAEC}|RoomReservation_MVVM.csproj|solutionrelative:viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +54,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReservationListingView.xaml",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Views\\ReservationListingView.xaml",
-              "RelativeDocumentMoniker": "Views\\ReservationListingView.xaml",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Views\\ReservationListingView.xaml",
-              "RelativeToolTip": "Views\\ReservationListingView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T18:39:48.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MakeReservationView.xaml",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Views\\MakeReservationView.xaml",
-              "RelativeDocumentMoniker": "Views\\MakeReservationView.xaml",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Views\\MakeReservationView.xaml",
-              "RelativeToolTip": "Views\\MakeReservationView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T18:39:32.287Z",
+              "Title": "DatabaseReservationProvider.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "RelativeDocumentMoniker": "Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "RelativeToolTip": "Services\\ReservationProviders\\DatabaseReservationProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:16:19.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReservationListingViewModel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\ReservationListingViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ReservationListingViewModel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\ReservationListingViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ReservationListingViewModel.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Title": "RoomReservationDbContext.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\DbContexts\\RoomReservationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\RoomReservationDbContext.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\DbContexts\\RoomReservationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\RoomReservationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:14:24.809Z",
+              "WhenOpened": "2024-05-26T15:09:20.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IRoomReservationDbContextFactory.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\DbContexts\\IRoomReservationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DbContexts\\IRoomReservationDbContextFactory.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\DbContexts\\IRoomReservationDbContextFactory.cs",
+              "RelativeToolTip": "DbContexts\\IRoomReservationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:14:21.392Z"
+              "WhenOpened": "2024-05-26T15:09:12.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoomID.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\RoomID.cs",
-              "RelativeDocumentMoniker": "Models\\RoomID.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\RoomID.cs",
-              "RelativeToolTip": "Models\\RoomID.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwDQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:14:09.815Z"
+              "WhenOpened": "2024-05-26T13:37:31.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\Hotel.cs",
-              "RelativeDocumentMoniker": "Models\\Hotel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\Hotel.cs",
-              "RelativeToolTip": "Models\\Hotel.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:14:04.701Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T13:38:47.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ReservationBook.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\ReservationBook.cs",
-              "RelativeDocumentMoniker": "Models\\ReservationBook.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\ReservationBook.cs",
-              "RelativeToolTip": "Models\\ReservationBook.cs",
+              "Title": "InverseBooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Converter\\InverseBooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converter\\InverseBooleanToVisibilityConverter.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Converter\\InverseBooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "Converter\\InverseBooleanToVisibilityConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:13:58.96Z"
+              "WhenOpened": "2024-05-26T13:36:56.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Models\\Reservation.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\Models\\Reservation.cs",
-              "RelativeToolTip": "Models\\Reservation.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:13:57.686Z"
+              "Title": "ReservationListingView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Views\\ReservationListingView.xaml",
+              "RelativeDocumentMoniker": "Views\\ReservationListingView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Views\\ReservationListingView.xaml",
+              "RelativeToolTip": "Views\\ReservationListingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T13:35:25.359Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MakeReservationViewModel.cs",
-              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\MakeReservationViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MakeReservationViewModel.cs",
-              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\ViewModels\\MakeReservationViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MakeReservationViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "MakeReservationView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Views\\MakeReservationView.xaml",
+              "RelativeDocumentMoniker": "Views\\MakeReservationView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Views\\MakeReservationView.xaml",
+              "RelativeToolTip": "Views\\MakeReservationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-26T13:35:20.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddViewModelsHostBuilderExtensions.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "RelativeToolTip": "HostBuilders\\AddViewModelsHostBuilderExtensions.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAhwCYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:13:52.533Z"
+              "WhenOpened": "2024-05-26T13:35:07.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\ViewModels\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReservationViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\ViewModels\\ReservationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ReservationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:34:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationBook.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Models\\ReservationBook.cs",
+              "RelativeDocumentMoniker": "Models\\ReservationBook.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\Models\\ReservationBook.cs",
+              "RelativeToolTip": "Models\\ReservationBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:34:43.359Z",
+              "EditorCaption": ""
             }
           ]
         }

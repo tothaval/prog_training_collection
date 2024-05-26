@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5y39KZJOFSScBjFAZXsE9+Mmd2m7SIF/FX9EGPppJWvyvHl381a5EOEhv/GeEBxS2J6MBR0fuuZ799NzwTx/Kg==",
+  "success": true,
+  "projectFilePath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\WPF_MVVM_SimplePageNavigation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taran\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

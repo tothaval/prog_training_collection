@@ -8,14 +8,14 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Services
 {
-    internal class LayoutNavigationService<TViewModel> : INavigationService
-        where TViewModel : BaseViewModel
+    public class LayoutNavigationService<TViewModel> : INavigationService where TViewModel : BaseViewModel
     {
         private readonly NavigationStore _navigationStore;
         private readonly Func<TViewModel> _createViewModel;
         private readonly Func<NavigationBarViewModel> _createNavigationBarViewModel;
 
-        public LayoutNavigationService(NavigationStore navigationStore, Func<TViewModel> createViewModel,
+        public LayoutNavigationService(NavigationStore navigationStore,
+            Func<TViewModel> createViewModel,
             Func<NavigationBarViewModel> createNavigationBarViewModel)
         {
             _navigationStore = navigationStore;

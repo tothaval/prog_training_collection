@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace WPF_MVVM_Training6_Login.Models
 {
-    internal class Account
+    public class Account
     {
-        public string Email {  get; set; }
+        public string Email { get; set; }
         public string Username { get; set; }
     }
 }

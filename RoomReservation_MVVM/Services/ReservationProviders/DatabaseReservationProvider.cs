@@ -12,9 +12,9 @@ namespace RoomReservation_MVVM.Services.ReservationProviders
 {
     public class DatabaseReservationProvider : IReservationProvider
     {
-        private readonly RoomReservationDbContextFactory _dbContextFactory;
+        private readonly IRoomReservationDbContextFactory _dbContextFactory;
 
-        public DatabaseReservationProvider(RoomReservationDbContextFactory dbContextFactory)
+        public DatabaseReservationProvider(IRoomReservationDbContextFactory dbContextFactory)
         {
             _dbContextFactory = dbContextFactory;
         }

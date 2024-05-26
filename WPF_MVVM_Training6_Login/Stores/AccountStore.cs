@@ -8,21 +8,24 @@ using WPF_MVVM_Training6_Login.Models;
 
 namespace WPF_MVVM_Training6_Login.Stores
 {
-    internal class AccountStore
+    public class AccountStore
     {
         private Account _currentAccount;
-        public Account CurrentAccount {
+        public Account CurrentAccount
+        {
             get => _currentAccount;
-            set {
+            set
+            {
                 _currentAccount = value;
                 CurrentAccountChanged?.Invoke();
-            } }
+            }
+        }
 
         public bool IsLoggedIn => CurrentAccount != null;
 
         public event Action CurrentAccountChanged;
 
-        public void logout()
+        public void Logout()
         {
             CurrentAccount = null;
         }

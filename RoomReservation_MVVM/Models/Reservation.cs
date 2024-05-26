@@ -12,6 +12,7 @@ namespace RoomReservation_MVVM.Models
         public string Username { get; }
         public DateTime StartDate { get; }
         public DateTime EndDate { get; }
+
         public TimeSpan Duration => EndDate.Subtract(StartDate);
 
         public Reservation(RoomID roomID, string username, DateTime startTime, DateTime endTime)
@@ -20,16 +21,6 @@ namespace RoomReservation_MVVM.Models
             Username = username;
             StartDate = startTime;
             EndDate = endTime;
-        }
-
-        internal bool Conflicts(Reservation reservation)
-        {
-            if (reservation.RoomId != RoomId)
-            {
-                return false;
-            }
-
-            return reservation.StartDate < EndDate || reservation.EndDate > StartDate;
         }
     }
 }

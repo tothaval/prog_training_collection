@@ -8,16 +8,17 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <local:NavigationBar Grid.Row="0" DataContext="{Binding NavigationBarVM}"/>
+        <local:NavigationBar Grid.Row="0" DataContext="{Binding NavigationBarViewModel}" />
 
-        <ContentControl Grid.Row="1"
-                        MaxWidth="1000"
-                        Margin="20"
-                        Content="{Binding ContentViewModel}"/>
+        <ContentControl
+            Grid.Row="1"
+            MaxWidth="1000"
+            Margin="20"
+            Content="{Binding ContentViewModel}" />
 
     </Grid>
 </UserControl>

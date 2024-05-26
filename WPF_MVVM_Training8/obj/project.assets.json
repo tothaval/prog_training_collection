@@ -1559,11 +1559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
+      "projectUniqueName": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
       "projectName": "WPF_MVVM_Training8",
-      "projectPath": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
+      "projectPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
       "packagesPath": "C:\\Users\\taran\\.nuget\\packages\\",
-      "outputPath": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training8\\obj\\",
+      "outputPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1578,17 +1578,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\Programmierung\\Sourcecodes C#\\Bauteile\\MVVMNavigationLibrary\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\Programmierung\\Sourcecodes C#\\DropdownMenuControl\\DropdownMenuControl.csproj": {
-              "projectPath": "E:\\Programmierung\\Sourcecodes C#\\DropdownMenuControl\\DropdownMenuControl.csproj"
+            "E:\\Programmierung\\Sourcecodes C#\\Trainings\\DropdownMenuControl\\DropdownMenuControl.csproj": {
+              "projectPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\DropdownMenuControl\\DropdownMenuControl.csproj"
             },
-            "E:\\Programmierung\\Sourcecodes C#\\NavigationDrawerControl\\NavigationDrawerControl.csproj": {
-              "projectPath": "E:\\Programmierung\\Sourcecodes C#\\NavigationDrawerControl\\NavigationDrawerControl.csproj"
+            "E:\\Programmierung\\Sourcecodes C#\\Trainings\\NavigationDrawerControl\\NavigationDrawerControl.csproj": {
+              "projectPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\NavigationDrawerControl\\NavigationDrawerControl.csproj"
             }
           }
         }

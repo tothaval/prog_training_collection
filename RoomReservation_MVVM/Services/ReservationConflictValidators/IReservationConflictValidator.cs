@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.Services.ReservationConflictValidators
 {
+
     public interface IReservationConflictValidator
     {
-        Task<bool> DoesCauseConflict(Reservation reservation);
+        Task<Reservation> GetConflictingReservation(Reservation reservation);
     }
 }

@@ -10,12 +10,12 @@ namespace RoomReservation_MVVM.Stores
     public class NavigationStore
     {
         private ViewModelBase _currentViewModel;
-
         public ViewModelBase CurrentViewModel
         {
             get => _currentViewModel;
             set
             {
+                _currentViewModel?.Dispose();
                 _currentViewModel = value;
                 OnCurrentViewModelChanged();
             }
@@ -27,6 +27,5 @@ namespace RoomReservation_MVVM.Stores
         {
             CurrentViewModelChanged?.Invoke();
         }
-
     }
 }

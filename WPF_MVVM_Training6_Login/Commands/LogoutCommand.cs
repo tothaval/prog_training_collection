@@ -9,21 +9,18 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Commands
 {
-    internal class LogoutCommand : BaseCommand
+    public class LogoutCommand : BaseCommand
     {
         private readonly AccountStore _accountStore;
-        private readonly INavigationService _homeNavigationService;
 
-        public LogoutCommand(AccountStore accountStore, INavigationService homeNavigationService)
+        public LogoutCommand(AccountStore accountStore)
         {
             _accountStore = accountStore;
-            _homeNavigationService = homeNavigationService;
         }
 
-        public override void Execute(object? parameter)
+        public override void Execute(object parameter)
         {
-            _accountStore.logout();
-            _homeNavigationService.Navigate();
+            _accountStore.Logout();
         }
     }
 }

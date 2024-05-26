@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\RoomReservation_MVVM.csproj": {}
+    "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\RoomReservation_MVVM.csproj": {}
   },
   "projects": {
-    "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\RoomReservation_MVVM.csproj": {
+    "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\RoomReservation_MVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\RoomReservation_MVVM.csproj",
+        "projectUniqueName": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\RoomReservation_MVVM.csproj",
         "projectName": "RoomReservation_MVVM",
-        "projectPath": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\RoomReservation_MVVM.csproj",
+        "projectPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\RoomReservation_MVVM.csproj",
         "packagesPath": "C:\\Users\\taran\\.nuget\\packages\\",
-        "outputPath": "E:\\Programmierung\\Sourcecodes C#\\RoomReservation_MVVM\\obj\\",
+        "outputPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\RoomReservation_MVVM_CopyFAIL_broken\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Programmierung\\Sourcecodes C#\\Bauteile\\MVVMNavigationLibrary\\bin\\Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +50,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "LoadingSpinner.WPF": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -62,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.ViewModels
 {
-    internal class ReservationViewModel : ViewModelBase
+    public class ReservationViewModel : ViewModelBase
     {
         private readonly Reservation _reservation;
 
-        public string RoomId => _reservation.RoomId?.ToString();
+        public string RoomID => _reservation.RoomId?.ToString();
         public string Username => _reservation.Username;
         public string StartDate => _reservation.StartDate.ToString("d");
         public string EndDate => _reservation.EndDate.ToString("d");

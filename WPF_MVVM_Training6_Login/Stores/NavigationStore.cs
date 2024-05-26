@@ -7,13 +7,12 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Stores
 {
-    internal class NavigationStore
+    public class NavigationStore
     {
         private BaseViewModel _currentViewModel;
-
         public BaseViewModel CurrentViewModel
         {
-            get { return _currentViewModel; }
+            get => _currentViewModel;
             set
             {
                 _currentViewModel?.Dispose();
@@ -28,6 +27,5 @@ namespace WPF_MVVM_Training6_Login.Stores
         {
             CurrentViewModelChanged?.Invoke();
         }
-
     }
 }

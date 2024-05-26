@@ -7,18 +7,18 @@ using WPF_MVVM_Training6_Login.Stores;
 
 namespace WPF_MVVM_Training6_Login.Services
 {
-    internal class CloseModalNavigationService : INavigationService
+    public class CloseModalNavigationService : INavigationService
     {
-        private readonly ModalNavigationStore _modalNavigationStore;
+        private readonly ModalNavigationStore _navigationStore;
 
-        public CloseModalNavigationService(ModalNavigationStore modalNavigationStore)
+        public CloseModalNavigationService(ModalNavigationStore navigationStore)
         {
-            _modalNavigationStore = modalNavigationStore;
+            _navigationStore = navigationStore;
         }
 
         public void Navigate()
         {
-            _modalNavigationStore.Close();
+            _navigationStore.Close();
         }
     }
 }

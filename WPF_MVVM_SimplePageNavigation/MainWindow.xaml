@@ -1,0 +1,84 @@
+﻿<Window x:Class="WPF_MVVM_SimplePageNavigation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_MVVM_SimplePageNavigation"
+        xmlns:pages="clr-namespace:WPF_MVVM_SimplePageNavigation.Pages"
+        xmlns:utilities="clr-namespace:WPF_MVVM_SimplePageNavigation.Utilities"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style x:Key="btnS" TargetType="{x:Type Button}">
+                <Setter Property="Height" Value="60" />
+                <Setter Property="Width" Value="60" />
+                <Setter Property="FontSize" Value="28"/>
+                <Setter Property="Margin" Value="5 0"/>
+            </Style>
+            <DataTemplate x:Key="pA" >
+                <pages:PageA/>
+            </DataTemplate>
+
+            <DataTemplate x:Key="pB" >
+            <pages:PageB/>
+            </DataTemplate>
+
+            <DataTemplate x:Key="pC" >
+            <pages:PageC/>
+            </DataTemplate>
+
+            <DataTemplate x:Key="pD" >
+            <pages:PageD/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition />            
+        </Grid.RowDefinitions>
+
+        <Grid Background ="WhiteSmoke" Grid.Row="0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="A" Style="{StaticResource btnS}" Command="{Binding CMDChangePage}" CommandParameter="{x:Static utilities:PageID.A}"/>
+                <Button Content="B" Style="{StaticResource btnS}" Command="{Binding CMDChangePage}" CommandParameter="{x:Static utilities:PageID.B}"/>
+                <Button Content="C" Style="{StaticResource btnS}" Command="{Binding CMDChangePage}" CommandParameter="{x:Static utilities:PageID.C}"/>
+                <Button Content="D" Style="{StaticResource btnS}" Command="{Binding CMDChangePage}" CommandParameter="{x:Static utilities:PageID.D}"/>
+            </StackPanel>
+            <TextBox Text="{Binding Test, NotifyOnTargetUpdated=True,
+                NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" Width="120" HorizontalAlignment="Left" Height="60"/>
+        </Grid>
+
+        <!--<TextBlock Grid.Row="1" Text="{Binding PageID, NotifyOnSourceUpdated=True}"
+                   FontSize="35"/>-->
+
+        <ContentControl Grid.Row="1" Content="{Binding}">
+            <ContentControl.Style>
+                <Style TargetType="{x:Type ContentControl}">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding PageID, NotifyOnSourceUpdated=True,
+                        UpdateSourceTrigger=PropertyChanged}" Value="{x:Static utilities:PageID.A}">
+                            <Setter Property="ContentTemplate" Value="{StaticResource pA}"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding PageID, NotifyOnSourceUpdated=True,
+                        UpdateSourceTrigger=PropertyChanged}" Value="{x:Static utilities:PageID.B}">
+                            <Setter Property="ContentTemplate" Value="{StaticResource pB}"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding PageID, NotifyOnSourceUpdated=True,
+                        UpdateSourceTrigger=PropertyChanged}" Value="{x:Static utilities:PageID.C}">
+                            <Setter Property="ContentTemplate" Value="{StaticResource pC}"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding PageID, NotifyOnSourceUpdated=True,
+                        UpdateSourceTrigger=PropertyChanged}" Value="{x:Static utilities:PageID.D}">
+                            <Setter Property="ContentTemplate" Value="{StaticResource pD}"/>
+                        </DataTrigger>
+
+                    </Style.Triggers>
+                </Style>
+                
+            </ContentControl.Style>
+            
+        </ContentControl>
+    </Grid>
+</Window>

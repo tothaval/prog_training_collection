@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FpBVPND8VqVvWLJcNkQlVd548zvf7LT0spjuhDyA20GB6Dubzr8j13CMMfsZ49MLIePiP43t2Fdk4jm/5sbPew==",
+  "dgSpecHash": "4fhgNwhXtPQG1WS8dn1ZLgMOwxBLsEghbItDof++V/2hlRMi/QS2iKVot56uDoglS0gA/CiObOdU0N4ZqZGscQ==",
   "success": true,
-  "projectFilePath": "E:\\Programmierung\\Sourcecodes C#\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
+  "projectFilePath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training8\\WPF_MVVM_Training8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taran\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\taran\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

@@ -20,15 +20,5 @@ namespace WPF_MVVM_Training6_Login
         {
             InitializeComponent();
         }
-
-        private void CloseModal_Click(object sender, RoutedEventArgs e)
-        {
-            modal.IsOpen = false;
-        }
-
-        private void ShowModal_Click(object sender, RoutedEventArgs e)
-        {
-            modal.IsOpen = true;
-        }
     }
 }

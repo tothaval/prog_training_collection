@@ -13,15 +13,11 @@ namespace WPF_MVVM_Training6_Login.ViewModels
     internal class MainViewModel : BaseViewModel
     {
         private readonly NavigationStore _navigationStore;
-
         private readonly ModalNavigationStore _modalNavigationStore;
-
-        public ICommand CloseModalCommand { get; }
-
-        public bool IsModalOpen => _modalNavigationStore.IsOpen;
 
         public BaseViewModel CurrentViewModel => _navigationStore.CurrentViewModel;
         public BaseViewModel CurrentModalViewModel => _modalNavigationStore.CurrentViewModel;
+        public bool IsOpen => _modalNavigationStore.IsOpen;
 
         public MainViewModel(NavigationStore navigationStore, ModalNavigationStore modalNavigationStore)
         {
@@ -40,7 +36,7 @@ namespace WPF_MVVM_Training6_Login.ViewModels
         private void OnCurrentModalViewModelChanged()
         {
             OnPropertyChanged(nameof(CurrentModalViewModel));
-            OnPropertyChanged(nameof(IsModalOpen));
+            OnPropertyChanged(nameof(IsOpen));
         }
     }
 }

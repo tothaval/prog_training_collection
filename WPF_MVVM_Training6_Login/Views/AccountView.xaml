@@ -9,26 +9,33 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="auto"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
         </Grid.RowDefinitions>
-            <TextBlock HorizontalAlignment="Center"
-                       VerticalAlignment="Center"
-                       Text="{Binding Username}"
-                       FontSize="17"
-                       Foreground="IndianRed"
-            Grid.Row="0"/>
-        <TextBlock HorizontalAlignment="Center"
-           VerticalAlignment="Center"
-           Text="{Binding Email}"
-           FontSize="17"
-           Foreground="IndianRed"
-                   Grid.Row="1"/>
-        <Button Content="Home"
-                    Command="{Binding NavigateHomeCommand}"
-                    Grid.Row="3"/>
 
+        <TextBlock
+            Grid.Row="0"
+            FontSize="28"
+            Text="Account" />
+
+        <TextBlock
+            Grid.Row="1"
+            Margin="0 20 0 0"
+            Text="{Binding Username}" />
+
+        <TextBlock
+            Grid.Row="2"
+            Margin="0 20 0 0"
+            Text="{Binding Email}" />
+
+        <Button
+            Grid.Row="3"
+            Margin="0 20 0 0"
+            Padding="5 2"
+            HorizontalAlignment="Left"
+            Command="{Binding NavigateHomeCommand}"
+            Content="Home" />
     </Grid>
 </UserControl>

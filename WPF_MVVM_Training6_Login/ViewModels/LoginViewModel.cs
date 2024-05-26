@@ -11,40 +11,41 @@ using WPF_MVVM_Training6_Login.Services;
 
 namespace WPF_MVVM_Training6_Login.ViewModels
 {
-    internal class LoginViewModel : BaseViewModel
+    public class LoginViewModel : BaseViewModel
     {
-        private string username;
-
+        private string _username;
         public string Username
         {
-            get { return username; }
-            set { username = value; OnPropertyChanged(nameof(Username)); }
+            get
+            {
+                return _username;
+            }
+            set
+            {
+                _username = value;
+                OnPropertyChanged(nameof(Username));
+            }
         }
 
+        private string _password;
+        public string Password
+        {
+            get
+            {
+                return _password;
+            }
+            set
+            {
+                _password = value;
+                OnPropertyChanged(nameof(Password));
+            }
+        }
 
-        //private string email;
-
-        //public string Email
-        //{
-        //    get { return email; }
-        //    set { email = value; OnPropertyChanged(nameof(Email)); }
-        //}
-
-
-        public ICommand BackCommand { get; }
         public ICommand LoginCommand { get; }
 
-        public LoginViewModel(AccountStore accountStore,
-            INavigationService homeNavigationservice,
-            INavigationService accountNavigationService,
-            ModalNavigationStore modalNavigationStore,
-            CompositNavigationService closeModalNavigationService)
+        public LoginViewModel(AccountStore accountStore, INavigationService loginNavigationService)
         {
-
-            BackCommand = new BackCommand(modalNavigationStore, homeNavigationservice);
-            LoginCommand = new UserLoginCommand(this, accountStore, accountNavigationService, closeModalNavigationService);
+            LoginCommand = new LoginCommand(this, accountStore, loginNavigationService);
         }
-
-
     }
 }

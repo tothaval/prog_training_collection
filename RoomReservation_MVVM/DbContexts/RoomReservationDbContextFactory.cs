@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.DbContexts
 {
-    public class RoomReservationDbContextFactory
+    public class RoomReservationDbContextFactory : IRoomReservationDbContextFactory
     {
         private readonly string _connectionString;
 
@@ -17,7 +17,7 @@ namespace RoomReservation_MVVM.DbContexts
             _connectionString = connectionString;
         }
 
-        internal RoomReservationDbContext CreateDbContext()
+        public RoomReservationDbContext CreateDbContext()
         {
             DbContextOptions options = new DbContextOptionsBuilder().UseSqlite(_connectionString).Options;
 

@@ -9,11 +9,9 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.DbContexts
 {
-    internal class RoomReservationDbContext : DbContext
+    public class RoomReservationDbContext : DbContext
     {
-        public RoomReservationDbContext(DbContextOptions options) : base(options)
-        {
-        }
+        public RoomReservationDbContext(DbContextOptions options) : base(options) { }
 
         public DbSet<ReservationDTO> Reservations { get; set; }
     }

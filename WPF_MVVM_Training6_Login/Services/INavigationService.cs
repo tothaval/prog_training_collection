@@ -2,7 +2,7 @@
 
 namespace WPF_MVVM_Training6_Login.Services
 {
-    internal interface INavigationService
+    public interface INavigationService
     {
         void Navigate();
     }

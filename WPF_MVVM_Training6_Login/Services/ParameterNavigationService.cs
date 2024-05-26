@@ -8,8 +8,8 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Services
 {
-    internal class ParameterNavigationService<TParameter, TViewModel>
-        where TViewModel : BaseViewModel
+    public class ParameterNavigationService<TParameter, TViewModel>
+       where TViewModel : BaseViewModel
     {
         private readonly NavigationStore _navigationStore;
         private readonly Func<TParameter, TViewModel> _createViewModel;

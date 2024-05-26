@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\utilities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:utilities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\pages\\pagec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:pages\\pagec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\utilities\\pageid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:utilities\\pageid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\pages\\pagea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:pages\\pagea.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\pages\\pageb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:pages\\pageb.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_simplepagenavigation\\pages\\paged.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4B3132-E4BF-4DC2-9CC9-DDE0A38A8434}|WPF_MVVM_SimplePageNavigation.csproj|solutionrelative:pages\\paged.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageID.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Utilities\\PageID.cs",
+              "RelativeDocumentMoniker": "Utilities\\PageID.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Utilities\\PageID.cs",
+              "RelativeToolTip": "Utilities\\PageID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:34:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Utilities\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Utilities\\ViewModelBase.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Utilities\\ViewModelBase.cs",
+              "RelativeToolTip": "Utilities\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:21:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:21:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageD.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageD.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageD.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageD.xaml",
+              "RelativeToolTip": "Pages\\PageD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:11:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageC.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageC.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageC.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageC.xaml",
+              "RelativeToolTip": "Pages\\PageC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:11:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageB.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageB.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageB.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageB.xaml",
+              "RelativeToolTip": "Pages\\PageB.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:10:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageA.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageA.xaml",
+              "RelativeDocumentMoniker": "Pages\\PageA.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\Pages\\PageA.xaml",
+              "RelativeToolTip": "Pages\\PageA.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T14:10:41.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:35:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_SimplePageNavigation\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:35:47.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

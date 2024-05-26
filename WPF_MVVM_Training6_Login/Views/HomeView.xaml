@@ -8,28 +8,28 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
 
-            <Grid.RowDefinitions>
-                <RowDefinition Height="auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
+        <TextBlock
+            Grid.Row="0"
+            FontSize="28"
+            Text="Home" />
 
+        <TextBlock
+            Grid.Row="1"
+            Margin="0 20 0 0"
+            Text="{Binding WelcomeMessage}" />
 
-            <TextBlock Text="Home"
-                   HorizontalAlignment="Center"
-                   FontSize="36"
-                   Grid.Row="0"
-                   />
-            <Button Command="{Binding LoginCommand}"                
-                Grid.Row="1"
-                Background="Transparent">
-                <TextBlock Text="Login"
-                       Foreground="Red"
-                       Background="Transparent"
-                       FontSize="24"
-                       FontWeight="Bold"
-                       TextDecorations="Baseline"/>
-            </Button>
-     
+        <Button
+            Grid.Row="2"
+            Margin="0 20 0 0"
+            Padding="5 2"
+            HorizontalAlignment="Left"
+            Command="{Binding NavigateLoginCommand}"
+            Content="Start" />
     </Grid>
 </UserControl>

@@ -10,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.Services.ReservationCreators
 {
-    internal class DatabaseReservationCreator : IReservationCreator
+    public class DatabaseReservationCreator : IReservationCreator
     {
-        private readonly RoomReservationDbContextFactory _dbContextFactory;
+        private readonly IRoomReservationDbContextFactory _dbContextFactory;
 
-        public DatabaseReservationCreator(RoomReservationDbContextFactory dbContextFactory)
+        public DatabaseReservationCreator(IRoomReservationDbContextFactory dbContextFactory)
         {
             _dbContextFactory = dbContextFactory;
         }
@@ -38,7 +38,7 @@ namespace RoomReservation_MVVM.Services.ReservationCreators
                 RoomNumber = reservation.RoomId?.RoomNumber ?? 0,
                 Username = reservation.Username,
                 StartDate = reservation.StartDate,
-                EndDate = reservation.EndDate
+                EndDate = reservation.EndDate,
             };
         }
     }

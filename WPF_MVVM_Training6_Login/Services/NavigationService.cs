@@ -8,7 +8,7 @@ using WPF_MVVM_Training6_Login.ViewModels;
 
 namespace WPF_MVVM_Training6_Login.Services
 {
-    internal class NavigationService<TViewModel> : INavigationService where TViewModel : BaseViewModel
+    public class NavigationService<TViewModel> : INavigationService where TViewModel : BaseViewModel
     {
         private readonly NavigationStore _navigationStore;
         private readonly Func<TViewModel> _createViewModel;

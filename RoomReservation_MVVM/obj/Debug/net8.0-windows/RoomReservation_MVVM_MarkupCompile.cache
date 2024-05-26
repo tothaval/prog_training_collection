@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Programmierung\Sourcecodes C#\RoomReservation_MVVM\obj\Debug\net8.0-windows\
+E:\Programmierung\Sourcecodes C#\Trainings\RoomReservation_MVVM_CopyFAIL_broken\obj\Debug\net8.0-windows\
 RoomReservation_MVVM
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\Programmierung\Sourcecodes C#\RoomReservation_MVVM\App.xaml
+E:\Programmierung\Sourcecodes C#\Trainings\RoomReservation_MVVM_CopyFAIL_broken\App.xaml
 3-651115779
 
-34984606826
-216-1261663421
+421725692680
+237-1763915067
 MainWindow.xaml;Views\MakeReservationView.xaml;Views\ReservationListingView.xaml;
 
-True
+False
 

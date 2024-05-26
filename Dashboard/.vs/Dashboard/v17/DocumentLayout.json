@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\dashboard\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\transactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\transactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\shipmentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\shipmentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\styles\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:styles\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:models\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\utilities\\datatemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5056E80E-9183-4CA8-A761-43157443FA5B}|Dashboard.csproj|solutionrelative:utilities\\datatemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Models\\PageModel.cs",
+              "RelativeDocumentMoniker": "Models\\PageModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Models\\PageModel.cs",
+              "RelativeToolTip": "Models\\PageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:12:00.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Styles\\Image.xaml",
+              "RelativeDocumentMoniker": "Styles\\Image.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Styles\\Image.xaml",
+              "RelativeToolTip": "Styles\\Image.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:11:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataTemplate.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Utilities\\DataTemplate.xaml",
+              "RelativeDocumentMoniker": "Utilities\\DataTemplate.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Utilities\\DataTemplate.xaml",
+              "RelativeToolTip": "Utilities\\DataTemplate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:11:39.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:47.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\CustomersView.xaml",
+              "RelativeDocumentMoniker": "Views\\CustomersView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\CustomersView.xaml",
+              "RelativeToolTip": "Views\\CustomersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:24.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Views\\HomeView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:20.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\OrdersView.xaml",
+              "RelativeDocumentMoniker": "Views\\OrdersView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\OrdersView.xaml",
+              "RelativeToolTip": "Views\\OrdersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\ProductsView.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductsView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\ProductsView.xaml",
+              "RelativeToolTip": "Views\\ProductsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:09.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "Views\\SettingsView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\SettingsView.xaml",
+              "RelativeToolTip": "Views\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:05.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipmentsView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\ShipmentsView.xaml",
+              "RelativeDocumentMoniker": "Views\\ShipmentsView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\ShipmentsView.xaml",
+              "RelativeToolTip": "Views\\ShipmentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:06:00.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\TransactionsView.xaml",
+              "RelativeDocumentMoniker": "Views\\TransactionsView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Views\\TransactionsView.xaml",
+              "RelativeToolTip": "Views\\TransactionsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:05:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "Styles\\Button.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Dashboard\\Styles\\Button.xaml",
+              "RelativeToolTip": "Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T13:04:38.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

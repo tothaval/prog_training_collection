@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RoomReservation_MVVM.DTOs
 {
-    internal class ReservationDTO
+    public class ReservationDTO
     {
         [Key]
         public Guid Id { get; set; }

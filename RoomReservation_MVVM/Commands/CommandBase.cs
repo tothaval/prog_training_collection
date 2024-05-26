@@ -18,7 +18,7 @@ namespace RoomReservation_MVVM.Commands
 
         public abstract void Execute(object? parameter); // must be implemented
 
-        protected void OnCanExecutedChanged()
+        protected void OnCanExecuteChanged()
         {
             CanExecuteChanged?.Invoke(this, new EventArgs());
         }

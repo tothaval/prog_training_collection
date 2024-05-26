@@ -7,18 +7,15 @@ using System.Windows.Input;
 
 namespace WPF_MVVM_Training6_Login.Commands
 {
-    internal abstract class BaseCommand : ICommand
+    public abstract class BaseCommand : ICommand
     {
-        public event EventHandler? CanExecuteChanged;
+        public event EventHandler CanExecuteChanged;
 
-        public virtual bool CanExecute(object? parameter)
-        {
-            return true;
-        }
+        public virtual bool CanExecute(object parameter) => true;
 
-        public abstract void Execute(object? parameter);
+        public abstract void Execute(object parameter);
 
-        protected void OnCanExecutedChanged()
+        protected void OnCanExecuteChanged()
         {
             CanExecuteChanged?.Invoke(this, new EventArgs());
         }

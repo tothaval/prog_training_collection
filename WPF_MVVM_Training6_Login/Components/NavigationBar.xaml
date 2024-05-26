@@ -8,15 +8,14 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <UserControl.Resources>
         <Style TargetType="Button">
-            <Setter Property="Margin" Value="10"/>
-            <Setter Property="Background" Value="Transparent"/>
-            <Setter Property="Foreground" Value="White"/>
-            <Setter Property="BorderThickness" Value="0"/>
-            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Cursor" Value="Hand" />
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
-                        <TextBlock Text="{TemplateBinding Content}"/>
+                        <TextBlock Text="{TemplateBinding Content}" />
                     </ControlTemplate>
                 </Setter.Value>
             </Setter>
@@ -25,56 +24,61 @@
                     <Setter Property="Template">
                         <Setter.Value>
                             <ControlTemplate TargetType="Button">
-                                <TextBlock Text="{TemplateBinding Content}"
-                                           TextDecorations="Underline"/>
+                                <TextBlock Text="{TemplateBinding Content}" TextDecorations="Underline" />
                             </ControlTemplate>
                         </Setter.Value>
                     </Setter>
                 </Trigger>
             </Style.Triggers>
-            
         </Style>
-
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
-
     </UserControl.Resources>
-
-    <Grid MaxWidth="1000" Margin="0 10"
-          Background="IndianRed">
-            
+    <Grid MaxWidth="1000" Margin="20 10" Background="IndianRed">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Column="0" Text="Navigation Demo"
-                   Margin="10"
-                   Foreground="White"/>
+        <TextBlock
+            Grid.Column="0"
+            FontSize="14"
+            Foreground="White"
+            Text="Navigation Demo" />
 
         <Button
             Grid.Column="1"
+            Margin="10 0 0 0"
             Command="{Binding NavigateHomeCommand}"
-            Content="Home"/>
+            Content="Home" />
 
         <Button
             Grid.Column="2"
-            Command="{Binding NavigateLoginCommand}"
-            Content="Login"/>
+            Margin="10 0 0 0"
+            Command="{Binding NavigatePeopleListingCommand}"
+            Content="People" />
 
         <Button
             Grid.Column="3"
-            Command="{Binding NavigateAccountCommand}"
-            Content="Account"
-            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+            Margin="10 0 0 0"
+            Command="{Binding NavigateLoginCommand}"
+            Content="Login" />
 
         <Button
             Grid.Column="4"
+            Margin="10 0 0 0"
+            Command="{Binding NavigateAccountCommand}"
+            Content="Account"
+            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}" />
+
+        <Button
+            Grid.Column="5"
+            Margin="10 0 0 0"
             Command="{Binding LogoutCommand}"
             Content="Logout"
-            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}"/>
-
+            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}" />
     </Grid>
 </UserControl>

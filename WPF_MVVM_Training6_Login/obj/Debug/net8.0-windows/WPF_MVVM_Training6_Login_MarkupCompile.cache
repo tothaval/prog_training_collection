@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Programmierung\Sourcecodes C#\WPF_MVVM_Training6_Login\obj\Debug\net8.0-windows\
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_MVVM_Training6_Login_CopyFAIL_broken\obj\Debug\net8.0-windows\
 WPF_MVVM_Training6_Login
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\Programmierung\Sourcecodes C#\WPF_MVVM_Training6_Login\App.xaml
-6-1688907182
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_MVVM_Training6_Login_CopyFAIL_broken\App.xaml
+8149874864
 
-321275939492
-199371109381
-Components\Layout.xaml;Components\NavigationBar.xaml;MainWindow.xaml;Views\AccountView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;
+38-1174663406
+201-1905630358
+Components\Layout.xaml;Components\NavigationBar.xaml;MainWindow.xaml;Views\AccountView.xaml;Views\AddPersonView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\PeopleListingView.xaml;
 
 False
 

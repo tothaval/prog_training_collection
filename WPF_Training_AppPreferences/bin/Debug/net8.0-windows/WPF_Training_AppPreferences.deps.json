@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPF_Training_AppPreferences/1.0.0": {
+        "runtime": {
+          "WPF_Training_AppPreferences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_Training_AppPreferences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

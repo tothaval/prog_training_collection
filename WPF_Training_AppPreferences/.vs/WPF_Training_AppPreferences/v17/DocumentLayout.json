@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_training_apppreferences\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_training_apppreferences\\uisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|solutionrelative:uisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_training_apppreferences\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A0C2A-0B08-4771-ABCC-A4B6C233A3A4}|WPF_Training_AppPreferences.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T14:38:06.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UISettings.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\UISettings.cs",
+              "RelativeDocumentMoniker": "UISettings.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\UISettings.cs",
+              "RelativeToolTip": "UISettings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:51:54.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_Training_AppPreferences\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:38:03.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

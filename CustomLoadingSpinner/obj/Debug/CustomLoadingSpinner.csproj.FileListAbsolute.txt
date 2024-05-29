@@ -1,0 +1,13 @@
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\bin\Debug\CustomLoadingSpinner.dll
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\bin\Debug\CustomLoadingSpinner.pdb
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.csproj.AssemblyReference.cache
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner_MarkupCompile.cache
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner_MarkupCompile.lref
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\Themes\Generic.baml
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.g.resources
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.Properties.Resources.resources
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.csproj.GenerateResource.cache
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.dll
+E:\Programmierung\Sourcecodes C#\Trainings\CustomLoadingSpinner\obj\Debug\CustomLoadingSpinner.pdb

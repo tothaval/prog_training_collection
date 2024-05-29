@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_training9\\models\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|solutionrelative:models\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_training9\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_mvvm_training9\\viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E1FD24-0F2B-41A8-AAF1-9AA02FE50C88}|WPF_MVVM_Training9.csproj|solutionrelative:viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\Models\\UserManager.cs",
+              "RelativeDocumentMoniker": "Models\\UserManager.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\Models\\UserManager.cs",
+              "RelativeToolTip": "Models\\UserManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:09:56.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:09:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUserViewModel.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\ViewModels\\AddUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddUserViewModel.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_MVVM_Training9\\ViewModels\\AddUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddUserViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:09:28.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

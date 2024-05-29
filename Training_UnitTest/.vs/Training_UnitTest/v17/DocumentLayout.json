@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C34DDFC9-359F-4CF6-AF89-9DAB0890D3DD}|..\\Training_UnitTest.Tests\\Training_UnitTest.Tests.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\training_unittest.tests\\ping.tests\\networkservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41529E0-A152-4A20-92F4-4C6DF6AAE6C8}|Training_UnitTest.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\training_unittest\\ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41529E0-A152-4A20-92F4-4C6DF6AAE6C8}|Training_UnitTest.csproj|solutionrelative:ping\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41529E0-A152-4A20-92F4-4C6DF6AAE6C8}|Training_UnitTest.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\training_unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41529E0-A152-4A20-92F4-4C6DF6AAE6C8}|Training_UnitTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:42:46.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkServiceTests.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest.Tests\\Ping.Tests\\NetworkServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Training_UnitTest.Tests\\Ping.Tests\\NetworkServiceTests.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest.Tests\\Ping.Tests\\NetworkServiceTests.cs",
+              "RelativeToolTip": "..\\Training_UnitTest.Tests\\Ping.Tests\\NetworkServiceTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:44:50.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest\\Ping\\NetworkService.cs",
+              "RelativeDocumentMoniker": "Ping\\NetworkService.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\Training_UnitTest\\Ping\\NetworkService.cs",
+              "RelativeToolTip": "Ping\\NetworkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:03:08.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

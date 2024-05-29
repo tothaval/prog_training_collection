@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_draganddrop_mvvm\\views\\todoitemlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|solutionrelative:views\\todoitemlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_draganddrop_mvvm\\commands\\todoiteminsertedcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|solutionrelative:commands\\todoiteminsertedcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_draganddrop_mvvm\\views\\todoitemlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5E2396E-08D9-43E0-8C0A-761F136445C6}|WPF_DragAndDrop_MVVM.csproj|solutionrelative:views\\todoitemlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemInsertedCommand.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Commands\\TodoItemInsertedCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\TodoItemInsertedCommand.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Commands\\TodoItemInsertedCommand.cs",
+              "RelativeToolTip": "Commands\\TodoItemInsertedCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:48:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemListingView.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Views\\TodoItemListingView.xaml",
+              "RelativeDocumentMoniker": "Views\\TodoItemListingView.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Views\\TodoItemListingView.xaml",
+              "RelativeToolTip": "Views\\TodoItemListingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T07:46:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemListingView.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Views\\TodoItemListingView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TodoItemListingView.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_DragAndDrop_MVVM\\Views\\TodoItemListingView.xaml.cs",
+              "RelativeToolTip": "Views\\TodoItemListingView.xaml.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:39:10.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\adorners\\resizeadorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:adorners\\resizeadorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\adorners\\thumbs\\adornerthumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:adorners\\thumbs\\adornerthumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\resizeadorner\\adorners\\thumbs\\ithumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766321BD-7D28-4DB9-8A55-28F26A2A5AF0}|ResizeAdorner.csproj|solutionrelative:adorners\\thumbs\\ithumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T12:44:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdornerThumb.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\Thumbs\\AdornerThumb.cs",
+              "RelativeDocumentMoniker": "Adorners\\Thumbs\\AdornerThumb.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\Thumbs\\AdornerThumb.cs",
+              "RelativeToolTip": "Adorners\\Thumbs\\AdornerThumb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:59:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IThumb.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\Thumbs\\IThumb.cs",
+              "RelativeDocumentMoniker": "Adorners\\Thumbs\\IThumb.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\Thumbs\\IThumb.cs",
+              "RelativeToolTip": "Adorners\\Thumbs\\IThumb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:59:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResizeAdorner.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\ResizeAdorner.cs",
+              "RelativeDocumentMoniker": "Adorners\\ResizeAdorner.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\Adorners\\ResizeAdorner.cs",
+              "RelativeToolTip": "Adorners\\ResizeAdorner.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:50:03.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T11:49:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\ResizeAdorner\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:49:14.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

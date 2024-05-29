@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_DragAndDrop_MVVM", "WPF_DragAndDrop_MVVM.csproj", "{F5E2396E-08D9-43E0-8C0A-761F136445C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E2396E-08D9-43E0-8C0A-761F136445C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E2396E-08D9-43E0-8C0A-761F136445C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E2396E-08D9-43E0-8C0A-761F136445C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E2396E-08D9-43E0-8C0A-761F136445C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA067116-3639-476D-A253-D6FFEFD38168}
+	EndGlobalSection
+EndGlobal

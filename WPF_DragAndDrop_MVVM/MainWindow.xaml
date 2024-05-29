@@ -1,0 +1,41 @@
+﻿<Window x:Class="WPF_DragAndDrop_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DragAndDrop_MVVM"
+        xmlns:viewModels="clr-namespace:WPF_DragAndDrop_MVVM.ViewModels"        
+        xmlns:views="clr-namespace:WPF_DragAndDrop_MVVM.Views"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <views:DragAndDropCanvasView Grid.Column="0" Grid.ColumnSpan="2" Color="Orange" CanvasBackground="AntiqueWhite"                                     
+                                     x:Name="canvas"
+                                     RectangleDropCommand="{Binding SaveRectangleCommand}"
+                                     RectangleRemoveCommand="{Binding RemoveRectangleCommand}"
+                                     RemoveRectangleName="{Binding RemoveRectangleName}">
+            <views:DragAndDropCanvasView.DataContext>
+                <viewModels:DragAndDropCanvasViewModel/>
+            </views:DragAndDropCanvasView.DataContext>
+        </views:DragAndDropCanvasView>
+
+        <views:TodoView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
+            <!--<views:TodoView.DataContext>
+                <viewModels:TodoItemListingViewModel/>
+            </views:TodoView.DataContext>-->
+            
+        </views:TodoView>        
+
+    </Grid>
+</Window>

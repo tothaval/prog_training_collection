@@ -1,0 +1,92 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:WPF_CustomControls">
+
+
+    <Style TargetType="{x:Type local:FanCustomControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:FanCustomControl}">
+
+                    <Path Width="50" Height="50"
+                          Fill = "Coral"
+                          Stretch="Uniform"
+                          RenderTransformOrigin="0.5 0.5"
+                          Data="m 337.5293,277.17924
+q 0.041,-0.0205 0.0879,-0.0205 0.0498,0 0.0967,0.0322 0.0498,0.0322 0.0879,0.0967 0.0381,0.0615 0.0615,0.15528 0.0234,0.0908 0.0234,0.21093 -0.1582,0.0176 -0.30762,0.041 -0.14941,0.0205 -0.29883,0.0498 -0.14941,0.0293 -0.30175,0.0645 -0.15235,0.0352 -0.31641,0.082 0.11719,0.0762 0.24609,0.16406 0.12891,0.085 0.24903,0.16699 0.12011,0.082 0.22265,0.15528 0.10547,0.0703 0.16992,0.11718 0.0469,0.0352 0.0645,0.0762 0.0176,0.0381 0.0176,0.0791 0,0.0557 -0.0264,0.11426 -0.0264,0.0557 -0.0703,0.10839 -0.0439,0.0498 -0.10254,0.0937 -0.0557,0.0439 -0.11719,0.0733 -0.0937,-0.12598 -0.1875,-0.24317 -0.0937,-0.11719 -0.19336,-0.22851 -0.0967,-0.11426 -0.20508,-0.22559 -0.10547,-0.11426 -0.22851,-0.23437 -0.009,0.13769 -0.0205,0.29296 -0.009,0.15235 -0.0176,0.2959 -0.009,0.14356 -0.0205,0.2666 -0.009,0.12305 -0.0176,0.20215 -0.009,0.0557 -0.0322,0.0937 -0.0234,0.0352 -0.0586,0.0557 -0.0322,0.0205 -0.0732,0.0293 -0.041,0.006 -0.085,0.006 -0.0937,0 -0.17871,-0.0293 -0.082,-0.0322 -0.16113,-0.0879 0.0615,-0.14356 0.11718,-0.28125 0.0557,-0.14063 0.10254,-0.28418 0.0498,-0.14356 0.0937,-0.29297 0.0439,-0.14942 0.0879,-0.31641 -0.12304,0.0615 -0.26074,0.13184 -0.13769,0.0703 -0.26953,0.13476 -0.12891,0.0645 -0.24023,0.12012 -0.11133,0.0527 -0.18457,0.082 -0.041,0.0205 -0.0879,0.0205 -0.041,0 -0.0879,-0.0264 -0.0469,-0.0293 -0.0879,-0.0879 -0.041,-0.0586 -0.0674,-0.15234 -0.0264,-0.0967 -0.0264,-0.22852 0.15528,-0.0176 0.30176,-0.0381 0.14942,-0.0234 0.2959,-0.0498 0.14649,-0.0293 0.2959,-0.0645 0.15234,-0.0352 0.31641,-0.0791 -0.11719,-0.0762 -0.2461,-0.16114 -0.1289,-0.085 -0.25195,-0.16699 -0.12012,-0.082 -0.22266,-0.15234 -0.10254,-0.0732 -0.16406,-0.12305 -0.0469,-0.0352 -0.0645,-0.0732 -0.0176,-0.041 -0.0176,-0.082 0,-0.0527 0.0264,-0.11133 0.0264,-0.0586 0.0703,-0.11133 0.0439,-0.0527 0.0996,-0.0967 0.0586,-0.0439 0.12011,-0.0703 0.0937,0.1289 0.18458,0.24609 0.0937,0.11719 0.19335,0.23145 0.0996,0.11426 0.20508,0.22851 0.1084,0.11133 0.23145,0.22852 0.009,-0.1377 0.0176,-0.29297 0.0117,-0.15527 0.0205,-0.29883 0.009,-0.14648 0.0176,-0.26953 0.0117,-0.12598 0.0205,-0.20508 0.009,-0.0557 0.0322,-0.0908 0.0264,-0.0381 0.0586,-0.0586 0.0352,-0.0205 0.0762,-0.0264 0.041,-0.009 0.085,-0.009 0.0937,0 0.17578,0.0322 0.085,0.0293 0.16407,0.085 -0.0645,0.14355 -0.12012,0.28418 -0.0557,0.13769 -0.10547,0.28125 -0.0469,0.14062 -0.0908,0.29004 -0.0439,0.14941 -0.085,0.31348 0.12305,-0.0615 0.26074,-0.12891 0.14063,-0.0703 0.26953,-0.13184 0.13184,-0.0645 0.24317,-0.11718 0.11425,-0.0527 0.19043,-0.085
+z">
+                        <Path.RenderTransform>
+                            <RotateTransform x:Name="rotation" />
+
+                        </Path.RenderTransform>
+                    </Path>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="FanOn" Value="True">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard x:Name="storyboard">
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="rotation"
+                                                         Storyboard.TargetProperty="Angle"
+                                                         From="360"
+                                                         To="0"
+                                                         RepeatBehavior="Forever"/>
+                                    </Storyboard>                                    
+                                </BeginStoryboard>                                
+                            </Trigger.EnterActions>
+
+                            <Trigger.ExitActions>
+                                <StopStoryboard BeginStoryboardName="storyboard"/>
+                            </Trigger.ExitActions>
+                            
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type local:NavButton}">
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="Cursor" Value="Hand"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:NavButton}">
+                    
+                    <Border x:Name="back"
+                            Background="Transparent"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="8"
+                            Padding="{TemplateBinding Padding}">
+
+                        <Path x:Name="icon"
+                              Data="{TemplateBinding Icon}"
+                              Stretch="Uniform"
+                              Fill="#7b8792"
+                              Height="18"
+                              Width="18"/>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="back" Property="Background" Value="#d0ebff"/>                            
+                            <Setter TargetName="icon" Property="Fill" Value="#2a84f1"/>                         
+                        </Trigger>
+
+
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter TargetName="back" Property="Background" Value="#d0ebff"/>
+                            <Setter TargetName="icon" Property="Fill" Value="#2a84f1"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

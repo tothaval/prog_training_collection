@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\navbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:navbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\fanusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:fanusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|c:\\users\\taran\\source\\repos\\wpf_customcontrols\\fanusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B77348-31F0-450A-98A4-7633978E2D29}|WPF_CustomControls.csproj|solutionrelative:fanusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavButton.cs",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\NavButton.cs",
+              "RelativeDocumentMoniker": "NavButton.cs",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\NavButton.cs",
+              "RelativeToolTip": "NavButton.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:25:36.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T11:21:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FanUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\FanUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "FanUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\FanUserControl.xaml.cs",
+              "RelativeToolTip": "FanUserControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:15:51.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FanUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\FanUserControl.xaml",
+              "RelativeDocumentMoniker": "FanUserControl.xaml",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\FanUserControl.xaml",
+              "RelativeToolTip": "FanUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T11:14:26.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T10:18:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\taran\\source\\repos\\WPF_CustomControls\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:18:10.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

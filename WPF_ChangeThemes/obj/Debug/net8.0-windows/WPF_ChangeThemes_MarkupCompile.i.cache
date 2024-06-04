@@ -1,0 +1,20 @@
+﻿WPF_ChangeThemes
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_ChangeThemes\obj\Debug\net8.0-windows\
+WPF_ChangeThemes
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_ChangeThemes\App.xaml
+3-1580949403
+
+7353455419
+1981385397204
+MainWindow.xaml;Themes\Dark.xaml;Themes\Light.xaml;
+
+True
+

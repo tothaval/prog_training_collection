@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\notes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\notes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\files.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\files.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\billing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\billing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\accounts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\accounts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\landing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\landing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\pages\\landing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:pages\\landing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|e:\\programmierung\\sourcecodes c#\\trainings\\wpf_pagenavigation\\navbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FE825-312E-418C-8EEC-C2463866B750}|WPF_PageNavigation.csproj|solutionrelative:navbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Landing.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Landing.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Landing.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Landing.xaml.cs",
+              "RelativeToolTip": "Pages\\Landing.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:49:06.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Settings.xaml",
+              "RelativeDocumentMoniker": "Pages\\Settings.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Settings.xaml",
+              "RelativeToolTip": "Pages\\Settings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:42:33.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Reports.xaml",
+              "RelativeDocumentMoniker": "Pages\\Reports.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Reports.xaml",
+              "RelativeToolTip": "Pages\\Reports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:42:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notes.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Notes.xaml",
+              "RelativeDocumentMoniker": "Pages\\Notes.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Notes.xaml",
+              "RelativeToolTip": "Pages\\Notes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:42:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Landing.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Landing.xaml",
+              "RelativeDocumentMoniker": "Pages\\Landing.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Landing.xaml",
+              "RelativeToolTip": "Pages\\Landing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:42:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Files.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Files.xaml",
+              "RelativeDocumentMoniker": "Pages\\Files.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Files.xaml",
+              "RelativeToolTip": "Pages\\Files.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:41:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employees.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Employees.xaml",
+              "RelativeDocumentMoniker": "Pages\\Employees.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Employees.xaml",
+              "RelativeToolTip": "Pages\\Employees.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:41:40.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Billing.xaml",
+              "RelativeDocumentMoniker": "Pages\\Billing.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Billing.xaml",
+              "RelativeToolTip": "Pages\\Billing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:35:24.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accounts.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Accounts.xaml",
+              "RelativeDocumentMoniker": "Pages\\Accounts.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Pages\\Accounts.xaml",
+              "RelativeToolTip": "Pages\\Accounts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:35:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "Themes\\Generic.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\Themes\\Generic.xaml",
+              "RelativeToolTip": "Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:15:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavButton.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\NavButton.cs",
+              "RelativeDocumentMoniker": "NavButton.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\NavButton.cs",
+              "RelativeToolTip": "NavButton.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:10:11.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T11:08:15.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programmierung\\Sourcecodes C#\\Trainings\\WPF_PageNavigation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:08:11.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

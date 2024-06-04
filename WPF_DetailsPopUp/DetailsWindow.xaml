@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPF_Details.DetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Details"
+        mc:Ignorable="d"
+        Title="DetailsWindow" Width="350" Height="350">
+    <Grid>
+        <TextBlock Text="Name" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 20 0 0" />
+        <TextBlock Text="Email" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 60 0 0"  />
+        <TextBlock Text="Phone" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 120 0 0"  />
+        <TextBlock Text="Address" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 180 0 0"  />
+        <TextBlock Text="Country" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20 240 0 0"  />
+
+        <TextBlock Text="{Binding name}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20 20" />
+        <TextBlock Text="{Binding email}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20 60 20 20"  />
+        <TextBlock Text="{Binding phone}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20 120 20 20"  />
+        <TextBlock Text="{Binding address}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20 180 20 20"  />
+        <TextBlock Text="{Binding country}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20 240 20 20"  />
+
+
+    </Grid>
+</Window>

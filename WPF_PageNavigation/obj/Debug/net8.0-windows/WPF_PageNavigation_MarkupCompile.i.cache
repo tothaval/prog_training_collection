@@ -1,0 +1,20 @@
+﻿WPF_PageNavigation
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_PageNavigation\obj\Debug\net8.0-windows\
+WPF_PageNavigation
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+E:\Programmierung\Sourcecodes C#\Trainings\WPF_PageNavigation\App.xaml
+10711389362
+
+15-1728472282
+1981385397204
+MainWindow.xaml;Pages\Accounts.xaml;Pages\Billing.xaml;Pages\Employees.xaml;Pages\Files.xaml;Pages\Landing.xaml;Pages\Notes.xaml;Pages\Reports.xaml;Pages\Settings.xaml;Themes\Generic.xaml;
+
+True
+

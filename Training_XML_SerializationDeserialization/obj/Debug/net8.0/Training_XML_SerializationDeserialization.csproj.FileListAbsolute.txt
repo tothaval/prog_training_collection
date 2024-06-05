@@ -1,0 +1,14 @@
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\bin\Debug\net8.0\Training_XML_SerializationDeserialization.exe
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\bin\Debug\net8.0\Training_XML_SerializationDeserialization.deps.json
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\bin\Debug\net8.0\Training_XML_SerializationDeserialization.runtimeconfig.json
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\bin\Debug\net8.0\Training_XML_SerializationDeserialization.dll
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\bin\Debug\net8.0\Training_XML_SerializationDeserialization.pdb
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.AssemblyInfoInputs.cache
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.AssemblyInfo.cs
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.csproj.CoreCompileInputs.cache
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.dll
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\refint\Training_XML_SerializationDeserialization.dll
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.pdb
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\Training_XML_SerializationDeserialization.genruntimeconfig.cache
+E:\Programmierung\Sourcecodes C#\Trainings\Training_XML_SerializationDeserialization\obj\Debug\net8.0\ref\Training_XML_SerializationDeserialization.dll

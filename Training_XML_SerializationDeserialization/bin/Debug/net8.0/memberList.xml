@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>nuna</Name>
+    <Email>nuna@email.org</Email>
+    <Age>32</Age>
+    <JoiningDate>2024-06-04T14:37:16.7753953+02:00</JoiningDate>
+    <IsPlatinumMember>false</IsPlatinumMember>
+  </User>
+  <User>
+    <Name>zumpel</Name>
+    <Email>zumpelsmail@superemail.org</Email>
+    <Age>29</Age>
+    <JoiningDate>2024-06-04T14:37:16.775507+02:00</JoiningDate>
+    <IsPlatinumMember>true</IsPlatinumMember>
+  </User>
+  <User>
+    <Name>hal9000</Name>
+    <Email>hal9000@jupiter.org</Email>
+    <Age>6</Age>
+    <JoiningDate>2024-06-04T14:37:16.7755088+02:00</JoiningDate>
+    <IsPlatinumMember>true</IsPlatinumMember>
+  </User>
+</ArrayOfUser>

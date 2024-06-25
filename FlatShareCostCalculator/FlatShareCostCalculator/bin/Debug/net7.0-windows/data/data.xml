@@ -1,0 +1,19 @@
+<FlatShareCostCalculator>
+  <data>
+    <flat_space>57</flat_space>
+    <cold_rent>575</cold_rent>
+    <extra_costs_advance>183</extra_costs_advance>
+    <rooms>
+      <room>
+        <id>1</id>
+        <name>room 1</name>
+        <area>25</area>
+      </room>
+      <room>
+        <id>2</id>
+        <name>room 2</name>
+        <area>12</area>
+      </room>
+    </rooms>
+  </data>
+</FlatShareCostCalculator>

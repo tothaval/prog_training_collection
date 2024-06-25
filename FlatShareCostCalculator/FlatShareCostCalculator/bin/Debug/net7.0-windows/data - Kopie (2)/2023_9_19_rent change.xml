@@ -1,0 +1,43 @@
+<FlatShareCostCalculator>
+  <cost_update_data>
+    <cause>rent change</cause>
+    <based_on_AB>annual billing - 04.09.2023</based_on_AB>
+    <is_annual_billing>False</is_annual_billing>
+    <is_rent_change>True</is_rent_change>
+    <cost_update_received>19.09.2023</cost_update_received>
+    <period_start>01.01.0001</period_start>
+    <period_end>01.01.0001</period_end>
+    <initial_cold_rent>0</initial_cold_rent>
+    <initial_extra_costs_advance>0</initial_extra_costs_advance>
+    <cold_rent>903,93</cold_rent>
+    <extra_costs_advance>215</extra_costs_advance>
+    <annual_costs>0</annual_costs>
+    <extra_costs_shared>0</extra_costs_shared>
+    <extra_costs_heating>0</extra_costs_heating>
+    <heating_units_usage>0</heating_units_usage>
+    <heating_units_shared>0</heating_units_shared>
+    <rooms>
+      <room>
+        <id>1</id>
+        <name>room 1</name>
+        <area>12</area>
+        <room_heating_units_usage>0</room_heating_units_usage>
+        <room_payments />
+      </room>
+      <room>
+        <id>2</id>
+        <name>room 2</name>
+        <area>18</area>
+        <room_heating_units_usage>0</room_heating_units_usage>
+        <room_payments />
+      </room>
+      <room>
+        <id>3</id>
+        <name>room 3</name>
+        <area>19</area>
+        <room_heating_units_usage>0</room_heating_units_usage>
+        <room_payments />
+      </room>
+    </rooms>
+  </cost_update_data>
+</FlatShareCostCalculator>

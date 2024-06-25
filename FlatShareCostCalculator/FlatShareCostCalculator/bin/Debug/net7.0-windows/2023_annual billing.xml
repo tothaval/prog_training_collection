@@ -1,0 +1,83 @@
+<FlatShareCostCalculator>
+  <cost_update_data>
+    <cause>annual billing</cause>
+    <based_on_AB>
+    </based_on_AB>
+    <is_annual_billing>True</is_annual_billing>
+    <is_rent_change>False</is_rent_change>
+    <cost_update_received>04.09.2023 00:00:00</cost_update_received>
+    <period_start>01.01.2022 00:00:00</period_start>
+    <period_end>31.12.2022 00:00:00</period_end>
+    <initial_cold_rent>791,53</initial_cold_rent>
+    <initial_extra_costs_advance>215</initial_extra_costs_advance>
+    <cold_rent>903,93</cold_rent>
+    <extra_costs_advance>222</extra_costs_advance>
+    <annual_costs>2668,13</annual_costs>
+    <extra_costs_shared>1068,71</extra_costs_shared>
+    <extra_costs_heating>1599,42</extra_costs_heating>
+    <heating_units_usage>7789,939</heating_units_usage>
+    <heating_units_shared></heating_units_shared>
+    <rooms>
+      <room>
+        <id>1</id>
+        <name>room 1</name>
+        <area>12</area>
+        <room_heating_units_usage>2948,848</room_heating_units_usage>
+        <room_payments>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+          <payment>288,38</payment>
+        </room_payments>
+      </room>
+      <room>
+        <id>2</id>
+        <name>room 2</name>
+        <area>18</area>
+        <room_heating_units_usage>1644,390</room_heating_units_usage>
+        <room_payments>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+          <payment>349,72</payment>
+        </room_payments>
+      </room>
+      <room>
+        <id>3</id>
+        <name>room 3</name>
+        <area>19</area>
+        <room_heating_units_usage>807,216</room_heating_units_usage>
+        <room_payments>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+          <payment>361,09</payment>
+        </room_payments>
+      </room>
+    </rooms>
+  </cost_update_data>
+</FlatShareCostCalculator>

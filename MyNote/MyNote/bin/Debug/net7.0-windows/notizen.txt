@@ -1,0 +1,1824 @@
+2023|09|29||14|46#
+2023|09|29||14|46#
+2023|09|29||11|40#
+2023|09|29||11|40#
+2023|09|29||10|44#
+2023|09|29||10|44#
+2023|09|28||21|12#
+2023|09|28||21|12#
+2023|09|28||19|27#
+2023|09|28||19|27#
+2023|09|27||14|34#
+2023|09|27||14|34#
+2023|09|27||14|32#
+hatte vorhin ein kennenlernengespräch mit kontron ais gmbh, war recht angenehmes gespräch und klang nicht uninteressant. wäre mit dienstreisen verbunden, aber wohl wenig. geht um protokollübersetzung im backend, hauptsächlich mit c#, sowie um uml-ablaufdiagrammerstellung, sowie dokumentiertätigkeiten für anwendung und wartung des jeweiligen projekt-produkts. projekte können 3 monate bis zu 1 jahr gehen, vllt. auch drüber, keine ahnung, teamgröße 6-10 leute, manchmal scrum.
+2023|09|27||12|54#
+2023|09|27||12|54#
+2023|09|26||12|49#
+2023|09|26||12|49#
+2023|09|25||16|22#
+2023|09|25||16|22#
+2023|09|25||10|25#
+2023|09|25||10|25#
+2023|09|24||16|13#
+2023|09|24||16|13#
+2023|09|24||16|12# heute wenigstens mal wieder mit dem ersten buch weiter gekommen. habe heute insgesamt bei vielen kleinen und mittleren vorhaben/projekten fortschritte erzielt, war ne schöne abwechslung bisher. gleich muss ich mich vorbereiten, michele hat heute geburtstag und bei mutti gibt es essen.
+2023|09|24||09|29#
+2023|09|24||09|29#
+2023|09|23||12|30#
+2023|09|23||12|30#
+2023|09|23||12|27#
+habe die ersten 11 kapitel des c-lernbuchs geschafft, neigt sich so langsam dem ende entgegen und ist fast geschafft. 
+
+hatte gestern oder vorgestern post geöffnet, die indexmiete erhöht sich, was für ein scheiß, ganze 110€ kalt mehr als bisher. das kann ja was werden. glücklicherweise haben sich zumindest die nachzuzahlenden nebenkosten etwas verringert.
+
+heute müsste die webcam ankommen, bin gespannt. 
+
+werde mietkostenrechner vermutlich mit datenbank aufsetzen, das scheint am einfachsten zu sein, was die anordnung und strukturierung der einzelnen datenarten angeht, die ich brauche um alles berechnen zu können.
+2023|09|22||12|56#
+2023|09|22||12|56#
+2023|09|20||17|18#
+2023|09|20||17|18#
+2023|09|20||17|17#success may never be achieved.
+2023|09|20||17|16#
+2023|09|20||17|15#
+2023|09|20||17|15#
+2023|09|20||17|15# erfolglose haben gefälligst erfolglos zu bleiben! why should i keep a caring attitude?
+2023|09|20||14|15#
+2023|09|20||14|15#
+2023|09|20||14|14#
+sinnlos, kann es schon wieder lassen mit dem programmieren. irgendwer hat die miete nicht in der richtigen höhe überwiesen, es fehlen 363,63 € zur geplanten Vorauszahlung, weswegen die Nachzahlung auch so hoch ausfällt und nicht nur 88,13€. Richtig dumm mal wieder, es ist alles nur zum kotzen, bzw. in solchen momenten fusioniert alles ins problem hinein.
+2023|09|20||09|50#
+2023|09|20||09|50#
+2023|09|19||19|53#
+2023|09|19||19|53#
+2023|09|19||19|51#
+nächste woche mittwoch habe ich ein teams meeting mit einem unternehmen, bis dahin muss ich noch kamera und headset finden, prüfen und ggf. ersatz organisieren. firma heißt kontron ais gmbh, kontakt kam über tim kaiser von der recruting firma zustande, weiß gerade nicht welche, war denke ich die zweite, die mich angeschrieben hatte, nachdem ich den xing account erstellte.
+2023|09|19||19|47#
+ok, habe den mietkostenrechner soweit fertig, dass ich alles eingeben, und nach verbrauch ungefähr die neuen mietanteile berechnen kann, alles noch recht rudimentär. was noch fehlt ist das ausrechnen der nachzahlungsanteile gemessen am verbrauch. berücksichtigen muss ich, dass tim die letzte nk-nachzahlung komplett bezahlt hat, da die aufrechnung mit dem verbrauch schwierig war und er das meiste verbraucht hatte.
+das heißt ich muss die vorauszahlungen aus dem letzten jahr mit den verbrauchsteilen gegenrechnen.
+
+das programm macht das schon für die monatlichen anteile, doch nicht für die tilgung der nachzahlungssumme.
+
+2023|09|19||11|18#
+2023|09|19||11|18#
+2023|09|18||17|35#
+2023|09|18||17|35#
+die abfrage aus den textboxen wird nicht durchgeführt, weshalb es nur beim anlegen geklappt hat, nehme ich an. habe alternativ eine überlegung für einen neuen mietkostenrechner gemacht. ansonsten müsste ich debuggen, irgendwie hab ich einen fehler mit einer itemsource drin, kein plan. hab in der software erstmals versucht, erstmals mit bindings umzugehen, die applikation folgt grob dem mvc prinzip, aber die dateien sind alle noch zu groß, um übersichtlich zu sein. die abläufe und programmlogik ist noch äußerst rudimentär.
+2023|09|18||14|11#
+2023|09|18||14|10#
+fuck, muss den wg-kostenrechner fixen, da geht werte zurücksetzen nicht richtig, ganze programm erscheint auf den ersten blick wie eine katastrophe, andererseits hatte ich damals auch nur 3 tage oder so dafür aufgewandt, alles easy, nur verzögert es jetzt die beantragung der nebenkosten, bis ich es entweder händisch ausrechne, oder das programm reparieren konnte.
+
+werde nochmal für circa 11 euro einkaufen, v.a. für frühstück, sowie 1x wein.
+2023|09|18||09|32#
+2023|09|18||09|32#
+2023|09|17||16|04#
+2023|09|17||16|04#
+2023|09|16||20|07#
+2023|09|16||20|07#
+2023|09|15||16|45#
+2023|09|15||16|45#
+2023|09|15||16|44#
+heute endlich mit dem sameen kapitel im 4. edit fertig geworden, dass hat sich ganz schön gezogen. jetzt muss ich erstmal abwaschen.
+2023|09|14||16|00#
+2023|09|14||16|00#
+2023|09|14||15|59#
+2023|09|14||15|59#
+2023|09|14||15|57#
+war einkaufen, essen weitestgehend abgehakt, brauch nur noch wenig zukaufen. verbleibendes budget circa 76 €, 20 gehen vermutlich noch an tim, da bissl abzahlen, wie ich es nächste woche mit greenstuff und rauchen und kneipe mache weiß ich noch nicht.
+2023|09|14||15|57#
+2023|09|14||15|57#
+2023|09|13||19|32#
+2023|09|13||19|32#
+2023|09|13||09|11#
+2023|09|13||08|15#
+2023|09|12||14|09#
+2023|09|12||14|09#
+2023|09|12||14|08#
+heute einen langen spaziergang gehabt und drei wege erledigt dabei, circa 90 minuten unterwegs gewesen, anschließend gut in der küche das ka'taunsymbol für meditation genutzt, fünf mal gefeiert, jetzt nen kakao und bissl stargate, habe eine idee für ysui und ganz allgemein für programmentwicklung gehabt, notiert in der notizenapp.
+2023|09|11||08|15#
+2023|09|11||08|15#
+2023|09|10||23|29#
+2023|09|10||23|29#
+2023|09|10||20|54#
+2023|09|10||20|54#
+2023|09|09||16|41#
+2023|09|09||16|41#
+2023|09|09||16|40#rené hatte die idee, aktuelle lernprojekte ebenfalls mit in den lebenslauf einzutragen, also z.B. das ich mich aktuell in die Syntax von C einarbeite.
+2023|09|09||10|30#
+2023|09|09||10|30#
+2023|09|09||10|29#
+geburtstag, schaue stargate, mal sehen was ich sonst noch mache. heute abend essen bei mutti, danach mit steve und anderen an der elbe an der feuerstelle nahe rosengarten treffen.
+2023|09|07||08|24#
+2023|09|07||08|24#
+2023|09|06||10|45#
+2023|09|06||10|45#
+2023|09|05||11|52#
+2023|09|05||11|52#
+2023|09|05||11|52#
+wofür gibt es diese strunzendumme digitalisierung überhaupt?
+2023|09|05||11|51#
+umsonst zum bürgerbüro gelaufen, vorher extra nochmal nach den öffnungszeiten geschaut, doch heute aus organisatorischen gründen zu. sinnlos.
+2023|09|05||08|05#
+2023|09|05||08|05#
+2023|09|04||21|44#
+2023|09|04||21|44#
+2023|09|04||21|42#
+war baden, ganz gemütlich ohne rauchen, circa 30 minuten. habe noch abgewaschen, jetzt will ich noch einen kleinen spaziergang zum bullaugenspäti machen, ein bier holen und in den park gehen.
+hatte beim baden hunger auf nudeln bekommen, mit gebratenen zwiebeln und soße, doch beim abwaschen entschied ich mich dagegen, leicht hungrig schreite ich in die nacht hinein.
+2023|09|04||17|07#
+2023|09|04||17|07#
+2023|09|04||17|05#
+habe einen job gesehen, der vielleicht passt, aber das team macht webentwicklung mit ruby on rails, keinen plan, ob ich lust auf webentwicklung habe. sebastian im kolja meinte, vieles läuft nur noch per web bzw. browserinterface, mag sein, aber mir gefällt der trend irgendwie nicht, da die nutzbarmachung der rechnerleistung den browserentwicklern obliegt, genauso wie die darstellungsmöglichkeiten. auch in puncto sicherheit gibt es eine zusätzliche abhängigkeit irgendwohin. keine ahnung, vieles ist aktuell unklar.
+2023|09|04||17|05#
+2023|09|04||17|05#
+2023|09|04||17|03# vlet haette ich gehen sollen, naja, passiert, ist passiert, aktuell muss ich es ausbaden. apropos, habe vor, dann noch baden zu gehen, wanne ist schon geputzt, warte nur noch besuch ab und danach kann es eigentlich auch schon losgehen. was esse ich heute zum abendbrot? vielleicht nix weiter, habe heute schon abwechslungsreich gegessen und die letzten beiden tage bratkartoffeln/kartoffeln mit quark, sowie gebratenen zwiebeln, knoblauch und ei gegessen.
+2023|09|04||17|03#
+was soll ich tun, jobsuche aktiv nach junior developer, oder zunächst eigene projekte beenden und abschluss abwarten?
+2023|09|04||10|22#
+2023|09|04||10|22#
+2023|09|03||10|27#
+2023|09|03||10|27#
+2023|09|02||11|56#
+2023|09|02||11|56#
+2023|09|02||11|53#
+wenig lust die tage, dennoch immer weiter gemacht, gestern bissl mit es theoretisch programmiert und c programmbeispiele aus C/Karstens C-Buch adaptiert. die tage davor viele schulden bezahlt, pflanzen gepflegt, nicht am 1. buch weiter gemacht, über orbital und eine mögliche umsetzung mittels unreal engine, sowie über arbeit im it-bereich nachgedacht, hab ein paar jobs gefunden, von gestern auf heute 12h nicht geraucht, gestern 6/7 mit aktivkohle, heute ersten ebenso, ab und an vorm schlafen gehen bissl yoga, auch über yearh nachgedacht, wo ich aktuell stehe weiß ich nicht.
+2023|09|01||21|32#
+2023|09|01||21|32#
+2023|09|01||08|14#
+2023|09|01||08|14#
+2023|08|31||08|35#
+2023|08|31||08|35#
+2023|08|30||13|01#
+2023|08|30||13|01#
+2023|08|29||11|26#
+2023|08|29||11|26#
+2023|08|28||11|05#
+2023|08|28||11|05#
+2023|08|28||11|04#
+programmieren hab ich schon bissl erledigt, fehlen noch 8 seiten bis zum kapitelende, später erst weiter, jetzt frühstück;
+
+habe einen anruf von einem headhunter oder so bekommen, schau dann gleich mal in die mails. wäre ein job im python umfeld, mit möglichkeit auf 100% homeoffice.
+2023|08|28||09|28#
+2023|08|28||09|28#
+2023|08|28||09|26#
+hab vorhin schon im c buch von karsten weiter gelesen, werde mich dann noch den lektionen und übungsprogrammen widmen, plan ist auch noch bissl zu zocken, deserts of kharak weiter, ggf. starhiptroopers weiter, sowie an kyal sur weiter editieren, sofern genehm, sind schon über der hälfte.
+2023|08|28||09|26#
+2023|08|28||09|25#
+super high, heute kurz vor sieben im park gewesen, danach küche, 4,5 einheiten. purple heart, Vorstellungsbild wie bei grün oder blau, nur in violett.
+2023|08|27||09|15#
+2023|08|27||09|15#
+2023|08|26||20|39#
+2023|08|26||20|39#
+2023|08|26||20|39#
+okay, habe heute doch noch bissl kyal sur edited und für meine bewerbungsschreiben einen ersten entwurf zu den erfahrungen und projekten  aus letztem und diesem jahr erstellt.
+2023|08|26||17|25#
+2023|08|26||17|25#
+2023|08|26||17|22#
+hab mal meinen Namen gegoogelt und sogar einige Stephan Kammels gefunden.
+
+ansonsten heute mit c weiter gemacht und kapitel 4 geschafft, koste gerade die pflanzen, wenngleich deutlich zu früh, alles andere ist alle. habe vorgestern kyal sur weiter gemacht und 2 kapitel nochmals überarbeitet, sowie ein 3. erstmalig, habe gestern auf xing und linkedin mein profil bearbeitet und sachen ergänzt, sowie einige jobs gesucht, bei denen ich evtl. die anforderungen erfülle. abends noch mit steve im kolja getroffen. 
+2023|08|26||09|20#
+2023|08|26||09|20#
+2023|08|25||07|22#
+2023|08|25||07|22#
+2023|08|25||07|19#
+2023|08|24||18|46#
+2023|08|24||18|46#
+2023|08|22||09|13#
+2023|08|22||09|13#
+2023|08|22||09|12# hab mich gestern auf xing und linkedin angemeldet.
+2023|08|22||09|12# heute früh mit wasser im park in den tag gestartet, kurz nach 6 uhr. symbol mit hand und fuß in den boden geritzt.
+2023|08|12||19|23#
+2023|08|12||19|23#
+2023|08|12||19|22#
+hab auch einen plan für die verbesserung bzw. erweiterung der notizapp gemacht, beinhaltet u.a. c# port richtung wpf, mit dem ziel optik zu optimieren, sowie mehr optionen und ordnungsfunktionalität einzubauen, sowie einen port nach c++ und qt, um c++ zu üben.
+2023|08|12||19|19#
+2023|08|12||19|19#
+2023|08|12||19|17#
+heute die notizapp repariert, da fehlte shiftNotification() als methode, geht jetzt wieder im devbuild, habe zudem longpapes gekauft, wein getrunken, serienfolgen geschaut und alle wäsche aus dem wäschekorb gewaschen, biomüll runtergebracht und abgewaschen. hab auch schlagsahne mit joghurt gemixt, schau jetzt noch bissl serie, dann mach ich mir eierkuchen.
+2023|08|12||12|50#
+2023|08|12||09|03#
+2023|08|12||09|03#
+2023|08|11||17|38#
+2023|08|11||17|38#
+2023|08|11||17|36#
+hm, könnte mich zu einer wiederholungsprüfung anmelden, müsste ich nochmal ein praktikum machen, wegen neuem projekt, finde nur keine unterlagen mehr von der ihk, vermutlich bei der letzten unterlagenentsorgung mit in den müll gewandert. soll ich die ihk anschreiben und um die erneute zusendung bitten oder nicht?
+
+habe alle holzreste verarbeitet und ab heute nacht läuft die blühte. werde wohl in nächster zeit kein weed außer diesen resten haben, besorgung hat bisher nicht geklappt.
+
+2023|08|08||19|55#
+2023|08|08||19|55#
+2023|08|08||19|54#
+kyal sur 4.edit: 4. kapitel überarbeitet, 5. begonnen
+2023|08|08||09|44#
+2023|08|08||09|44#
+2023|08|08||09|44# habe zu dem ein 9 fraktionen hot seat spiel bei gladius angefangen.
+2023|08|08||09|43#
+gestern mal wieder richtig fett high gewesen.
+2023|08|07||19|39#
+2023|08|07||19|39#
+2023|08|07||19|37#
+Folgeüberlegungen für NARF-K erstellt, erstmal nur Papier in Handschrift und Foto auf Smartphone. lecker fusilli mit zwiebeln und knoblauch und rapskernöl, kurkuma, thymian, pfeffer, pfeffer bunt körner, oregano, kapern und basilikum, sowie salz, feta und gran padano gegessen, war lecker.
+2023|08|07||10|14#
+2023|08|07||10|14#
+2023|08|06||18|59#
+2023|08|06||18|59#
+2023|08|06||18|57#
+hab gestern zwei schöne frauen gesehen, sowie mehrere potentiell neugierige, wegen dann und wann zu mir schauen. die eine in der neustadt, alaunstraße, stieg vom fahrrad und lief ne weile vor mir her, bis ich sie überholen konnte, die andere ist ne bedienung im martinez, die ich zwischenzeitlich verwechselt habe mit einer anderen, die eine ähnliche körperform hat, doch vom gesicht her anders aussieht, hat mehr ein fliehendes kinn, was mir denke ich persönlich weniger gut gefällt, würde diese dennoch auch als hübsch bezeichnen, nur nicht mein typ.
+2023|08|06||18|56#
+2023|08|06||18|56#
+2023|08|06||18|54#
+hab heute drei von sechs pflanzen umgetopft, wollte heute in blüte schicken, aber habe den tipp bekommen noch ein bisschen zu warten. werde noch 2-3tage, höchstens sieben warten. sind schon ganz gut entwickelt.
+habe heute den größten ast, der voller nägel, stricke, wachs, sowie zwei haken war, von eben jenen sachen bereinigt. es gibt jetzt nur noch wenige wachsreste, sowie die löcher, wo die nägel und die haken steckten, bzw. reingeschraubt waren. montag in zwei wochen habe ich nen jobcentertermin, bin gespannt. zweifle langsam daran, ob es richtig war, die prüfungen saußen zu lassen und auf 2500€ zu verzichten.
+2023|08|06||18|53#
+2023|08|05||10|42#
+2023|08|05||10|42#
+2023|08|05||10|42#
+hab mir für gladius drei fraktionen und den lord of skulls dlc geholt, 24,80€.
+2023|08|05||09|39#
+2023|08|05||09|39#
+2023|08|04||08|08#
+2023|08|04||08|08#
+2023|08|04||08|07# fast fertig mit gaals schlag 2.edit, heute mach ich den rest, den ich machen kann und versuche auch anderes feedback mit einzuarbeiten.
+starte heute mit zocken in den tag und will möglichst lange oder insgesamt gar nicht kiffen. habe nur noch hasch oder hölzer da, gerade kein weed.
+2023|08|01||20|35#
+2023|08|01||20|35#
+2023|08|01||20|34#
+habe auch mein bafög endlich abbezahlt, dank eines weiterbildungsgeldes vom jobcenter, konnte ich auch allianz, sowie die letztmonatige und diesmonatige rate fürs jobcenter bezahlen, die nebenkostensache.
+2023|08|01||20|34# fast fertig mit 2.edit bei gaals schlag. habe das eine manuskript mit handschriftlichen ergänzungen durchgearbeitet, muss den fehlenden rest nur noch übertragen.
+2023|07|28||09|06#
+2023|07|28||09|06#
+2023|07|28||09|05#
+ansonsten victorious single life.
+2023|07|28||09|04#
+endlich wieder haschisch, wie auch immer, hab die letzten tage weiter buch überarbeitet, gestern hatte ich nen katertag, war vorgestern mit wenig essen tagsüber abends noch mit steve beim bullaugenspäti und hab gesoffen.
+2023|07|28||08|36#
+2023|07|28||08|36#
+2023|07|24||16|40#
+2023|07|24||16|40#
+2023|07|24||16|39#
+heute bisher ganz schön mies drauf gewesen, habe wenig gemacht. gegessen, film geschaut, sudoku gespielt, buch weggefleddert, bissl im zimmer weiter aufgeräumt, pflanzen gedüngt, mit erde versehen und gegossen, kurz tages- bzw. sonnenlicht, kurz strom gespart.
+
+2023|07|23||23|57#
+2023|07|23||23|57#
+heute, hm. übertrag handschriftlicher ergänzungen in den 2. edit 2. buch, ansosnten chilliger tag, dann und wann balkon, früh in der küche, abgewaschen, wäsche gewaschen, bissl gezockt starship troopers, bissl recherchiert und was gelernt, duschen und zähne geputzt, blumen und growprojekt gegossen, bett neu bezogen, gestern pflanzen umsorgt, bissl am buch edited, auf dem balkon mit dem ast sport und entspannungsexperimente gemacht, radio und musik gehört, picard 3.staffel angefangen
+2023|07|23||23|57#
+2023|07|23||09|27#
+2023|07|23||09|27#
+2023|07|21||16|08#
+2023|07|21||16|08#
+2023|07|21||16|07#
+heute alex beim verräumen von zeug und im garten geholfen, 20 euro gekriegt, bissl was eingekauft, ist nicht mehr ganz so hoffungslos. finanziell gesehen. heut auch an der glasscheibe vorbei gelaufen und das gesicht dahinter gesehen.
+
+2023|07|21||16|07#
+2023|07|21||16|07#
+2023|07|18||10|55#
+2023|07|18||10|55#
+2023|07|18||10|24#
+2023|07|18||10|24#
+2023|07|18||10|24#
+no ma'am
+2023|07|18||10|24#
+...
+2023|07|17||22|08#
+2023|07|17||22|08#
+2023|07|17||22|06#
+ich finde mein leben relativ beschissen insgesamt, klar, an fast allem bin ich selbst schuld, aber dennoch, mir erschließt sich gar nicht, warum es immer so viele widerstände, hürden, hindernisse und dumme zeiten gibt, die frust und hass schüren. dauernd not und elend, dass mich von freude und schönen gedanken wegzerrt wie eine dumme, gierige bitch.
+2023|07|17||14|18#
+2023|07|17||14|18#
+2023|07|17||14|17#
+vorhin von mutti erfahren, dass oma walli seit gestern im krankenhaus liegt. befund unbekannt, gestern ging es ihr einigermaßen gut. sollte es ihr sehr schlecht gehen, würde ich sie im krankenhaus besuchen, ansonsten ungern, weil echt kaum noch geld.
+2023|07|17||07|27#
+2023|07|17||07|27#
+2023|07|17||07|27#
+der tag der feuermelderinstallation.
+alles abgedeckt und so gut ging aufgeräumt, wasserkocher gefüllt.
+2023|07|16||14|06#
+2023|07|16||14|06#
+2023|07|15||20|10#
+2023|07|15||20|10#
+2023|07|15||20|10#
+wlan...
+2023|07|15||13|08#
+2023|07|15||13|08#
+2023|07|15||13|08#
+...
+2023|07|14||12|58#
+2023|07|14||12|58#
+2023|07|14||12|58#
+achja, habe auch ein arbeitszeugnis gekriegt von der mrk, liest sich okay. vielleicht bringt es was im falle einer etwaigen bewerbungmal sehen. warte ja noch auf eine antwort.
+2023|07|14||12|57#
+2023|07|14||12|57#
+2023|07|14||12|57#
+aber neue mint bisher ganz in ordnung, so wie es den anschein macht, ersteindruck ok.
+2023|07|14||12|54#
+gestern vorwort, 1.kapitel und anfang 2. kapitel von luhmanns gesellschaft der gesellschaft gelesen, sowie lustiges taschenbuch, habe auch kyal sur angefangen in einem 4.edit zu überarbeiten, sowie bei gaals schlag weitergemacht, wenn auch nicht allzu viel. habe mir alles per mail geschickt und es auch auf dem handy. seltsamerweise hat sich vorgestern der play count auf dem neu aufgesetzten küchenlaptop bei allen liedern auf 1 gesetzt, obwohl der rechner noch keine 50h in betrieb war, seltsam, wie es wohl dazu kam? ich hatte zwei browser mit captain hook sets parallel verschoben laufen, sowie chromium bsu, ein ätzendes spiel.
+2023|07|13||14|33#
+2023|07|13||14|33#
+2023|07|12||14|10#
+2023|07|12||14|10#
+2023|07|12||14|10#
+es ist alles soooooo dumm!!!!!!
+
+2023|07|10||17|49#
+2023|07|10||17|49#
+2023|07|10||13|21#
+2023|07|10||13|21#
+2023|07|10||13|20#
+2023|07|09||14|23#
+2023|07|09||14|23#
+2023|07|09||14|23#
+zeltweiterbau läuft bisher ganz entspannt und geht gut voran, gestern die küche umgebaut. 
+
+2023|07|09||14|23#
+2023|07|07||21|01#
+2023|07|07||21|01#
+2023|07|07||20|59#
+Leben weiterhin sinnlos. Nix geht los in diesem trägen, dummen Land voller Langweiler und Spiesser. Ich hab es so satt. Immerhin hab ich heute das MRK Problem endgültig hinter mich gebracht. Plugin lief nicht, es fehlte die funktionierende Version.
+
+IHK informierte mich per Brief, dass die eingereichte Projektarbeit nicht bewertet wird.
+
+Da ich nicht mehr weiter machen will, gehe ich davon aus das mir harte Sanktionen aus dem Bildungsgutschein und vom Jobcenter her drohen.
+
+So sieht deine Fairness aus, Lord.
+
+2023|07|03||14|30#
+2023|07|03||14|30#
+2023|07|03||14|30# iäuft.
+2023|07|01||15|42#
+2023|07|01||15|42#
+2023|06|30||08|12#
+2023|06|30||08|12#
+2023|06|30||08|12#
+2023|06|30||08|06#
+war nicht zur prüfung. hatte kurz vorher ne mail geschrieben, in der ich meine präsentation anhing sowie einige zornige Aussagen tätigte. hab die letzten tage an GAALs SCHLAG weiter gearbeitet. 2.Edit läuft, gibt einige neue coole Zauber für Fodyr in der Artefaktkiste, insgesamt sind es bisher 24 Artefakte und 13 Effekte.
+Hab ein bisschen in den Ausdruck gemalt, den ich matthi als leseprobe einst mitgab. 
+habe zudem an der element syntax theory weiter gearbeitet, und das bisherige konzept bei gitlab, github und sourceforge hochgeladen und seitdem einmal ergänzt, mglw. nicht überall wo ich es hochgeladen habe. mir gefällt die theorie sehr gut. habe diese nutzend die letzten tage auch den es Kodex gebaut und wieder deassembled, sowie viele Konzeptideen für ein Zivilisationsaufbauprogramm entwickelt, Ideen zur Welthungerlösung verfeinert, sowie über einen europ. Forschungsfond für Bürger und einen deutschen Forschungsminister nachgedacht. Alle diese Sachen habe ich ebenfalls aufgeschrieben. Krasse Tage liegen hinter mir. Den Fuffi Gras hab ich aufgeraucht und jetzt nichts mehr. Weiß nicht wie es weiter geht. Weiß nicht, ob ich zum Praktikum darf, denn wenn die Projektarbeit und die Kundendokumentation gut genug sind, könnte es dennoch sein, das ich bestanden hab, weiß es nicht.
+
+2023|06|26||13|40#
+2023|06|26||13|40#
+2023|06|21||10|16#
+2023|06|21||10|16#
+2023|06|19||14|13#
+2023|06|19||14|13#
+2023|06|16||13|15#
+2023|06|16||13|15#
+2023|06|15||21|48#
+2023|06|15||21|48#
+2023|06|15||21|48#seit gestern ist esedi in entwicklung, ein in pyqt geschriebener editor für die EigeneSprache/ElementSyntax
+2023|06|15||21|47#twd in wsd umbenannt
+2023|06|13||15|00#
+2023|06|13||15|00#
+2023|06|13||14|59# twd klappt.
+2023|06|12||23|22#
+2023|06|12||23|22#
+2023|06|12||23|22#check, präsi fast fertig
+2023|06|11||15|08#
+2023|06|11||15|08#
+2023|06|11||15|07#
+ES EigeneSprache (bis ein Name da ist)
+bis eben Ideen dafür entwickelt, wie es mit Conditions, Loops, ggf. Builtins etc. aussehen könnte. Natürlich noch recht basic.
+2023|06|11||12|35#
+2023|06|11||12|35#
+2023|06|11||12|33#
+gestern mario und mutti geholfen, das restliche zeug aus marios alter wohnung zu holen und in die neue zu tragen, war ganz schick, hab einen riesigen kaktus und eine andere sehr große pflanze gekriegt, sowie einen klappstuhl.gestern abend noch im park gewesen, davor lange in der küche, gegen ende hin hab ich mir noch soße für heute und morgen gekocht.
+2023|06|09||09|10#
+2023|06|09||09|10#
+gestern ne idee bzgl. einer eigenen programmiersprache, hauptsächlich in punkto syntax und hauptfeatures, gehabt.
+2023|06|04||13|29#
+2023|06|04||13|29#
+2023|06|04||00|37#
+2023|06|04||00|37#
+2023|06|04||00|37#
+beste zeit.
+2023|06|03||11|57#
+2023|06|03||11|57#
+2023|06|03||11|55#
+2023|06|03||11|53#
+druck und bindungskosten bei schwarz weiß druck: 17 € (8,5 für Hardcoverbindung mit Kashmir und Premium Leder, 4,9 für Goldprägung des Buchaufdrucks "Projektdokumentation", sowie 3,6 fürs drucken von 45 Seiten). Druckkosten bei Farbe wären 29,25€, finde ich zu viel für meine derzeitige Finanzlage, Kosten mit Farbe: 42,65€. Ersparnis 25,65€, wenn ich schwarz weiß drucke. muss glaub nur 1 exemplar vorlegen.
+2023|06|03||11|46#
+2023|06|03||11|46#
+2023|06|03||11|45#
+heute will ich noch die projektarbeit drucken und binden lassen, geld ist schon recht knapp, habe schulden abgebaut und die nötigsten einkäufe erledigt, sowie bis auf jobcenter und bafög alles bezahlt. riverty will zwar auch ab juni geld, aber den hatte ich geschrieben, und muss es nochmal schreiben mangels lesekompetenz, das ich frühestens ab dezember mit ratenzahlung beginnen kann.
+2023|06|03||11|44#
+planet network viewer komplett umgebaut, läuft alles schnieke und schnell, nächste woche noch der cable viewer und ggf. beides in einem plugin mit optionen, falls wir es schaffen sollten, könnte ich das als plugin für die leute dort hinterlassen.
+2023|05|29||12|48#
+2023|05|29||12|48#
+2023|05|29||12|46#
+bin weitestgehend bereit fürs losgehen, muss mich nur noch rasieren, ein anderes hemd anziehen, vielleicht parfüm auftragen, sowie einen gürtel anlegen. da ich mit der bahn fahre, schau ich vielleicht nochmal nach, aber geplant war gegen 15:50 loszugehen. kann damit jetzt also noch eine kleinigkeit essen, falls bedarf, sowie bissl zocken oder programmieren. hab ja gerade keine streamingdienste abonniert.
+2023|05|28||23|43#
+2023|05|28||23|43#
+2023|05|28||23|43#
+2023|05|28||23|43#naja, gut voran gekommen.
+2023|05|28||21|36#
+2023|05|28||21|36#
+2023|05|28||21|34#
+achja, mutti war heut zu besuch und hat essen und fahrgeld, sowie zwei kurzfahrten vorbei gebracht, damit ich morgen zum essen fahren kann. werde die kurzfahrten nehmen und mit der bahn fahren, sollte ausreichen, da kann ich das geld in papers und eventuell ein käsebrötchen am dienstag oder ein jever morgen abend einsetzen. denke werde heute einen weiteren tag alkfrei machen und eventuell mit ner flasche wasser in den park gehen, vielleicht bleib ich auch zu hause und geh schlafen. schau mir jetzt noch bissl den quelltext an und kucke mal ob ich noch bisschen was von der konzeption umsetzen kann.
+2023|05|28||18|02#
+2023|05|28||18|02#
+2023|05|28||18|02#ich sags ja, ich bin nicht kompetent für informatik.
+2023|05|28||12|23#
+klappt nicht wie gedacht, schaffe es nicht, die vererbung von scene management mit pythons modulsystem und einer sinnvollen ansprechbarkeit der buttons in einklang zu bringen.
+2023|05|28||12|23#
+2023|05|28||12|22#
+rekonzeption des network viewer und cable viewer concepts handschriftlich erstellt, probiere jetzt mal mein glück in der umsetzung, damit ich die nächsten zwei praktikumswochen alles was ich mir dazu vorgenommen habe, gemütlich und sicher abschließen kann.
+2023|05|27||18|44#
+2023|05|27||18|44#
+2023|05|27||18|44#
+hmm. 
+2023|05|27||15|13#
+2023|05|27||15|13#
+2023|05|27||15|10#
+heute richtig gut sämtliche dringliche hausarbeit, also wäsche und abwasch, pflanzen gießen und biomülleimer sauber machen part 1, sowie die mahlzeit erledigt. gestern war es eher ruhig im kolja, wenig leute, vier joints, plus mitrauchoptionen, mutti rief an wegen dem essen am montag, damianos bruder ist da, das ist ihm wichtig, da soll ich mit dabei sein, mutti gibt mir fahrgeld, da klappt das. jetzt steht das wochenende an, pfingsten, keine ahnung was ich mache, probiere zunächst bissl zu zocken oder ein programmierprojekt zu machen, vllt. auch 3d oder buch, wobei, keine  ahnung. achso ja, geld hab ich keins mehr, außer vllt. mnoch so vier euro auf dem konto, bargeld ist alle, bis mittwoch sollte ich mit dem meisten ausreichend versorgt sein.
+2023|05|23||19|10#
+2023|05|23||19|10#
+2023|05|23||19|09#
+ergebnisse sind da, 2 vieren und bei wiso eine 2, also relativ schlecht, vielleicht langt es mit projekt und verteidigung. hab so keine lust auf mein leben seit vielen jahren, da stört und wundert mich so ein ergebnis natürlich gar nicht, wo kein wille, da keine lust, wo keine lust, da kein einsatz, wo kein einsatz, da kein erfolg. easy, klappt wie geplant, no achiever.
+2023|05|21||18|29#
+2023|05|21||18|29#
+2023|05|20||16|37#
+2023|05|20||16|37#
+2023|05|20||16|35#
+chillen.
+2023|05|19||12|03#
+2023|05|19||12|03#
+2023|05|18||14|04#
+2023|05|18||14|04#
+2023|05|18||14|03#
+gestern abend war tim mit verena und sarah in der küche, als ich vom kolja heim kam, war noch recht nicer abend. im praktikum hab ich die automatisierung der querschnitte fertig gestellt, gibt jetzt auch nen rand für jeden, nächste woche dann vielleicht sql, hatte eine idee dazu. 
+verena hat mich noch fest umarmt als sie ging, nachdem sie sich lange gut auf der couch positionierend zur schau stellte, sehr schön.  
+2023|05|18||14|02#
+2023|05|18||14|02#
+2023|05|14||07|59#
+2023|05|14||07|59#
+2023|05|13||22|52#
+2023|05|13||22|52#
+2023|05|13||12|05#
+2023|05|13||12|05#
+2023|05|13||12|04# sinnlos, shadowrun ne ganze weile umsonst gezockt weil im dialog ne falsche option geklickt wurde, kann ich alles nochmal von vorne beginnen. weiterhin kein spaß empfunden bisher.
+2023|05|13||08|32#
+2023|05|07||15|06#
+2023|05|07||15|06#
+2023|05|07||14|41#
+2023|05|06||23|32#
+2023|05|06||23|32#
+2023|05|06||15|21#
+2023|05|06||15|16#
+2023|05|01||10|59#
+2023|05|01||10|59#
+2023|04|30||13|12#
+2023|04|30||13|12#
+2023|04|29||19|13#
+2023|04|29||19|13#
+2023|04|29||19|12#
+gestern und vorgestern insgesamt nur 10h (4 und 6) im praktikum gewesen, muss ich wieder reinarbeiten. hab mit dem kommentieren des plugins angefangen. und mit ner kollegin gequatscht.
+2023|04|28||09|17#
+2023|04|28||09|17#
+2023|04|28||09|16#
+prüfungen liegen hinter mir, sehr erleichternd, habe mal wieder mehr aus 18 erinnert, das wesentlichere kam mal wieder näher als die letzten jahre, sehr schön. da bin ich froh drüber.
+2023|04|25||19|57#
+2023|04|25||19|57#
+2023|04|25||19|57#
+2023|04|25||19|56#
+2 jahre mit bullshit verschwendet, der mich nicht die bohne interessiert. und alles nur, um mich vom schreiben abzubringen, darum wirds gegangen sein. ging ja schon mit den technikproblemen los. fluch und fluch, so ist mein leben.
+2023|04|25||15|50#
+2023|04|25||15|50#
+2023|04|25||15|49#
+2023|04|25||15|49#reichlich spät komme ich nun dazu, mit dem lernen zu beginnen. viele viele gedanken hielten mich auf, vor allem kein bock, keine lust und das ungute gefühl, den beruf betreffend, ich hasse ihn.
+2023|04|25||15|49#
+2023|04|24||18|58#
+2023|04|24||18|58#
+2023|04|24||18|58#
+alles ersetzt.
+2023|04|24||18|57#
+2023|04|24||18|57#
+2023|04|24||18|56#
+die projektarbeit muss noch gedruckt und  gebunden werden, ich werde alle gesicherten pdfs mit der aktuellen projektarbeit.pdf ersetzen. merkblatt konsultieren wegen art des drucks und der bindung.
+2023|04|24||18|55#
+puh, geschafft, projektarbeit hochgeladen und ein testexemplar runtergeladen. jetzt steht lernen auf dem plan, aber zuvor chille ich noch ein wenig und mache mir was zu essen.
+2023|04|24||12|22#
+2023|04|24||12|22#
+2023|04|24||12|21#
+endspurt, jetzt noch den letzten rest einpflegen, alles korrekt nach merkblatt zusammenstellen und dann hochladen.
+2023|04|23||20|31#
+2023|04|23||20|31#
+2023|04|23||20|30#
+habe heute circa von 12 -1930 im ithandbuch gelesen und lernvorbereitung gemacht, natürlich mit pausen zwischendrin, jetzt war ich im park mit zwei grünen kippchen und nem bier, jetzt setze ich mich an uml, text, anhang vervollständigen. morgen muss ich das hochladen.
+2023|04|23||20|30#
+2023|04|22||11|40#
+2023|04|22||11|40#
+2023|04|22||11|39#
+heute morgen im park nen kaffee getrunken, gestern abend auf 2 im park gewesen gegen null uhr bis halb eins oder um eins, ein jever, danach im löffel noch zwei kleine bier getrunken, gabi hatte dienst und hat mir eins ausgegeben, ansonsten waren leider nur männer dort. gestern den letzten schultag gehabt, schön.
+2023|04|21||23|09#
+2023|04|21||23|09#
+2023|04|21||23|09#
+check.
+2023|04|21||15|30#
+2023|04|21||15|30#
+2023|04|21||15|30#
+später noch essen machen, geld ist fast alle, in einer woche gibt es neues.
+2023|04|21||15|28#
+schule geschafft, endlich. war heute und gestern eher aus, auch gut. gut weggeballert in der küche, jetzt versuche ich noch bissl zu zocken und die arbeit nochmal zu lesen, sowie die codeausschnitte im kapitel mit den klassenbeschreibungen als anhang hinterlegen.
+2023|04|21||15|28#
+2023|04|20||15|32#
+2023|04|20||15|32#
+2023|04|20||15|32#
+weiß echt nicht ob das was wird, vermutlich nicht, hege starke zweifel, ist der beruf überhaupt was für mich?
+2023|04|20||15|31#
+heute in beiden testprüfungen gar nix gewusst, völlig andere themen als im unterricht, hart.
+2023|04|19||18|06#
+2023|04|19||18|06#
+2023|04|18||20|29#
+2023|04|18||20|29#
+2023|04|18||20|28#
+2023|04|18||20|28#
+bin ganz schön durch, wenig gegessen, viel geraucht, wein getrunken, noch nix weiter gemacht, kolja hat zu, ich kene lust scheinbar auf projektarbeit optimierung, hm
+
+2023|04|17||16|27#
+2023|04|17||16|27#
+2023|04|16||11|15#
+2023|04|16||11|15#
+2023|04|16||11|15#
+putze gerade die beiden modellautos mit einem taschentuch, die sind völlig verstaubt. das grüne ist schon wieder weitestgehend sauber, das sieht gleich ganz anders aus.
+2023|04|16||11|15#
+2023|04|16||11|15#
+2023|04|16||11|13#
+vortritt wegen nur zwei kleine packungen fleisch, während ich einen größeren einkaufszettel abgearbeitet hatte.
+2023|04|16||11|13#
+2023|04|16||11|12#
+gestern ner hübschen jungen frau den vortritt im netto gelassen. war später auch auf ein kleines bier im löffel, hab die kundendokumentation, sowie vieles an hausarbeit fertig bekommen. scans von den gez bescheiden des jobcenters für die mail an riverty hab ich auch gemacht. ansonsten gladius mit tyraniden fertig gespielt und auch die aeldari questline geschafft.
+2023|04|15||09|17#
+2023|04|15||09|17#
+2023|04|14||21|28#
+2023|04|14||21|28#
+2023|04|14||19|41#
+2023|04|13||17|52#
+2023|04|13||17|52#
+2023|04|12||18|15#
+2023|04|12||18|15#
+2023|04|12||18|13#
+muss sie  noch weiter schneiden, sind noch zu groß, sowohl was die relevanten inhalte angeht(die im qgisfenster einfach untergehen), als auch die speichergröße der bilddatei. muss alles passend schneiden und in jpeg konvertieren, um minimalen speicherverbrauch zu haben, darf nur 4mb große datei für kundendoku und projektdoku hochladen, also insgesamt.
+2023|04|12||18|13#
+2023|04|12||18|12#
+eben schonmal die screenshots vorgeschnitten und erste gedanken zur präsentation und zu verwendenden screenshots in der projektdoku und kundendoku gemacht.
+2023|04|12||17|50#
+2023|04|11||19|20#
+2023|04|11||19|20#
+2023|04|10||23|47#
+2023|04|10||23|47#
+2023|04|10||21|00#
+2023|04|10||21|00#
+2023|04|10||20|59#
+75,50 euro für ne monatskarte, echt krank. ostern bei vati und gestern bei mutti war toll, familie mal wieder erlebt. hab heute die kundendokumentation fertig geschrieben, es müssen noch zwei drei kleine formale fehler behoben werden, seitenzahl und kopfzeile.
+
+zock jetzt noch bissl gladius und gehe vielleicht noch in den park auf ein bier und ne tüte.
+2023|04|09||13|39#
+2023|04|09||13|39#
+2023|04|09||13|38#
+gestern habe ich das zimmer etwas umgeräumt und habe endlich wieder platz für yogamatte und wäscheständer, ohne dass ich auf yoga oder andere sportmöglichkeiten verzichten muss wie bisher. war auch im park, insgesamt ein guter tag, gladius mit hot seat als zwei spieler gespielt und ein wenig an der kundendokumentation für die projektarbeit gearbeitet.
+
+2023|04|08||09|41#
+2023|04|08||09|41#
+2023|04|06||17|34#
+2023|04|06||17|34#
+2023|04|06||17|33#
+habe heute erfahren dass das praktikum doch noch eine weile geht, nämlich mai und juni, da ich erst am 27.06. die mündliche prüfung, sprich die vorstellung der projektarbeit und das fachgespräch.
+ende april finden nur alle schriftlichen prüfungen gebündelt statt. 
+
+2023|04|01||17|08#
+2023|04|01||17|08#
+
+heute bissl gladius gezockt, schaue gerade orville staffel 3 folge 9
+2023|04|01||09|28#
+2023|04|01||09|28#
+2023|04|01||09|27#
+praktikum geschafft, zwei tage ende april noch sollte die prüfung bestanden werden, sowie morgen und die tage noch die projektarbeit beenden. meine doku sieht ganz anders aus als beispielarbeiten, weiß nicht ob das so gut ist in puncto bewertung, naja, mir gefällt es soweit als schriftstück.
+
+2023|03|31||07|58#
+2023|03|31||07|58#
+2023|03|21||09|48#
+2023|03|21||09|48#
+2023|03|19||09|06#
+2023|03|19||09|06#
+2023|03|18||17|47#
+2023|03|18||17|47#
+2023|03|18||17|47#
+in mich gekehrt, versuche wieder zum inneren Frieden zurückzufinden und vielleicht perspektivisch wieder etwas mehr an dem mich umgebenden leben teilzunehmen, mal sehen.
+2023|03|18||17|46#
+noch ne idee fürs praktikum und meine abschlussarbeit gehabt, ein node widget als quintessenz der bisherigen pluginarbeiten und der adcs.
+
+2023|03|15||09|07#
+2023|03|15||09|07#
+2023|03|12||11|15#
+2023|03|12||11|15#
+2023|03|12||11|15#
+2023|03|11||15|56#
+2023|03|11||15|56#
+2023|03|11||15|55#
+gut abgehustet und letztens spazieren gewesen, zweimal wegen streik, einmal eine einkaufsrunde durch die neustadt.
+2023|03|05||12|20#
+2023|03|05||12|20#
+2023|03|01||19|01#
+2023|03|01||19|01#
+2023|03|01||19|00#
+praktikum läuft ok derzeit, habe stellenweise schlechte laune, komme aber ok voran mit dem plugin
+-
+beim einatmen mit dem mund habe ich schwierigkeiten luft zu kriegen, mit der nase läuft es. das halsproblem scheint am kehlkopf zu liegen. wenn ich mich nach hinten und/oder nach links neige und etwas trinke, merke ich wie sich die sachen lösen, ich muss auch quasi sofort rülpsen.
+
+2023|02|18||19|09#
+2023|02|18||19|09#
+2023|02|12||14|14#
+2023|02|12||14|14#
+2023|02|11||18|42#
+2023|02|11||18|42#
+2023|02|11||16|17#
+2023|02|11||16|15#
+eine woche praktikum geschafft, war ganz angenehm,muss das lfp plugin refactorn, coole aufgabe, das hilft um wieder in die materie python, pyqt usw. rein zu kommen. gestern war ich nicht bei opas geburtstag, da gab es ein essen, aber ich hatte es erst gestern erfahren. dafür abends schön meditiert, gechillt, im park gewesen nur um frische luft zu schnappen und sterne zu schauen, danach bin ich ins kolja, war ne bunte mischung von leuten da. als jenny mit chris kam, war wirkung erst super neutral, lies bissl nach, aber hielt, hat mich gefreut in dem moment.
+
+2023|02|05||20|22#
+2023|02|05||20|22#
+2023|02|05||20|21#
+miese schmerzen rechts oben im kiefer oder in der nasennebenhöhle, vllt. auch beides, sher störend, aber sehr sporadisch, zahnarzttermin?
+2023|02|05||14|50#
+2023|02|05||14|50#
+2023|01|15||12|16#
+2023|01|15||12|16#
+2023|01|15||12|13#
+mache immer noch pause, ab dienstag wäre wieder möglich, da habe ich 3 wochen am stück gar nix gemacht. 
+
+habe gerade versucht bissl zu zocken, aber auf spellforce habe ich keine lust gerade, weiß noch nicht, was oder ob ich spiele, alternativ film schauen, bissl yoga, war gestern beim ludwig auf der geburtstagsparty im kolja, war ganz nice, gab fünf bier und fünf mexikaner, zuvor hatte ich zuhause noch wein zum essen getrunken, hab heute also eh nen folgetag, mal schauen.
+
+steffen hat sich wegen eines projektes zurückgemeldet, klingt ganz interessant, ein weiteres plugin mit konkreter visualisierungsaufgabe zu erstellen für qgis, kling nach einem guten projekt für 80h Arbeit, habe auch schon eine erste Idee entwickelt.
+
+2023|01|06||16|10#
+2023|01|06||16|10#
+2023|01|06||16|07#
+hab ys ui mal entfernt, nachdem es ohne daten und bindings gestartet ist und beim versuch der wiederherstellung abstürzte. 
+
+hab die tage auch mal einige dokumente sowie manuskript für die fortarbeit am 2. buch vorbereitet.
+
+bin weiterhin relativ down und fühle mich auch mental nicht so fit wie sonst, alles sehr träge. 
+
+rauche weniger und versuche die vielen gedanken zu lassen bis auf wenige momente am tag, das ist sehr heilsam, vielleicht auch ein teil der ursache für die mentale trägheit, die einstellung bisheriger gewohnheiten und das warten auf neues.
+
+2023|01|02||14|35#
+2023|01|02||14|35#
+2023|01|01||16|48#
+2023|01|01||16|48#
+2023|01|01||16|47#
+2023|01|01||15|14#
+2022|12|31||20|56#
+2022|12|31||20|56#
+2022|12|31||20|53#
+jetzt gleich geht es ins kolja zur silvesterparty, ich bin gespannt. vielleicht rede ich heute mal wieder mit den leuten, schön wärs. habe heute den sonnengruß auf der yogamatte am fenster gemacht, war schön anstrengend, danach noch bissl dehnung in der küche gemacht. weniger rauchen hat heute nicht geklappt, aber dafür habe ich wenigstens die zwölf stunden rauchpause eingehalten und überwiegend oder hälftig mit aktivkohlefilter geraucht. 
+habe heute thor love and thunder gekauft, sowie ein disney+ account gekauft, ist monatlich kündbar, kostet knapp 9 euro, geht also, vielleicht unterhaltsam als alternative zu netflix und prime.
+
+2022|12|31||20|52#
+was für bewegende, von innerer einkehr und vielen einsichten geprägte tage das waen, echt krass. schön, anstrengend, sehr auflösend, viele ängste sind wieder hoch gekommen. die pause vom programmieren tat mir gut.
+
+2022|12|28||12|43#
+2022|12|28||12|43#
+2022|12|28||12|40#
+versuche heute mal, die haare geschnitten zu kriegen beim friseur, ob ich am projekt weiter mache, ein anderes mal weiterführe oder spiele oder nix mache, weiß ich noch nicht. was ich zunehmend weiß, ist wohl, dass ich insgesamt deutlich weniger rauchen will/möchte, definitiv bei 3 die grenze pro tag setzen, vielleicht noch weniger. will aus der abhängigkeit beim jobcenter endlich mal raus. und ich will neue freunde finden. und wieder yoga und vllt. auch mal wieder kampfkunst in nem verein oder so machen.
+2022|12|28||12|39#
+in diesem dokument einige nachträge eingebaut, es von anfang bis hierher gelesen. selbstreflektion im selbstzweifel ist seltsam, die sicht auf das selbst schonungsloser als sonst möglich, regt zum nachdenken an, das auf jeden fall.
+2022|12|28||11|57#
+2022|12|28||11|56#
+vergessen hier den eintrag zu machen, hatte am freitag 23. noch eine pizza gemacht, hatte hefe und mehl im netto gekauft, die war lecker und hat sehr gut geschmeckt.
+
+2022|12|28||11|55#
+weihnachten überstanden, war schön, war aber gesundheitlich nicht fit und sehr nachdenklich die ganze zeit.
+
+2022|12|28||11|55#
+2022|12|28||11|55#
+ich bin so besiegt vom leben, so krass.
+2022|12|27||16|38#
+2022|12|27||15|47#
+2022|12|27||15|47#
+2022|12|27||15|47#
+2022|12|22||18|35#
+2022|12|22||18|35#
+2022|12|22||18|35#
+bin gerade echt en bissl depri und im zweifel. habe ich mich richtig entschieden die letzten jahre? oder war alles ein fehler?
+
+2022|12|22||15|48#
+2022|12|22||15|48#
+2022|12|22||15|47#
+lag vom eintrag gestern bis heute morgen zehn uhr durchgängig im bett, heute geht es etwas besser, aber nicht viel. christian war kurz zu besuch, brachte gut was mit. hab bissl in der küche auf der couch gechillt und noch ein dampfbad gemacht sowie gefrühstückt.
+
+2022|12|21||16|50#
+2022|12|21||16|50#
+2022|12|21||16|48#
+heute bin ich ganz schön krank, harte brustschmerzen, null power, das bekannte programm.
+
+gestern im Kolja erfuhr ich, dass Ingo R. verstarb gegen 21 Uhr an Lungenkrebs, sie hat wohl einen Eingriff verweigert und dann ging alles ganz schnell, so der Bericht. haben gestern noch auf Ingo angestoßen mit drei Schnaps, Thomas zahlte meine Rechnung, seltsamer Tag.
+
+2022|12|20||20|43#
+2022|12|20||20|43#
+2022|12|20||20|42#
+was für ein bescheidener tag. nix geschafft, fast nix, bissl bugs gefixt, ngon save and load, polyline weiter gemacht, aber noch nicht so überzeugend alles. zudem geht es mir körperlich nicht so pralle.
+
+für heute langts, geh erstmal duschen.
+
+wollte heute pizza machen, extra die hefe im wasser angesetzt, dann bemerkt das ich gar nicht genug mehl habe, sehr schade.
+
+2022|12|20||12|09#
+2022|12|20||12|08#
+vielleicht ist das so ein schnöseliger sinnlos ego anspruch den keiner braucht.
+2022|12|20||12|08#
+vielleicht ist die vollständige überführung aller canvasinhalte in bewegliche container gar keine gute idee.
+
+2022|12|20||12|08#
+2022|12|20||12|07#
+irgendwie speicherts und lädts die shapes usw. aber es ist noch recht buggy. gerade bei letters und polylines. 
+
+ngons und der rest scheinen zu funktionieren. sicher bin ich natürlich nicht, wie auch, kann es ja kaum testen.
+
+2022|12|20||09|56#
+2022|12|20||09|55#
+zudem haben wir einige klassen und benutzersteuerelemente aus dem projekt entfernt, da diese keinen zweck mehr erfüllten.
+
+2022|12|20||09|54#
+gestern ngon gebastelt, die tage zuvor freehand drawing erneuert, klappt wieder und erzeugt schon shapes in container elementen, nur das laden der polylines und polygone habe ich noch nicht eingebaut. auch das mathelement klappt schon ganz gut mit rechnen, nur wird punkt vor strichrechnung noch nicht angewendet bei längeren formeln.
+
+2022|12|19||14|38#
+2022|12|19||14|38#
+2022|12|16||20|46#
+2022|12|16||20|46#
+2022|12|16||20|44#
+selection binding save und load geht, math element etwas weiter gemacht, dort auch schon die cbs entfernt, zindexer weiter optimiert, dice element optimiert, vermutlich das focus writing problem gelöst.
+
+insgesamt ein sehr frustrierender und sehr unschöner tag. aber zumindest schrumpfte die to do liste um wenige sachen.
+
+2022|12|16||08|52#
+2022|12|16||08|51#
+achja, seit gestern können tooltips an und aus geschaltet werden, zumindest für die container elemente und  das options element ist alles korrekt, den rest habe ich noch nicht geschafft. viele kleinere umbauten und fixes vollzogen.
+
+2022|12|16||08|50#
+gestern noch die aktuellste variante von ys ui als desktop starter eingestellt und eingerichtet. ersetzte eine version aus mitte november, da hatte ich den letzten tausch dieser art durchgeführt. nutze ys ui auf diese art seit mai 2022.
+
+2022|12|15||21|35#
+2022|12|15||21|35#
+2022|12|15||21|35#
+2022|12|15||21|35#
+text klasse gebaut, kleinere bugs und optische schwierigkeiten gefixt. cicbs gegen cbs getauscht fast überall bisher.
+
+2022|12|15||12|24#
+2022|12|14||12|27#
+2022|12|14||12|27#
+2022|12|14||12|26#
+ideen und gedanken zum projekt auf einem neuen Zettel niedergeschrieben(Der Plan aktuell), heute Nacht beim Träumen/im Halbschlaf noch eine Idee für bessere Tooltips gehabt, sowie die Idee, beim SelectionBinding auch das ImageElement aufrufen zu können.
+
+2022|12|13||15|49#
+2022|12|13||15|49#
+2022|12|13||15|49#
+2022|12|13||15|48#
+2022|12|13||15|48#
+michele meinte noch, auf win 8 gebe es noch ein problem, aber spezifischer wurde er diesbezüglich leider nicht, muss ich nochmal nachfragen, wie es sich zutrug oder ich setze eine virtuelle maschine mit win8 (und win 11, geht bestimmt nicht) auf, um ys ui auf drei systemen mit dem visual studio testen zu können.
+
+2022|12|13||15|25#
+2022|12|13||15|25#
+2022|12|13||15|24#
+bis gerade eben Justice League auf Deutsch zu Ende gesehen, hatte es ja schon vor einigen Monaten ein paar mal auf Englisch angeschaut. Weiß noch nicht, ob ich heute ne Pause einlege oder nur für ein paar Stunden mal Freizeit mache, also film schauen/zocken, um Kräfte zu sammeln. Andererseits hätte ich vieles, was ich relativ direkt erledigen könnte. find ich noch raus.
+
+2022|12|13||15|19#
+gestern hab ich nen apply brush button im color element eingebaut, die info etwas upgedated, background farben und image speicherung auf dem maincanvas realisiert, bissl Canvasentwicklung habe ich gestern oder die Tage zuvor gemacht. Textshapes können ebenfalls farblich bemalt werden und können sogar Bilder als Hintergrund haben. selection delete, alteration, reposition und recoloring funktionieren. das archiv hat neue sparten(selection, deleted; aber schon seit einiger Zeit), selection binding element habe ich begonnen umzubauen.
+
+heute früh hab ich mir beim arzt den krankenschein für letzte woche geholt und auch noch einen für diese woche  bekommen. nächste woche muss ich wieder in die schule, denke noch eine woche kann ich nicht begründen. zumindest muss ich so nur einmal eine Wochenkarte kaufen und geh nicht blank in die zweite Hälfte des Monats. Hab jetzt nur noch 60 Euro, 23 werden für das Ticket draufgehen. Habe noch kein einziges Weihnachtsgeschenk.
+
+2022|12|12||17|45#
+2022|12|12||17|45#
+2022|12|12||10|11#
+2022|12|11||23|59#
+2022|12|11||23|59#
+2022|12|11||23|56#
+feierabend. hole mir noch ein bier und geh nochmal in den park. legendär viel geschafft heute. fast alle contents können wieder geladen werden, ist an manchen stellen noch etwas wacklig, aber läuft soweit. color element ist sehr schick geworden, es fehlen noch die definierbaren buttons und ein apply button für farbanwendung auf selektierten elementen.
+shapes können wieder ohne rand dargestellt werden und auch geladen werden, wobei es vorhin  noch einen fehler bei letters und textshapes gab. färben von shapes geht noch nicht wieder.
+
+habe auch die info ergänzt um die neuen mauswheel features, ENTF, sowie um eine kurze Anleitung zur Benutzung des Farbelements.
+
+2022|12|11||13|31#
+2022|12|11||13|31#
+2022|12|11||01|27#
+2022|12|11||01|27#
+2022|12|11||01|27#
+2022|12|11||01|23#
+uff, übelst viel gemacht, wenn auch stellenweise nur schleppend voran gekommen. color feature neubau ist sehr gut voran geschritten, hab es leider nicht ganz fertig bekommen. es fehlt noch die custom color area und die möglichkeit werte in der config zu speichern per aktiviertem bind button und click. 
+
+was geht ist vierfachfarben auf elementen zu setzen, außer bei shapes und dem ys ui background geht es überall. bilder ebenso.
+
+unbedingt das handbuch/manual/info upgraden und um hinweise ergänzen, die zu den bildfeatures führen. mousewheel zum neu belegen, click aufs bild zum übertragen.
+
+was morgen auch zu tun ist, ist die speicherung der spezifischen contents zu beenden und das color element beenden.
+
+2022|12|10||22|40#
+2022|12|10||17|09#
+2022|12|10||12|39#
+2022|12|09||11|50#
+2022|12|09||11|50#
+2022|12|09||11|45#
+idee für den gezielten umbau des color features entwickelt.
+
+gestern fast alle optischen bugs gefixt, die im zuge des umbaus angefallen sind. nur das selection binding muss ich noch umbauen(will es als wahloption zwischen binding button und linkelement aufziehen, mit reset funktion), sowie die bilddarstellung bei den binding buttons verbessern, die dargestellten bilder sind noch zu dunkel. zudem geht es nun auf ein imageelement zu klicken und damit das bild auf alle selektierten elemente zu übertragen. wird noch nicht gespeichert, verändert aber schon die element border backgrounds der containerelemente. wir haben die dvibs umgebaut, das war langwieriger als nötig, weil ich zu früh die umbenennung vollzog, ohne mit strg r r direkter umzubenennen. trotzdem geschafft. 
+
+textboxes scheinen wieder zu funktionieren. 
+
+2022|12|07||11|51#
+2022|12|07||11|51#
+2022|12|07||11|51#
+
+weiter geht's.
+
+2022|12|06||20|44#
+2022|12|06||20|44#
+2022|12|06||20|32#
+2022|12|06||20|31#
+hab alles in die container elemente überführt, auch die shape container. klappt soweit. drag level und save kadenz können eingestellt werden. es gibt auch wieder einen resetbutton. habe die ersten issues an elementen gefixt, die durch den umbau entstanden sind.
+
+2022|12|06||17|30#
+2022|12|06||15|15#
+2022|12|06||15|14#
+irgendwie alles scheisse gerade.
+
+2022|12|06||15|06#
+2022|12|06||02|59#
+2022|12|06||02|59#
+2022|12|06||02|57#
+alle in containern außer der shape container. z exclusive issue gefixt. 
+---
+intensiv das klo geputzt, neuen gehäuselüfter im pc verbaut und die küche hab ich auch gesaugt.
+--
+krass im park mit 2 jollys, war sehr schön, aber einen harten krampf im linken fuß gehabt, der nach einer weile wieder verschwand, nachdem ich bissl bewegung und dehnung gemacht hatte.
+
+2022|12|05||02|15#
+2022|12|05||02|15#
+2022|12|05||02|12#
+also habe heute eine reihe von modulen in die neue logik überführt und zudem die lade- und speichergeschichte eingebaut für die container. was fehlt ist noch eine lösung für die einzelnen elemente, also alles was speziell ist. dies betrifft zum glück nur einen teil des gesamten elementbestandes. 
+habe in jede lademethode dazu geschrieben, was noch gespeichert und geladen werden muss. ca. 21 elemente müssen noch in die container eingebunden werden, dann lägen sämtliche move und äußere border verfärbungssachen bei den containern, während sämtliches inhaltliche in den jeweiligen usercontrol elementen bleibt.
+
+2022|12|03||23|46#
+2022|12|03||23|46#
+2022|12|03||23|45#
+info page ist jetzt hübsch und auch die textelemente sind besser in puncto optik und verhalten bei textgrößenänderungen. diese scheinen wieder zu funktionieren.
+
+2022|12|03||23|44#
+uff, viel und trotzdem nix geworden.
+
+neue container element macht es komplexer, der umbau ist umfangreich, aber ich denke es lohnt sich, dass weiter zu machen, gerade im hinblick auf die langfristige erweiterbarkeit ohne allzu großen aufwand. 
+
+2022|12|03||11|23#
+2022|12|02||21|24#
+2022|12|02||21|24#
+2022|12|02||21|24#
+das heutige versagen ist meins, meins ganz allein.
+
+2022|12|02||21|19#
+2022|12|02||21|19#
+2022|12|02||21|19#
+so sind wir dankbar für diesen tag. ich weiß es gibt keine guten, daher mehr von solchen. denn wenn ich einmal sterbe, dann weiß ich, das universum hatte es auf mich abgesehen. (nachtrag: 2022|12|28||12|31# bin aktuell ziemlich down wegen meiner lebenswegentscheidungen insgesamt. bin ich nur knülle oder tatsächlich ein kleinlicher, frustrierter mensch geworden und nix weiter? schade, ich hab meinen frieden verloren den ich mal hatte)
+
+2022|12|02||21|18#
+der heutige tag hatte nur einen zweck, nämlich zeitverschwendung, zeitvergeudung zu sein.
+
+2022|12|02||21|14#
+richtig sinnlos.
+
+heute ist rein gar nix geworden. lustlos wegen gestern. proggen kannste vergessen. sinnlose fehler, scheiße, nix gutes. textbox ohne möglichkeit text einzugeben...
+
+rendern, absturz bei moduswechsel billigstes modell ohne polygone großartig, neuste variante, neuste datei.
+vom ! normalen modus in die renderansicht innerhalb des viewports, DANACH vom fertigen bild rendern versucht in die bunte ansicht zu gelangen, wo nicht mal was gerendert wird. absturz. sinnlos. alles weg.
+
+fick dich universum, lass mich bitte auf immer in ruhe, denn außer mich zu nerven
+und im seinszwang zu halten machst du ja nix.
+
+2022|12|02||12|32#
+2022|12|01||22|25#
+2022|12|01||22|25#
+2022|12|01||22|24#
+weil meine wünsche nix zählen, muss ich wohl wunschlos unglücklich bleiben.
+2022|12|01||22|23#
+2022|12|01||22|22#
+3d raumschiff rendern nix geworden
+ys ui desktop starter auf aktuelle version ändern, nix geworden
+farbelement frisierung nix geworden
+spaß beim arbeiten haben, niente.
+
+2022|12|01||22|16#
+2022|12|01||22|16#
+2022|12|01||22|15#
+
+schmeiss die scheisse in den dreck ey, ich kotze ab, diese scheiß ys ui ist so ne zeitverschwendung, ich hab die faxen sowas von dicke, ich will alles einreißen und in den schlimmsten verwüstungsfeuern der verdammnisse verbrennen. so geht es mir gerade, und mir so im nachher lesen? hm? (hmmmm!!! ? :D 2022|12|13)
+2022|12|01||17|41#
+2022|12|01||17|41#
+2022|12|01||17|40#
+dvib textbox geht nicht beim matheelement, ansonsten ist das basic panel fertig in puncto dual values. mach ich nach dem neustart des studios mal den multiple und die all funktionalität.
+
+2022|12|01||14|10#
+2022|12|01||14|10#
+2022|12|01||14|09#
+problem gelöst, ein index fing tatsächlich im ladeprozess eine zeile zu spät an.
+
+2022|12|01||14|07#
+2022|11|30||20|46#
+2022|11|30||20|46#
+2022|11|30||20|45#
+es löscht von oben nach unten, also die oberste zeile verschwindet.
+
+2022|11|30||20|45#
+2022|11|30||20|45#
+2022|11|30||20|44#
+also es löscht zeilenweise bei jedem neustart, da wird wohl ein counter zu früh enden oder zu spät beginnen. geh jetzt bier trinken, morgen vllt. nochmal investigieren diesbezüglich.
+
+2022|11|30||20|43#
+2022|11|30||20|43#
+2022|11|30||20|42#
+doch jetzt beginnt es weniger zu werden, aber erst nach mehrfachem neustarten der ui, raff ich nich, hab vielleicht 5-10 mal neustarten müssen, ab da verschwindet der text.
+
+2022|11|30||20|41#
+2022|11|30||20|41#
+2022|11|30||20|41#
+seltsam, kann den fehler gerade nicht replizieren. strange.
+
+2022|11|30||20|38#
+2022|11|30||20|38#
+2022|11|30||20|37#
+textelement speichert text noch nicht richtig, zuerst verliert er die formatierung und nachher jeglichen inhalt. war bei einem inaktiven textelement, denke aber nicht, das der panel wert einen einfluss darauf hat, habe es jetzt aber nicht nachgeprüft im code.
+
+2022|11|30||20|17#
+2022|11|30||20|17#
+2022|11|30||20|16#
+rechtsklick dialog result box ersetzen mit einem choice element, das quit und shutdown button enthält, der shutdown button hat natürlich weiterhin die abfrage. was entfällt ist die abfrage zum quitten, diese wird durch die elementerzeugung am mausezeiger ersetzt. der klick auf quit schließt ys ui dann direkt.
+
+2022|11|30||20|16#
+2022|11|30||20|15#
+2022|11|30||20|15#
+2022|11|30||20|15#
+jedem element bei den element_borders die hintergründe geben, separate hintergründe für button_borders, für all jene, die da bock drauf haben, überall bildchen zu haben :)
+
+2022|11|30||20|14#
+2022|11|30||20|14#
+2022|11|30||20|09#
+auch heute, wie gestern eine programmierpause zur erholung der geistesgaben und körperkräfte. um viele sonstige notwendigkeiten gekümmert, morgen noch den krankenschein holen, dann können wir morgen das neue mathelement bauen und das colorfeature verbessern, z.b. indem wir 10 oder so cicbs voreinstellen und immer sichtbar patzieren und ein zusätzliches farbfeld mit kachelbaulogik erstellen oder mit buttonuwachsmethode für eine x-beliebige anzahl an individuell veränderbaren cicbs zur farbwahl. eine quer verlaufende canvasstructur am farbauswahlfeld und die schon bekannte längsstruktur bei den sliders, diese erhalten zur rechten noch textfelder für direkte farbwerteingabe(0..255|0..FF), sowie je ein feld für rgb und rgba, also den gesamten farbwert. im zuge dieser optimierungen vllt. auch noch alle farbsyntax ys ui weit konsolidieren, also eine color management klasse und die config um die farblogik erleichtern/bringen, da wäre das sauber getrennt und künftig leichter auszubauen.
+
+2022|11|30||20|03#
+prime gekündigt, gaming tastatur und maus, gehäuselüfter und eine mütze bestellt
+
+2022|11|30||18|37#
+2022|11|30||18|27#
+plan: habe netflix gekündigt, werde auch prime kündigen, schaffe dafür ein neues keyboard, eine neue maus, eine mütze und ggf. ein mauspad, sowie 2 gehäuselüfter an. einkauf heute war recht teuer, 75,57 €, dafür habe ich alles ersetzt, was aufgebraucht war oder demnächst alle werden wird.
+
+vielleicht reicht der kohlenhydratbestand schon aus, so dass ich nur noch soßenzeug und käse/fleisch holen müsste, um schmackhaftes essen zubereiten zu können, nudeln reichen für 10 tage, habe noch 1,65 kg Reis, ess ich zwar nicht allzu gerne, aber notfalls auch eine Lösung gegen die Kosten der Gierigen und Dummen.
+
+heute früh eine idee für matheelement entwickelt, siehe handy notizen. 
+
+2022|11|30||14|12#
+2022|11|30||14|12#
+2022|11|30||13|24#
+2022|11|30||13|23#
+monatliche zahlungen erledigt, internet,  netflix und prime gehen noch ab, oder soll ich prime und netflix mal kündigen für einen monat?
+
+2022|11|30||13|17#
+2022|11|29||00|20#
+2022|11|29||00|20#
+2022|11|29||00|16#
+uff, ganz schön viel geworden. edit und invoke cicbs bei notes und text, top und bottom panel schöner im defined drawing element gemacht, issue mit den werten gefixt, shape container element save and load geschafft, es hapert nur noch bei der erstellung der textshapes und einzelnen
+buchstaben an der schriftgröße, vermutlich auch der schriftart, habe am mathelement und am colorfeature element begonnen zu werkeln, sowie das geometry element weiter gemacht, info text upgedated.
+
+nix weiter gegessen außer 2 oliven, aber ne rote soße vorbereitet. mal wieder geduscht und frische klamotten an, jetzt gönne ich mir sehr wahrscheinlich noch ein bier und ne tüte im park, muss nur zum pauli vor gehen, da der nachtwurm schon geschlossen hat.
+
+meine Taste F10 an der Tastatur ist kaputt, fand ich im Zuge des Einbaus des Geometrieelementes heraus.
+
+2022|11|28||18|26#
+2022|11|28||18|26#
+2022|11|28||18|26#
+2022|11|28||17|12#
+2022|11|28||17|10#
+2022|11|28||11|37#
+2022|11|28||11|35#
+heute allem abgesagt, um an ys ui weiter machen zu können. habe die letzten tage ordentlich was erledigt, avplayer, alphabetelement, ideen kondensiert, z-issue gefixt, textshapes uvm. will weiter machen, ist denke ich lohnender als diese woche rtg, sowohl für mich, als vllt. auch für die informatik in puncto ui concept and design als Gesamtes.
+
+2022|11|25||22|12#
+2022|11|25||22|12#
+2022|11|25||22|11#
+richtig nice geworden, überall die expander panels, läuft.
+
+2022|11|25||10|59#
+2022|11|24||10|44#
+2022|11|24||10|44#
+2022|11|22||20|25#
+2022|11|22||20|25#
+2022|11|22||19|30#
+2022|11|22||19|30#
+2022|11|22||19|26#
+
+viel verschiedenes erledigt, drag and drop auf design elemente, außer links, dafür diesbezüglich einen kleinen erkenntnisgewinn bekommen. z-indexer mit right expander panel versehen, colorizable element für design structure erstellt, designelement mit optionspanel versehen, options panel um design element dimensionen erweitert, 
+
+falls ich heute noch was mache, dann ist es eine usercontrol für shapes zu erstellen, einfach in eine border zeichnen, diese in einem transparenten grid, whatever.
+
+heute morgen habe ich mich krank gemeldet, aber noch keine mail zum arzt geschrieben, das wurde heute nix, hatte ich zwar vor, aber keine lust und nicht geschafft zeitlich tagsüber.
+
+2022|11|22||13|08#
+2022|11|22||13|08#
+2022|11|22||12|52#
+2022|11|21||21|24#
+2022|11|21||21|24#
+2022|11|21||21|18#
+steter tropfen höhlt den stein. mit der integration des design elements weiter gemacht/fortgefahren, habe allen elementen die neuen konstruktoren und variablen verpasst, sowie den code zum anpassen des element starts, abhängig davon ob es als einzelnes element oder innerhalb des design elements erzeugt wird, verfügt es über mouse events zum bewegen und manipulieren oder eben auch nicht.
+
+habe mit der integration der panels begonnen. als erstes mache ich die rechten panels, diese sollen element eigenschaften wie z, rotation, position ändern. bei schriftgröße bin ich mir noch nicht sicher, vermutlich auch diese. bisher ist sie jedenfalls noch nicht dabei. ys element, dice element, defined drawing element und textelement haben die neuen expander schon. diese funktionieren auch schon wie geplant. 
+
+habe heute zudem spontan mein zimmer umgebaut. hab das bett unters horusauge und neben den quadratischen schrank gestellt, das bücherregal auf die andere seite des raumes, den sessel dahin wo das bücherregal stand, etwas aufgeräumpt, viel gesaugt.
+
+habe mich heute morgen krank gemeldet, da blockade beim verlassen wollen des hauses. morgen früh muss ich bestimmt nochmal zum arzt rennen deswegen, naja, so ists nunmal. jetzt esse ich noch was und dann geht es ab in die heia. den pc schalte ich jetzt aus.
+
+2022|11|21||13|29#
+2022|11|20||20|42#
+2022|11|20||20|42#
+2022|11|20||20|39#
+designelement läuft ok, gibt jetzt auch ein empty element das überwiegend transparent ist; canvas element wieder eingebaut, wenngleich noch viel zu tun ist, bis alles schnieke läuft, jedes element muss an die neue möglichkeit, in einem container eingebunden aufgerufen zu werden, angepasst werden, fürs zeichnen von shapes und usercontrols auf die canvas elemente und aufs mainwindow canvas muss ich einigen code umbauen, um im idealfall nur 1x auf eine logik zuzugreifen
+
+2022|11|20||12|26#
+2022|11|20||12|26#
+2022|11|20||12|26#
+ideenkondensat verfeinert und nochmal intensiver über das ganze projekt nachgedacht.
+
+
+2022|11|20||00|18#
+2022|11|20||00|18#
+2022|11|20||00|18#
+2022|11|20||00|17#
+legendär das design element und der ganze rest, krass wie das heute schon läuft.
+
+2022|11|19||18|29#
+2022|11|19||18|29#
+2022|11|19||18|27#
+okay, habe die würfelanimation gebaut, sowie eine wordzähler methode im internet recherchiert und eingebaut.
+
+das designelement funktioniert in den grundzügen, natürlich noch sehr unausgereift, aber fetzt schon gut. kann aktuell, wenngleich noch ohne auswahl, beliebig erweitert werden und das würfelelement, das linkelement und das textelement erzeugen.
+
+2022|11|19||12|37#
+2022|11|19||12|35#
+2022|11|19||12|35#
+2022|11|19||12|33#
+
+entschlacken am mittwoch hatte geklappt, aber nicht so wie ursprünglich gedacht bzw. geplant. habe sämtliche bewegungsmethoden in die jeweiligen usercontrols gepackt und damit allen utex code etc. sowie das meiste von setColorOn entfernen können. will noch usercontrols für die shapes bauen, mit unsichtbaren borders, da kriegen wir vielleicht die unifikation der codesegmente mal richtig hin.
+
+ansonsten heute diceelemnt upgraden um eine kleine animation, die den wurf simulieren soll, sowie mit dem design element beginnen.
+
+canvas element hab ich die idee, es entweder per 1,2,3,4 in puncto pinsel wahl, und oder per bottomPanel den freihandzeichenmodus realisieren zu lassen. elemente könnte man ins canvas zeichnen, wenn es ausgewählt ist, über ein drawingelement im mainwindow, da wäre es entschlackter.
+
+2022|11|19||12|29#
+2022|11|16||20|05#
+2022|11|16||15|25#
+2022|11|16||15|25#
+2022|11|16||08|28#
+2022|11|16||08|28#
+2022|11|16||08|27#
+ansonsten eine selectionarraylist, die dragselection und den brusheffect beim selektieren versuchen, so wie das dice element als erstes mit der basis usercontroll erzeugen.
+
+2022|11|16||08|26#
+
+will heute versuchen eine basis usercontrol zu bauen von der ich die gleichen codesachen vererbe, so dass die eigentlichen elemente und shapes weniger gleichen code haben. vielleicht kann canvas move und andere klicksachen auch darüber realisiert werden, da könnte die mainwindow entschlackt werden.
+
+2022|11|16||08|26#
+2022|11|15||21|54#
+2022|11|15||21|54#
+2022|11|15||21|49#
+
+also seit heute gibt es expandierbare ui teile, die ich bisher für einstell elemente
+verwende, zum beispiel beim notes element, dem text element und dem 
+defined drawing element. notes und text
+element sind nahezu gleich, können
+text speichern und laden und rudimentäre
+formatierungen speichern, sprich schriftart,
+schriftgröße. tabulatoren und enterzeichen.
+
+mit space kann ys ui nun minimiert werden.
+
+jetzt geh ich ins kolja und trink noch ein bier und ein schnaps(vllt. gibt es noch metaxa) auf nahezu leeren magen und auf
+zettel. hab kaum noch kohle diesen monat,
+echt hart mit den hohen preisen. fast alles
+von den lebensmitteln die ich mir bisher kaufte kostet mindestens doppelt soviel wie
+vorher. nudeln über 1€, soße über 1€, käse über 2,30€ etc. das läppert sich. habe mit parmesan jetzt die entdeckung gemacht, dass ich damit günstiger komme und auch leckere nudeln mit käse haben kann. win win in der krise somehow^^
+
+2022|11|15||21|49#
+2022|11|15||21|49#
+2022|11|15||12|40#
+2022|11|15||12|40#
+2022|11|15||12|39#
+heute nochmal krank gemeldet, war nicht beim arzt bisher, schreibe ich dem arzt ne mail? oder geht es am donnerstag noch? weil morgen ist ja feiertag.
+
+mal sehen wie weit wir heute mit ys ui kommen.
+
+2022|11|14||23|10#
+2022|11|14||23|10#
+2022|11|14||23|08#
+ne grobe history mit erstelldatum und zeit, sowie name und laufender nummer habe ich hinbekommen, sowie minimieren mit leertaste, brauche ein konzept für wichtige daten, wie speichern zur laufzeit, wie füllen beim/nach dem laden zur startzeit?
+
+wie interaktiv soll es werden? was kann ich schon? Seien wir mal ehrlich. Es ist XAML, es ist WPF, es ist C# und Microsoft. Es kann weder intuitiv sein noch werden, es kann auch nicht interaktiv sein oder werden. Zu viel fremd.
+
+2022|11|14||23|08#
+2022|11|14||19|47#
+2022|11|14||19|45#
+heute das erste mal mit ys ui im autostart den rechner hochgefahren/gestartet. heute in der schule waren microcontroller dran, recht interessant, falls ich mal bock haben sollte, irgendein technisches gerät/ irgendeinen technischen geräteprototypen zu bauen/basteln.
+
+vier joints bisher, vielleicht bleibt es heute mal unter 6.
+
+2022|11|13||18|17#
+2022|11|13||18|17#
+2022|11|13||18|16#
+erstmal Pause und was essen, vllt. schaffe ich dann noch, mit der LogFunktion anzufangen, falls ich Lust hab, baden wollte ich auch noch, Wäsche waschen? oder erst morgen?
+
+2022|11|13||18|15#
+textElement text speichern und laden geht, auch das setzen von fonteigenschaften.
+habe mit texteditorelement begonnen und es erstmal ganz grob vorbereitet.
+
+fileandfoldercreationelement entwickelt und eingepflegt.
+
+2022|11|12||12|54#
+2022|11|12||12|54#
+2022|11|12||12|51#
+heute Sessel und den Hocker/die Truhe vom Opa bekommen, sieht schick aus, Flur ist beräumt und jetzt gibt es deutlich mehr Platz, die dunklen Schränke sind weg. Die Tage gilt es noch eine Art Schuhregal zu bauen, dann passt es.
+
+
+YS UI hat jetzt wieder Linkfunktionalität dank LinkElement, LinkBindingElement und LinkArrayElement; zudem habe ich im SourceCode einige Regions eingebaut, so dass die Navigation etwas schneller und entspannender gehen sollte in Zukunft. Mal sehen, was heute wird. Habe mir grob vorgenommen das Z-O-Meter als Element zu integrieren und beim colorFeatureElement einen CICB einzubauen, um Farbwechsel auf den Buttons zu aktivieren, der uncheckAll button soll neben diesen neuen button wandern.
+
+2022|11|11||11|17#
+2022|11|11||11|17#
+2022|11|10||13|19#
+2022|11|10||13|19#
+2022|11|10||13|18#
+hab mich heute krank gemeldet, war nicht wirklich fit. mach jetzt bissl ys ui weiter und später bau ich noch den schrank im flur ab, muss mir noch was überlegen bezüglich router platzierung.
+
+2022|11|06||22|38#
+2022|11|06||22|38#
+2022|11|06||22|35#
+erledigt:
+-->canvas farbe speichern und einstellungen ob bild oder farbe zu sehen waren speichern und laden
+-->timer optik fix
+-->border thickness überall verwenden
+-->configdata entrümpelt und auf ys ui upgegraded
+-->colorFeature speichern, laden und ändern von farben repariert/ermöglicht
+-->z-o-meter hidestatus eingebaut
+
+
+
+2022|11|05||20|19#
+2022|11|05||20|18#
+2022|11|05||20|18#
+2022|11|05||20|18#
+gerade nochmal diese notizapp von vorne bis hierhin durchgelesen als refresher. 
+
+2022|11|05||19|59#
+2022|11|05||19|58#
+jetzt habe ich feierabend mit arbeit am pc und gehe mir spaghetti kochen und rotwein trinken, später noch in den park, der mond scheint so schön heute, vorhin schon gesehen. vielleicht ist es klar, wenn ich rausgehe in 1-2h.
+
+2022|11|05||19|51#
+also, geschafft habe ich heute wäsche waschen(waschmaschine  geht doch noch), einkaufen im netto,
+
+YSUI octagon einbauen beendet(gestern pentagon und hexagon eingebaut), ist noch deutlich zu groß, da muss ich später nochmal ran; etwas linksklick logik, größenänderung bei shapes korrigiert; z-index beim movement problem reduziert und kommentiert; festgestellt das ich den Code mal wieder entrümpeln und strukturieren müsste, um chilliger arbeiten zu können; triple intake button mit drei textboxes, oder nur drei textboxes für das defined drawing tool wäre glaube ich komfortabler; vielleicht morgen die pfadspeicherung bei freihandlinien probieren, da wäre save and load von gezeichnetem komplett; sowie z-o-meter mobil machen; canvas farbe speichern und einstellungen ob bild oder farbe zu sehen waren speichern und laden; notes text, title und datetime speichern;
+was machbar, schaffbar und gemütlich klappt, kannst du ja morgen probieren, bleibt ja noch riesig viel arbeit, das ganze programm ^^
+
+mail und telefonat mache ich morgen vormittag/mittag.
+
+2022|11|05||13|48#
+2022|11|05||09|53#
+2022|11|04||17|16#
+2022|11|04||17|16#
+2022|11|04||17|16#
+2022|11|04||17|14#
+vorgestern(mittwoch) pause von allem gemacht, gestern auch,war bei steve circa fünf stunden, nachher noch kolja. war ganz okay. schule ist grade recht langweilig mit englisch, versuche jetzte, nach intensivem chillen, noch bissl zu programmieren. morgen kümmere ich mich mal um das telefonat mit vati und um die mail für steffen, ansonsten einkaufen, vielleicht wäsche im waschsalon waschen, ansonsten proggen, zocken, lesen, raus gehen mir relativ gleich gerade eben.
+
+
+2022|11|04||17|14#
+2022|10|30||17|25#
+ys ui, hab jedem element eine eigene bool und einen eigenen point gegeben, shapes teilen sich je einen, außer die drag drawing shapes. 
+
+linksklick hab ich auch optimiert, mittlerer klick bewegt nur noch das element, ohne es außer während der bewegung zu verändern.
+
+heute drei punkte vom zettel abgearbeitet, nach epischer vorarbeit die letzten tage und wochen über.
+
+2022|10|30||15|18#
+2022|10|30||15|17#
+ys ui, ich kann jetzt alle farben und jede farbauswahl speichern und laden bei allen elementen und allen shapes.
+
+2022|10|30||13|23#
+2022|10|29||17|47#
+2022|10|29||17|47#
+2022|10|29||17|44#
+plan für ys ui nochmal konzentriert, ansonsten bisher einkaufen gewesen, hausarbeit gemacht, den empfang der möbel vorbereitet und schon einen Teil des Zimmers freigeräumt, aufgeräumt, umgeräumt, wasche gerade die zweite wäschefuhre, abwasch erledigt, müll geleert, glasmüll weggeschafft, hosen entsorgt und auch aus dem zimmer etwas müll, jetzt will ich mal schauen, ob ich noch bissl was vom plan für ys ui umgesetzt bekomme. 
+
+gestern abend bin ich von robert angerufen wurden und eilte daraufhin ins kolja, wo er gerade die neuen bilder aufhing. anschließend kam christian zu besuch und wir haben gequatscht und im anschluss mit tim, der geburtstag hatte, noch bissl gechillt. war ganz nice der abend, kam aber dadurch nicht dazu, am projekt weiter zu arbeiten.
+
+2022|10|27||22|17#
+2022|10|27||22|17#
+2022|10|27||22|16#
+speichern und laden von rechtecken und ellipsen, von deren größen, drehung und farben klappt.
+
+2022|10|27||19|06#
+2022|10|27||19|06#
+2022|10|27||19|05#
+für die notizapp vielleicht automatisch einen datumseintrag bei programmstart einbauen?
+
+2022|10|26||23|16#
+2022|10|26||23|16#
+2022|10|26||23|13#
+so, der franzi hab ich geschrieben, proggen wird jetzt nix mehr, da morgen wieder früh aufstehen angesagt ist, geh noch kurz in den späti und danach in den park auf ein bier, die nacht scheint klar und voller guter luft zu sein, danach geh ich pennen. bin gut müde. etwas schade, dass ich heute nicht weiter gekommen bin mit ys ui, aber ich hab die letzten tage und wochen riesige fortschritte erzielt, ich denke es ist verkraftbar. zudem habe ich mich bezüglich weiterentwicklung von healthmonitortool und farbspeicherung von shapes gekümmert. der rest kommt die tage.
+
+2022|10|26||22|34#
+2022|10|26||22|33#
+heute nach der schule zu nix weiter gekommen, jetzt gleich will ich der franzi schreiben wegen medfizinischen rechenformeln fürs health monitor tool, habe ne idee für das farbspeichern bei shapes, will eine klasse bauen, statt enums zu benutzen, die die drei-4 werte pro shape instanz verwaltet, bis die app geschlossen wird, um es kurz zuvor an die speicherklasse zu übergeben etc.
+
+2022|10|25||22|51#
+2022|10|25||22|51#
+2022|10|25||22|47#
+ein ätzender krampfkampf gegen die software liegt hinter mir, es war frustrierend, unbefriedigend, hass schürend und verachtung erweckend, so wie immer, wenn ich programmiere, warum auch immer das so sein muss, ich weiß es nicht.
+
+immerhin klappt speichern und laden von usercontrol elementen, deren farben und deren inhalten jetzt. 
+
+mit den shapes befasse ich mich in den kommenden tagen, ebenso wie mit der speicherung des hauptfensters und der fehlerbehebung bei der farbauswahl und speicherung etc.
+
+was an problemen heute auftauchte zudem war das verhalten der z-o-meter scrollbar beim verändern der hauptfenstergröße, sehr frustrierend, habe es nicht direkt gefixt bekommen, weder border, noch canvas drum herum halfen, auch margin nicht, content alignment und alignment ebenfalls ohne effekt, du siehst, mein lieber Stephan, es ist sinnlos. Auch das DLF-Plugin ist sinnlos, es schafft kaum 5 Minuten am Stück, Radio zu spielen. Auch die Lautstärke lässt sich gar nicht einstellen. Ein dummes Tool, dass bestimmt viel zu viel Geld gekostet hat, dafür das es Scheiße ist.
+
+2022|10|25||20|41#
+2022|10|25||20|41#
+2022|10|25||20|41#
+ich bin schon wieder so dreist. dümmste trivialitäten einbauen zu wollen, die seit jahrzehnten standard sein sollten, aber nein...
+
+2022|10|25||20|40#
+dumm wie immer wpf und c#, scheiß cascadebutton multipurpose buttons funzen gar nicht mehr, richtig sinnlos.
+
+2022|10|25||15|45#
+2022|10|25||15|12#
+2022|10|25||14|49#
+2022|10|25||14|49#
+update jetzt fertig, mal sehen wie weit ich heute komme.
+
+2022|10|25||14|40#
+2022|10|25||14|40#
+2022|10|25||14|40#
+heute mal das visual studio updaten lassen.
+
+2022|10|25||14|32#
+2022|10|24||19|27#
+2022|10|24||19|27#
+2022|10|24||19|26#
+
+laden und speichern von bindingbuttonarea element inhalten klappt.
+
+2022|10|24||17|03#
+2022|10|24||17|03#
+2022|10|24||17|02#
+
+weiß nicht, was ich davon halten soll, aber so hätte ich zumindest die chance, a den abschluss doch zu beenden und b, doch das geld für die prüfungen zu bekommen. zudem bin ich mit ys ui sehr gut voran gekommen in den letzten wochen, da gibt es nicht mehr wirklich grund zur eile, so wie es sich vor einigen wochen noch angefühlt hatte.
+
+2022|10|24||17|02#
+2022|10|24||17|01#
+
+kann wohl doch weiter die umschulung besuchen, hr. würzburg heute im jobcenter meinte, ich solle mich morgen mal bei der rtg melden bzw. hinfahren...
+
+2022|10|23||17|15#
+2022|10|23||17|15#
+2022|10|23||17|14#
+
+z-o-meter fertig integriert, sowie speichern und laden weiter programmiert, den z-index fehler gefunden und behoben, der alte wert wurde nicht gesetzt, ebenso nicht beim linksklick der last_z.
+
+2022|10|23||13|35#
+2022|10|23||10|02#
+2022|10|23||10|02#
+oh mann oh mann oh mann ist wpf dumm!!!!°
+
+2022|10|23||09|02#
+2022|10|23||09|01#
+gestern speichern des bindings für multipurposecanvasbuttons realisiert, sowie am z-o-meter weiter gearbeitet.
+
+2022|10|20||09|39#
+2022|10|20||09|39#
+2022|10|20||09|37#
+gestern großeinsatz vor der haustür auf der rudolf leonhard straße, irgendwer mit waffe und suizidabsichten, wurde auch getötet im zuge der ordnungswiederherstellungsmaßnahmen.
+
+hab gestern programmierpause gemacht und viel sudoku gespielt und gekifft. hab eine und eine weitere idee für ys ui entwickelt, sonst noch betriebssysteme kompakt etwas weiter gelesen.
+
+2022|10|18||12|42#
+2022|10|18||12|42#
+2022|10|18||12|30#
+2022|10|17||11|46#
+2022|10|17||11|46#
+2022|10|17||11|45#
+
+mal sehen wie weit ich  heute mit ys ui komme, ich will am speichern und laden weiter arbeiten und vielleicht das logging verfahren aus dem traum heute morgen versuchen umzusetzen. nach bisherigen überlegungen dazu müsste ich eine klasse machen, in der ich alles logge, sowie ein UIE usercontrol zum darstellen des klasseninhaltes nach drücken auf F11.
+
+2022|10|17||11|43#
+formular ausfüllung und absendung bzgl. jobcenter vorbereitet, kindle payments als pdfs erstellt, muss mich um das ausfüllen dieses krams im besten fall heute noch weiter kümmern, stichtag ist der 31.10.2022.
+
+2022|10|17||11|27#
+2022|10|16||21|29#
+2022|10|16||21|29#
+2022|10|16||13|36#
+2022|10|15||10|12#
+2022|10|15||10|12#
+2022|10|15||10|09#
+
+gestern die binding button area und die picture palette vorerst vollendet, mal sehen was ich heute schaffe, bin noch unsicher, wo ich anfange. ich hatte irgend einen traum dazu gehabt heut morgen, kurz vor sieben, bevor ich aufstand, der sich ums projekt drehte. leider nicht mehr ganz präsent. 
+
+hab mit kaffee und joint auf dem balkon den tag begonnen, anschließend mit tee etwas dehnung, yoga, tai chi? halt den empfindungen folgend bewegungen, dehnungen, drehungen usw. erledigt.
+
+2022|10|14||13|52#
+2022|10|14||13|52#
+2022|10|14||13|51#
+
+achso ja, hab nen code für halbkreise im internet nach recherche gefunden und eingepflegt, musste bissl rumprobieren, bis es ein halbkreis war. klappt aber noch nicht wirklich top optimal.
+
+2022|10|14||13|50#
+mal sehen wie weit ich heute komme, viel zeit bleibt nicht mehr, aber ok, hab ja die letzten tage viel zeit investiert ins projekt. picturepalette geht schon sehr gut, mache heute die binding area soweit es geht, und vllt. am wochenende schon mit der speicherfunktion los, ein paar ideen dazu habe ich auch schon.
+
+2022|10|12||14|07#
+2022|10|12||14|07#
+2022|10|12||14|07#
+
+cool in der küche en nices video gesehen, krasse visual art mit 3d usw., paar stunden gechillt, nen plan für heute gemacht bzgl. yrs.
+
+2022|10|10||22|43#
+2022|10|10||22|43#
+2022|10|10||22|43#
+2022|10|10||18|31#
+2022|10|10||18|31#
+2022|10|10||15|44#
+2022|10|10||15|44#
+2022|10|10||15|40#
+yrs geht gut voran, habe die weiteren planungsschritte und offenen ideen auf zwei neuen schriften kondensiert.
+
+gestern habe ich das mathElement und die arithmetic unit begonnen und fertig gestellt, sowie einige tooltips für die module erstellt, kleinere bugfixes.
+
+gestern abend schön im park, mit vollmond, ich stand an der eiche, zwischen den zwei bänken richtung hauseingang, dort schien der mond auf mich und machte einen dunklen, kleineren schatten, während die straßenlaterne einen größeren schatten erzeugte, der bläulich im mondschein erschien, das licht der lampe schien hingegen kaum gereicht zu haben, den kleinen schatten zu überblenden.
+
+viele stunden zuvor war ich auch im park, da kuckte ich mir den mond durch das astwerk neben der kirche an, so zwischen 5-6 uhr früh, er wirkte wie ein kristalllicht ganz  nah, hinter dem baum schwebend, auch orion sah ich ganz klar, aber in anderer richtung als der mond, richtung bischofsplatz. nach dem parkgang kiffte ich viele stunden lang in der küche, bis ich mit yrs weiter machte.
+
+2022|10|08||10|58#
+2022|10|08||10|58#
+2022|10|06||13|11#
+2022|10|06||13|11#
+2022|10|05||19|50#
+2022|10|05||19|50#
+2022|10|05||18|39#
+2022|10|05||18|39#
+2022|10|05||15|11#
+2022|10|05||15|11#
+2022|10|05||15|10#
+es macht einfach keinen spaß, scheisse zu entwickeln die niemand braucht oder will, daher einstellen von sinnlosprojekten eben beschlossen.
+
+2022|10|05||13|38#
+2022|10|05||13|38#
+2022|10|05||13|37#
+yrs geht ganz gut voran, aber c# und wpf bereiten noch immer probleme dann und wann at least.
+
+2022|09|26||13|07#
+2022|09|26||13|07#
+2022|09|26||13|07#
+
+v_1_1_14 geht fast komplett.
+
+2022|09|20||09|29#
+2022|09|20||09|29#
+2022|09|17||16|13#
+2022|09|17||16|13#
+2022|09|17||11|59#
+2022|09|17||11|59#
+2022|09|17||11|58#
+2022|09|17||11|58#
+
+song:
+
+hookline_
+    abeer hallo, die bugs im system -_     
+    sie weiter besteh'n.
+
+2022|09|16||20|15#
+2022|09|16||20|15#
+
+2022|09|16||20|15#
+
+version v1_1_14 ist schon ganz gut
+
+2022|09|16||15|11#
+2022|09|16||15|11#
+2022|09|16||15|11#
+
+gott hallo
+
+2022|09|16||15|11#
+2022|09|16||15|11#
+2022|09|16||15|11#
+2022|09|16||15|11#
+2022|09|15||21|38#
+2022|09|15||21|38#
+2022|09|15||21|37#
+2022|09|15||21|10#
+2022|09|15||21|09#
+YRS zieht sich weiter hin, leider spinnt die Oberfläche noch gehörig.
+
+2022|09|15||21|08#
+heute früher aus der Schule abgehauen, später hingegangen, da beim Arzt noch den Krankenschein für die letzten beiden Tage geholt. Geh gleich in die Kneipe,
+
+gab heute ein Leberkäsbrötchen mit Ketchup und Senf und ein Schnitzelbrötchen
+mit Ketchup und Senf, hab auch der Fleischerin den Tipp mit dem panierten
+Leberkäsbrötchen gegeben.
+
+war auch recht durch von den letzten Tagen
+
+Oldworld angezockt, Babylon, war ganz nice soweit.
+
+2022|09|13||11|50#
+2022|09|13||11|50#
+2022|09|13||11|41#
+2022|09|13||00|32#
+2022|09|13||00|32#
+2022|09|13||00|29#
+
+fett. projekt yrs richtig gut weiter gekommen, neue UIE-elements entwickelt, diese teilw. integriert, ein menuElement mit den Buttons, was auf einem Canvas verschiebbar ist entwickelt, viele Bilder mit dem Scetchboard gemacht, war gut, auch reichlich gekifft und kaffee getrunken, viel an gott gedacht, danke gott, jetzt noch einer gebaut, bissl radio und sudoku gehört und dann ab ins bett. morgen geh ich wieder in die schule, auch wenn ich vielleicht verschlafen könnte. wegen der versionen für michele mache ich mir keine großen sorgen, denn ich habe circa drei etwas verschiedene im sinn, die unterschiedlich ausgereifte funktionalitätsgrate haben.
+
+2022|09|12||17|53#
+2022|09|12||11|33#
+
+yearh.
+scetchboard/canvasTest laufen ganz gut an, immer bessere Fortschritte, leider dafür heute die Schule  geschwänzt.
+
+was solls,...
+
+beim scetchboard noch einen Sanduhrbutton mit einer Sanduhrzeichenfunktion einbauen
+
+2022|09|04||17|52#
+2022|09|04||17|52#
+2022|09|02||19|28#
+2022|09|02||19|28#
+
+yearh.
+2022|09|02||19|28#
+
+2022|09|02||19|28#
+2022|09|01||20|19#
+2022|09|01||20|19#
+2022|09|01||19|55#
+2022|09|01||19|54#
+2022|09|01||19|54#
+2022|08|19||17|33#
+2022|08|19||17|33#
+2022|08|19||12|02#
+2022|08|19||12|02#
+2022|08|19||07|38#
+2022|08|18||20|34#
+(nachtrag: 2022|12|28||12|08# der Besuch bei Ingo war schön gewesen. Sie hatte von den Gaben ein deftiges Brotzeitmahl zubereitet. Wir haben uns unterhalten, ich habe mir Fotos angesehen die sie mit ERzählung gezeigt hat, sie schenkte mir eine ungarische Knoblauchcremé die sehr intensiv war, wir kifften ein bisschen. Es gab Wein, Kaffee und Tee.)
+2022|08|18||20|34#
+2022|08|18||13|48#
+2022|08|18||13|48#
+
+mass effect gezockt, jetzt mach ich mich auf den weg wenige kleinigkeiten für ingo einzukaufen, anschließend tabak und longs für mich und dann geht es auf zum Besuch.
+
+2022|08|18||08|51#
+2022|08|18||08|51#
+2022|08|18||08|48#
+yourstartup menubuttons endlich rund, aber es gibt noch einen bug bzgl. rename und/oder reset, da löscht es die pfade oder die button contents. ob die dynamischen buttons auch mit der methode abgerundet werden können, wird sich später zeigen müssen, ich mach erstmal pause und zocke und kiffe etwas. heute 14 uhr geh ich zu ingo r. und besuche die alte dame mal wieder, das gab es jetzt einige jahre lang gar nicht.
+
+2022|08|18||07|14#
+2022|08|17||14|42#
+2022|08|17||14|42#
+
+mass effect andromeda gezockt, nupro7 fertig gemacht, 2.Edit von Gal weiter bearbeitet, Sudoku Bronze geholt und mit Silber los gemacht, sowie Tageschallenge von Heute, Eis gegessen, Kaffee getrunken, jetzt fahre ich erstmal zu Mutti in die Wohnung, um dort die Blumen zu gießen etc., zuvor kurz duschen. vielleicht nach dem Besuch bei mutti kurz bei Oma vorbei fahren.
+
+2022|08|17||08|24#
+2022|08|15||22|42#
+2022|08|15||22|42#
+2022|08|15||22|40#
+
+2.Edit Gal, Formatierung auf das Kyal Sur Edit3 Format bis einschließlich Seite 192 gemacht. Einige wenige Stellen angepasst oder von Fehlern bereinigt. Text überwiegend unverändert.
+
+2022|08|15||21|20#
+
+n(o)ice
+
+2022|08|15||19|08#
+2022|08|14||18|30#
+2022|08|14||18|30#
+2022|08|14||17|31#
+2022|08|14||17|31#
+2022|08|14||17|31 
+# Heute testen wir uns etwas näher an die Notizenfunktion heran. Sie scheint noch sehr träge zu sein, aber vielleicht kann ich nur nicht schneller tippen...
+
+2022|08|14||11|54#
+
+wir jagen einen bug im yrs der die button texte um einen wert verschiebt, die tooltips und die pfade stimmen überein.
+
+2022|08|14||11|32#
+2022|08|14||11|32#
+2022|08|14||08|08#
+2022|08|14||07|48#
+
+eine fast vollkommen sinnlose richtig beschissene woche neigt sich dem ende entgegen, endlich. sehr frustreich, es hat wenig geklappt, ich kotze darüber nur ab.
+
+2022|08|07||14|55#
+2022|08|07||14|55#
+2022|08|06||23|00#
+2022|08|06||23|00#
+2022|08|06||22|59#
+viel geschafft die letzten zwei tage, das ganze yrs projekt aufgebügelt und das xaml zeugs strukturiert, klappt fast so gut wie vorher, manche stellen besser als zuvor, will den pc ausmachen, da der schon zu lange lief, ohne das ich an ihn zurück ging, schade, aber ok, die pause tat auch gut.
+
+2022|08|06||09|30#
+2022|08|03||19|52#
+2022|08|03||19|52#
+2022|08|03||18|49#
+2022|08|03||18|46#
+
+heute schon ganz schön viel gemacht, erster Ferientag. Pflanzen auf den Balkon gestellt, abgesprüht mit Wasser, wo etwas Lavendel mit drin war, gegen die Spinnenmilben oder was das für Viecher sind, die gerade eigentlich alle Pflanzen meines Hausstandes befallen haben. Abgewaschen, leckeres Nudelgericht mit Zwiebeln gemacht, also erst Braten, dann die noch nicht ganz fertig gekochten Nudeln rein, wenn Zwiebeln angebraten/durchgebraten sind(gusto), dann Nudeln und etwas Nudelwasser drauf geben, Tomatensoße ran, für Soße etwas nachwürzen, servieren. Dürfte etwas mehr Stärke in den Nudeln sein, dadurch. Gekehrt, gesaugt, bissl aufgeräumt, Dokument(e ) zurück sortiert, da gestern gebraucht. Bissl c++ gelernt, bissl gezockt, bissl serie geschaut, geraucht, kaffee, tee, müslifrühstück, musik gehört.
+
+2022|07|31||23|03#
+2022|07|31||23|03#
+2022|07|31||14|08#
+2022|07|31||09|31#
+2022|07|31||00|14#
+2022|07|31||00|14#
+
+cooler samstag, von fast allem etwas gemacht, und mal wieder in #def reingelesen, die ersten seiten. viel auf dem balkon gewesen und fast den ganzen tag die wohnung durchgelüftet mit durchzug und auch mal ohne. viel geroocht.
+
+2022|07|30||06|52#
+2022|07|30||06|50#
+
+fast geschafft, praktikum nur noch 2 tage, dienstag zudem Termin beim Obergerichtsvollzieher Schmidt zur Abgabe der Eidesstattlichen, dann Ferien. Plugin leider ohne die gewünschten Funktionen, da zuviel Zeit für Quelltextpolierung draufgehen musste, egal, ich hab ja die nächsten Monate damit keine Arbeit.
+
+2022|07|24||22|38#
+2022|07|24||22|38#
+2022|07|24||22|37#
+
+schick, yrs weiter gemacht, ein paar bugs gelöst, robert war zu besuch, gabs bier, leider dadurch nicht weiter gekommen, bissl was wäre vielleicht noch gegangen, aber immerhin noch wäsche gewaschen und nen schönen spätnachmittag gehabt
+
+2022|07|24||09|28#
+2022|07|24||09|28#
+2022|07|23||22|22#
+2022|07|23||22|22#
+2022|07|23||22|20#
+
+im praktikum sind wir fast fertig mit dem praktikum, sieben tage lang muss ich noch dahin, dann sind ferien. das plugin ist super voran gekommen, wenn es auch weit davon entfernt ist fertig zu sein. inzwischen kann ich jeden von PlaNet Scripten erzeugten Layer, der mir interessant schien, mit Grafikbildsymbolen und Layern darstellen. Ich kann die Grafiken skalieren, bewegen, gruppieren, umfärben, löschen und per path-Methode neue zeichnen. Die Quelldatei ist über 4000 Zeilen lang.
+
+2022|07|23||22|11#
+
+geh gleich in den park noch ein bierchen trinken, heute gemütlich, müsli, joghurt, eis, essen, abwasch, serie geschaut, spellforce gezockt, bissl recherchiert für micheles programmwünsche, bissl rumprobiert, wo es beim yrs noch hakt. wollte eigentlich c++ weitermachen und im anschluss proggen, aber ein tag ruhe davon war die letzten beiden wochenenden auch recht schick. 
+
+morgen eine win8 version vom yrs erzeugen, damit michele das nutzen kann. 
+
+2022|07|23||20|50#
+2022|07|23||17|06#
+2022|07|17||21|55#
+2022|07|17||21|55#
+
+sobald wir weiter machen oder um weiter zu machen vielleicht einen issue tracker bauen, bzw. nutzen, irgendeine auflistung von problemen, geplantem etc. siehe auch feedback mail usw. 
+
+ups, vergessen für michele die verwendeten bibliotheken runterzuschrauben, sonst klappt es nicht auf windows 8.
+
+2022|07|17||21|53#
+2022|07|17||21|53#
+2022|07|17||21|51#
+
+kleine Fortschritte beim Smartphone per C# anzeigen lassen gemacht. 
+
+ansonsten auch dieses wochenende kaum programmiert, c++ angefangen, ansonsten gerade eben vielleicht ne halbe stunde oder stunde damit befasst. da muss sich michele noch etwas gedulden. bald ist das praktikum vorbei, da hab ich mehr zeit. will auch im endspurt nichts mehr verhunzen.
+
+2022|07|17||12|09#
+
+läuft.-
+2022|07|16||23|48#
+2022|07|16||23|48#
+..
+.
+-
+
+2022|07|16||11|51#
+2022|07|11||08|46#
+2022|07|11||08|46#
+2022|07|11||08|45#
+
+bin voll unentschlossen, ob ich krank mache und mich erhole, oder ins praktikum gehe. letzteres ist nicht wirklich allzu anstrengend, nur nicht so schön wie zu hause... fühl mich nicht voll überzeugt davon, fit zu sein. kreatives ausredensuchen oder wirkliche unbill?k
+
+2022|07|11||08|24#
+2022|07|11||07|51#
+2022|07|11||07|21#
+2022|07|11||07|20#
+2022|07|11||07|20#
+
+harter Tag in den Start
+harter Start in den Tag (2x Aeterna, weeste beschejd.)
+
+2022|07|10||19|01#
+2022|07|10||19|01#
+
+yearh.
+
+2022|07|07||22|13#
+2022|07|07||22|10#
+2022|07|07||22|10#
+2022|07|07||22|10#
+2022|07|07||22|10#
+
+was ist nun wegen meines halses, soll ich zum hno gehen oder nicht?
+
+2022|07|03||22|35#
+2022|07|03||22|35#
+2022|07|03||22|35#
+
+richtig cool voran gekommen dieses wochenende mit dem your start up programm. und auch yearh und synergethik kamen denke ich auf ihre kosten.
+
+2022|07|03||15|58#
+2022|07|02||22|45#
+2022|07|02||22|45#
+
+yearh ^ yearh 
+
+2022|07|02||12|16#
+2022|06|29||20|29#
+2022|06|29||20|29#
+2022|06|29||20|29#
+2022|06|29||15|06#
+2022|06|29||15|05#
+2022|06|29||15|05# yearh
+2022|06|29||15|05#yearh
+2022|06|29||15|05# yearh
+2022|06|29||14|45#
+2022|06|29||14|45#
+2022|06|29||14|45#
+2022|06|28||17|46#
+2022|06|28||17|46#
+
+2022|06|28||17|44#
+
+heute beim arzt gewesen, solar plexus widerstand ist offenbar knorpel, alles cool, aber gut, einfach gecheckt zu haben, hals weiter ungelöst, habe überweisung für hno arzt erhalten, sowie ein rezept für ein mittel gegen zu viel magensäureproduktion, wenn dies die ursache ist, müsste der magen gespiegelt werden... ansonsten einen termin zum blut abnehmen mitte august, um diesen allgemeinen vorsorgecheck zu machen und um die schilddrüsenwerte zu ermitteln.
+
+2022|06|27||08|54#
+2022|06|26||23|08#
+2022|06|26||23|08#
+
+schick, gut abgehustet bisher, essen fast fertig, abwasch erledigt fast(2 durchgänge bisher), wäsche gewaschen und aufgehangen, 
+
+2022|06|26||11|22#
+2022|06|26||11|21#
+
+ein neuer tag begann verleiert/verballert, jetzt geht es langsam wieder.
+
+2022|06|25||22|57#
+2022|06|25||22|57#
+
+fertsch für heute, viel geschafft. 
+
+2022|06|25||16|52#
+2022|06|25||16|51#
+
+bin doch nicht in den Garten gegangen, war wütend wegen eines Bafög-Schreibens, es war zu warm, ich habe den Bus verpasst, die Fersen waren wund, ich hatte eh keine richtige Lust, glaube ich, etc.
+
+2022|06|25||14|26#
+2022|06|25||14|26#
+
+auf in den Garten zum Grillen
+
+2022|06|25||09|08#
+2022|06|25||09|07#
+2022|06|25||09|07#
+
+2022|06|24||20|45#
+2022|06|24||20|45#
+2022|06|24||20|44#
+
+a new word onnthe pult project
+
+2022|06|24||08|13#
+2022|06|24||08|13#
+
+2022|06|23||08|57#
+2022|06|23||08|57#
+
+a new day, gestern die kissenrolle und das gelbe hauskissen ins zimmer geschafft.
+
+2022|06|22||08|00#
+2022|06|20||09|00#
+2022|06|20||09|00#
+
+a new day, a new week, yourstartup funktioniert mit allen hauptfunktionen wie geplant.
+
+2022|06|20||08|15#
+2022|06|20||00|33#
+2022|06|20||00|33#
+
+na nicer tag gewesen, ging gut voran, th.x;
+colorpicker und yourstartup gut voran gebracht.
+
+2022|06|20||00|33#
+2022|06|18||23|51#
+2022|06|18||23|43#
+2022|06|18||09|23#
+2022|06|18||08|28#
+2022|06|17||08|53#
+2022|06|17||08|53#
+
+gestern war super, krasser gegensatz zu mittwoch. gut was geschafft, dass plugin nimmt formen an und kann schon rechtecke und kreise zeichnen :)
+
+
+2022|06|16||08|43#
+2022|06|16||08|43#
+
+zum Glück Gestern geschafft, war ein von Wut und Zorn und als solchem empfundenem Unglück geprägter Tag gewesen. Aber dennoch ganz gut durch die Probleme hindurch gekommen.
+
+Gerade eben noch abgewaschen. Tat auch mal wieder Not.
+
+2022|06|15||09|05#
+2022|06|15||09|05#
+
+really, life? really?
+
+2022|06|14||07|27#
+2022|06|14||07|27#
+
+a new day is finally here.
+
+2022|06|13||08|30#
+2022|06|12||21|50#
+2022|06|12||11|26#
+2022|06|12||11|26#
+
+
+
+2022|06|12||11|26#
+
+a new day is finally here.
+
+2022|06|11||21|19#
+2022|06|11||20|52#
+2022|06|11||20|03#
+2022|06|11||20|03#
+
+gleich gibts futter
+
+settings window ist gebastelt.
+2022|06|11||14|18#
+2022|06|11||14|18#
+also programmstarter bis eben(heute morgen begonnen) auf wpf geportet,
+als nächstes müssen wir ein separates settings window basteln, um schriftfarbe, art, größe, hintergrundfarbe etc. einstellen zu können, dies muss im anschluß noch gespeichert werden
+
+2022|06|11||13|35#
+gib alles
+2022|06|11||13|35#
+
+2022|06|09||22|45#
+nachbesserungen am tool, jetzt klappen mehrere anzeigen und die reaktion der Sliderelemente besser als zuvor
+
+2022|06|09||22|26#
+bis eben am ColorPickerTool gearbeitet (C# mit WPF), daher kein UE5, das Tool klappt rudimentär, Farben können gewählt werden, aber noch sehr unausgereift v.a. in der Reaktion der Sliderelemente und den Labelausgaben
+
+2022|06|09||19|14#
+
+
+2022|06|09||19|13#
+vielleicht setze ich mich noch ein bisschen mit der unreal engine und dem neuen Buch auseinander(ein Handbuch zum Entwickeln unter Unreal Engine 4, mit Hinblick auf den Release von UE5 und C++ Lehranteil).
+
+2022|06|09||16|40#
+krasser Tag bisher, auch wenn noch nicht viel geworden ist
+
+2022|06|09||16|20#
+bis 1337 Uhr habsch drei Blätter mit 
+TP
+E
+A
+C
+HE
+bemalt und jedem Buchstaben einen farbigen Schatten verpasst.
+
+2022|06|09||09|00#
+gerade noch rechtzeitig bei MRK krank gemeldet.
+
+2022|06|09||08|47#
+vielleicht perspektivisch zurück zu kabel, auch wenn es vodafone gehört? 
+oder alles lassen wie es ist?
+internet mal wieder unbrauchbar, vodafone ist echt kein guter anbieter.
+
+2022|06|06||21|57#
+2022|06|06||21|54#
+Programmstarter läuft deutlich besser als heute morgen. Kann jetzt Dateien und Links öffnen,
+kann Texteingaben entgegen nehmen, Button resetten, neue Buttons dynamisch erzeugen, löschen,
+den Buttons attributierte Infos werden in einer kleinen Datei gespeichert. 
+
+Insgesamt schon sehr schick für sehr einfache Funktionen und wenige Stunden Arbeit insgesamt
+seit Projektbeginn.
+2022|06|06||16|25#
+2022|06|06||12|41#
+2022|06|06||12|41#
+2022|06|06||12|41#
+
+2022|06|06||12|39#Kabuff, Voridee_Küche
+Metalloberfläche per tiles realisieren, also ein array oder so wo kleine bilder, die wie beim rendern randlos sind, nahtlos aneinander gereiht werden, als farbwert in einer brushklasse.
+
+so als technique für hintergrundbilderzeugung per textur
+
+
+2022|06|06||09|48#
+
+Ansonsten könnten wir entweder weiter programmieren am Programmstarter, da wollte ich glaub ich was testen(nur was? 2022|06|06||18|42#Kabuff), alternativ Blendern oder Zocken.
+
+2022|06|06||09|47#
+Test
+

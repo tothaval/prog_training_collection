@@ -1,0 +1,26 @@
+﻿@model AspNetTraining2.Models.Item
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var message = "Hello, World.";
+    var items = new List<string> { "Item1", "Item2", "Item3" };
+    var isLoggedIn = false;
+}
+<p>This is the name of the item @Model.Name.</p>
+<p>The id is @Model.Id.</p>
+
+<p>@message</p>
+<ul>@foreach (var entry in items)
+    {
+        <li>@entry</li>
+    }</ul>
+
+@if(isLoggedIn)
+{
+    <p>Welcome Back!</p>
+}
+else
+{
+    <p>Please log in.</p>
+}
